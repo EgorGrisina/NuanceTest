@@ -1,12 +1,14 @@
 package com.nuance.speechkitsample;
 
+import android.content.res.AssetManager;
 import android.os.Bundle;
+import android.os.Environment;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.nuance.speechkit.DetectionType;
 import com.nuance.speechkit.Interpretation;
 import com.nuance.speechkit.Language;
 import com.nuance.speechkit.Session;
@@ -15,6 +17,16 @@ import com.nuance.speechkit.TransactionException;
 
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * This Activity is built to demonstrate how to perform NLU (Natural Language Understanding) with
@@ -35,6 +47,8 @@ import org.json.JSONObject;
  */
 public class TextNLUActivity extends DetailActivity implements View.OnClickListener {
 
+    final static String TAG = TextNLUActivity.class.getSimpleName();
+
     private EditText textInput;
     private EditText nluContextTag;
     private EditText language;
@@ -46,6 +60,13 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
 
     private Session speechSession;
     private State state = State.IDLE;
+
+    List<String> inputPhrases;
+    List<String> testResults;
+    int currentPosition = 0;
+
+    final String DIR_SD  = "NuanceTesting";
+    final String FILENAME_SD  = "NuanceTestResults.txt";
 
 
     @Override
@@ -68,15 +89,89 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
         //Create a session
         speechSession = Session.Factory.session(this, Configuration.SERVER_URI, Configuration.APP_KEY);
 
+        AssetManager am = this.getAssets();
+        InputStream is = null;
+        try {
+            is = am.open("inputPhrases");
+
+            inputPhrases = readStringList(is);
+            testResults = new ArrayList<>();
+            is.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
         setState(State.IDLE);
+    }
+
+    private List<String> readStringList(InputStream is) {
+
+        BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+
+        List<String> results = new ArrayList<>();
+
+        String line = null;
+        try {
+            while ((line = reader.readLine()) != null) {
+                results.add(line);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return results;
+    }
+
+    void writeFileSD(List<String> results) {
+        if (results == null) {
+            return;
+        }
+
+        if (!Environment.getExternalStorageState().equals(
+                Environment.MEDIA_MOUNTED)) {
+            Log.d(TAG, "SD-????? ?? ????????: " + Environment.getExternalStorageState());
+            return;
+        }
+
+        File sdPath = Environment.getExternalStorageDirectory();
+        sdPath = new File(sdPath.getAbsolutePath() + "/" + DIR_SD);
+        sdPath.mkdirs();
+
+        File sdFile = new File(sdPath, FILENAME_SD);
+        try {
+
+            BufferedWriter bw = new BufferedWriter(new FileWriter(sdFile));
+            for (String string : results ) {
+                bw.write(string+"\n");
+            }
+            bw.close();
+            Log.d(TAG, "???? ??????? ?? SD: " + sdFile.getAbsolutePath());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override
     public void onClick(View v) {
         if (v == clearLogs) {
+
             logs.setText("");
+
         } else if(v == toggleReco) {
-            toggleReco();
+
+            if (inputPhrases != null &&
+                    currentPosition < inputPhrases.size()) {
+
+                toggleReco();
+
+            } else {
+
+                logs.append("END_TEST\n");
+                if (inputPhrases!=null & testResults!=null) {
+                    writeFileSD(testResults);
+                    currentPosition = 0;
+                }
+
+            }
         }
     }
 
@@ -96,7 +191,10 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
      * Send user's text query to the server
      */
     private void recognize() {
-        if (textInput.getText().length() > 0) {
+
+        String input = inputPhrases.get(currentPosition);
+
+        if (input.length() > 0) {
             //Setup our Reco transaction options.
             Transaction.Options options = new Transaction.Options();
             options.setLanguage(new Language(language.getText().toString()));
@@ -104,7 +202,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
             //Add properties to appServerData for use with custom service. Leave empty for use with NLU.
             JSONObject appServerData = new JSONObject();
             try {
-                appServerData.put("message", textInput.getText().toString());
+                appServerData.put("message", input);
 
                 speechSession.transactionWithService(nluContextTag.getText().toString(), appServerData, options, recoListener);
 
@@ -144,6 +242,8 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
 
             //Notification of a successful transaction. Nothing to do here.
             setState(State.IDLE);
+            currentPosition++;
+            toggleReco.performClick();
         }
 
         @Override

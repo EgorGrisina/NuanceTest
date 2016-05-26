@@ -2,10 +2,33 @@ package com.nuance.speechkitsample.response;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import org.json.JSONObject;
+
+import java.util.Map;
+
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class NLUresponse {
 
-    public Action action;
+    protected String literal;
+
+    public String getLiteral() {
+        return literal;
+    }
+
+    public void setLiteral(String literal) {
+        this.literal = literal;
+    }
+
+    protected Action action;
+    protected Map<String, Object> concepts;
+
+    public Map<String, Object> getConcepts() {
+        return concepts;
+    }
+
+    public void setConcepts(Map<String, Object> concepts) {
+        this.concepts = concepts;
+    }
 
     public Action getAction() {
         return action;
@@ -18,7 +41,7 @@ public class NLUresponse {
     @JsonIgnoreProperties(ignoreUnknown = true)
     public static class Action {
 
-        public Intent intent;
+        protected Intent intent;
 
         public Intent getIntent() {
             return intent;
@@ -31,8 +54,8 @@ public class NLUresponse {
         @JsonIgnoreProperties(ignoreUnknown = true)
         public static class Intent {
 
-            public String value;
-            public double confidence;
+            protected String value;
+            protected double confidence;
 
             public String getValue() {
                 return value;

@@ -1,0 +1,8 @@
+Where it is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
+In what location is the risk of robbery battery	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+In what area it is the most dangerous meaning murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+what is the nearest dangerous area	Prediction_10_Parametric	1.0	risk
+tell me about murder predictions in evening	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE
+Show me the robberies risk in 5 hours from now	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+in what area of the central district it is the most dangerous during the 1st watch	Prediction_10_Parametric	1.0	risk, LOCATION, SHIFT_NUMBER
+What areas are risky now	Prediction_10_Parametric	1.0	risk

@@ -171,6 +171,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
             } else {
 
                 logs.append("\nEND_TEST\n");
+                Log.d(TAG, "Test completed: TOTAL "+inputPhrases.size()+ " RESULTS: "+testResults.size());
                 if (inputPhrases!=null & testResults!=null) {
                     writeFileSD(testResults);
                     currentPosition = 0;
@@ -235,12 +236,35 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
         @Override
         public void onInterpretation(Transaction transaction, Interpretation interpretation) {
             try {
+                if (interpretation == null) {
+                    return;
+                }
                 logs.append("\nonInterpretation: " + interpretation.getResult().toString(2));
                 JSONObject jsonObject = interpretation.getResult().getJSONArray("interpretations").getJSONObject(0);
+                if (interpretation.getResult().getJSONArray("interpretations").length() > 1)
+                {
+                    Log.d(TAG, "SEVERAL interpretations!");
+                }
                 Log.d(TAG, jsonObject.toString());
 
                 try {
+                    if (jsonObject == null) {
+                        return;
+                    }
                     NLUresponse response = MAPPER.readValue(jsonObject.toString(), NLUresponse.class);
+                    if (response != null) {
+                        String result = response.getLiteral() + "\t" + response.getAction().getIntent().getValue() + "\t" + response.getAction().getIntent().getConfidence();
+                        if (response.getConcepts() != null && response.getConcepts().size() > 0) {
+                            result += "\t";
+                            for (String concept : response.getConcepts().keySet()) {
+                                result += concept+", ";
+                            }
+                            if (result.contains(",")) {
+                                result = result.substring(0, result.lastIndexOf(','));
+                            }
+                        }
+                        testResults.add(result);
+                    }
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

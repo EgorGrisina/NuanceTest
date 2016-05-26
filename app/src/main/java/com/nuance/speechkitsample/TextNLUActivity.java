@@ -14,9 +14,12 @@ import com.nuance.speechkit.Language;
 import com.nuance.speechkit.Session;
 import com.nuance.speechkit.Transaction;
 import com.nuance.speechkit.TransactionException;
+import com.nuance.speechkitsample.response.NLUresponse;
 
 import org.json.JSONException;
 import org.json.JSONObject;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -67,6 +70,8 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
 
     final String DIR_SD  = "NuanceTesting";
     final String FILENAME_SD  = "NuanceTestResults.txt";
+
+    ObjectMapper MAPPER = new ObjectMapper();
 
 
     @Override
@@ -128,7 +133,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
 
         if (!Environment.getExternalStorageState().equals(
                 Environment.MEDIA_MOUNTED)) {
-            Log.d(TAG, "SD-????? ?? ????????: " + Environment.getExternalStorageState());
+            Log.d(TAG, "SD storage are not available: " + Environment.getExternalStorageState());
             return;
         }
 
@@ -144,7 +149,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
                 bw.write(string+"\n");
             }
             bw.close();
-            Log.d(TAG, "???? ??????? ?? SD: " + sdFile.getAbsolutePath());
+            Log.d(TAG, "File saved to SD card: " + sdFile.getAbsolutePath());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -165,7 +170,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
 
             } else {
 
-                logs.append("END_TEST\n");
+                logs.append("\nEND_TEST\n");
                 if (inputPhrases!=null & testResults!=null) {
                     writeFileSD(testResults);
                     currentPosition = 0;
@@ -231,6 +236,14 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
         public void onInterpretation(Transaction transaction, Interpretation interpretation) {
             try {
                 logs.append("\nonInterpretation: " + interpretation.getResult().toString(2));
+                JSONObject jsonObject = interpretation.getResult().getJSONArray("interpretations").getJSONObject(0);
+                Log.d(TAG, jsonObject.toString());
+
+                try {
+                    NLUresponse response = MAPPER.readValue(jsonObject.toString(), NLUresponse.class);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             } catch (JSONException e) {
                 e.printStackTrace();
             }

@@ -1,6 +1,6 @@
 Tell me about robberies near the University last month	Prediction_10_Parametric	0.9
 tell me anything about murders in 1 mile from the Willis tower	Prediction_10_Parametric	0.9
-show crimes in my district in August 2014	Prediction_10_Parametric	0.9	CALENDARX
+show crimes in my district in August 2014	Prediction_10_Parametric	0.9
 list all reports of theft for last week	Prediction_10_Parametric	0.9
 can you report me about arsons committed in 3 miles around the art museum last month	Prediction_10_Parametric	0.9
 I need cases in the Willis tower	Prediction_10_Parametric	0.9
@@ -34,7 +34,7 @@ show me murders in September	Prediction_10_Parametric	0.9	CALENDARX
 how many robberies occurred in the university last year 	Prediction_10_Parametric	0.9
 show me all EMS calls for kensington in the past 48 hours	Prediction_10_Parametric	0.9
 show all thefts for last week in the downtown area	Prediction_10_Parametric	0.9
-find all reported rapes in  the city yesterday	Prediction_10_Parametric	0.9
+find all reported rapes in  the city yesterday	Prediction_10_Parametric	0.9	CALENDARX
 inform me of the embezzlements in the bank of america	Prediction_10_Parametric	0.9
 show me robberies nearby	Prediction_10_Parametric	0.9
 let me see the arsons that occurred around the willis tower in 2014	Prediction_10_Parametric	0.9
@@ -44,7 +44,7 @@ show me murders in 1 mile from 1 district	Prediction_10_Parametric	0.9
 inform me of the embezzlements in April in the bank of America	Prediction_10_Parametric	0.9	CALENDARX
 last week's murder statistics for all of chicago 	Prediction_10_Parametric	0.8
 robberies in the willis tower in 2010	Prediction_10_Parametric	0.9
-what are the robbery stats for the willis tower area for the past year	Prediction_10_Parametric	0.9
+what are the robbery stats for the willis tower area for the past year	Prediction_10_Parametric	0.9	CALENDARX
 Give me the number of thefts for july within 3 blocks of the willis tower	Prediction_10_Parametric	0.9
 Tell me about robberies in 2 kilometers from the Willis tower in August	Prediction_10_Parametric	0.9	CALENDARX
 how many fires were there in April	Prediction_10_Parametric	1.0	CALENDARX
@@ -54,7 +54,7 @@ Tell me about robberies last month	Prediction_10_Parametric	0.9
 incidents of arson in the past 24 hours	Prediction_10_Parametric	0.9
 show me robberies history	Prediction_10_Parametric	0.9
 can you tell me anything about murders in the university in july 	Prediction_10_Parametric	1.0	CALENDARX
-show incidents in my district in August 2015	Prediction_10_Parametric	0.9	CALENDARX
+show incidents in my district in August 2015	Prediction_10_Parametric	0.9
 i need the last month cases	Prediction_10_Parametric	1.0
 display all reported crimes for the immediate area yesterday	Prediction_10_Parametric	0.8
 tell me anything about last month murders in 1 mile from the willlis tower	Prediction_10_Parametric	0.9
@@ -84,187 +84,187 @@ Tell me about robberies in 2 miles from the <abracadabra> last month	Prediction_
 what about murders stats	Prediction_10_Parametric	0.9
 july thefts near the willis tower 	Prediction_10_Parametric	1.0
 list all thefts last week for the willis tower area	Prediction_10_Parametric	0.8
-can you tell me anything about murder predictions on the 4 of may from 5 pm till 6 pm in the Addams park 	Prediction_10_Parametric	1.0	CALENDARX, LOCATION, INCIDENT_TYPE
-Where it is the most risky today	Prediction_10_Parametric	1.0	CALENDARX
-In what location is the risk of robbery battery	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-In what area it is the most dangerous meaning murders	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-what is the nearest dangerous area	Prediction_10_Parametric	1.0
-tell me about murder predictions in evening	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
-Show me the robberies risk in 5 hours from now	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-in what area of the central district it is the most dangerous during the 1st watch	Prediction_10_Parametric	1.0	LOCATION, SHIFT_NUMBER
-What areas are risky now	Prediction_10_Parametric	1.0
-In what calumet district area the murder risk is the highest	Prediction_10_Parametric	1.0	LOCATION, INCIDENT_TYPE
-In what location is the risk of robbery highest?	Prediction_10_Parametric	1.0
-What is the risk of a kidnapping today?	Prediction_10_Parametric	0.9
-What is the risk of a robbery happening today?	Prediction_10_Parametric	0.9
+can you tell me anything about murder predictions on the 4 of may from 5 pm till 6 pm in the Addams park 	Prediction_10_Parametric	1.0	risk, CALENDARX, LOCATION, INCIDENT_TYPE
+Where it is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
+In what location is the risk of robbery battery	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+In what area it is the most dangerous meaning murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+what is the nearest dangerous area	Prediction_10_Parametric	1.0	risk
+tell me about murder predictions in evening	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE
+Show me the robberies risk in 5 hours from now	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+in what area of the central district it is the most dangerous during the 1st watch	Prediction_10_Parametric	1.0	risk, LOCATION, SHIFT_NUMBER
+What areas are risky now	Prediction_10_Parametric	1.0	risk
+In what calumet district area the murder risk is the highest	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE
+In what location is the risk of robbery highest?	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What is the risk of a kidnapping today?	Prediction_10_Parametric	0.9	risk
+What is the risk of a robbery happening today?	Prediction_10_Parametric	0.9	risk
 show the hotspots for today	Prediction_10_Parametric	0.9	CALENDARX
-In what 20 district area it is the most risky with murders during the 2nd watch	Prediction_10_Parametric	1.0
-tell me about murder estimations on the 4 of may in the morning in 1 mile from the bank	Prediction_10_Parametric	1.0	INCIDENT_TYPE
+In what 20 district area it is the most risky with murders during the 2nd watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+tell me about murder estimations on the 4 of may in the morning in 1 mile from the bank	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
 What is the robbery prediction for the Old Town for tomorrow morning? 	Prediction_10_Parametric	0.9
-What is the risk of a murder today?	Prediction_10_Parametric	0.9
+What is the risk of a murder today?	Prediction_10_Parametric	0.9	risk, CALENDARX
 What's the likelihood of a robbery occurring today?	Prediction_10_Parametric	0.9
 where are the hotspots during 1 shift	Prediction_10_Parametric	0.9
 what are the hotspots	Prediction_10_Parametric	0.9
 show murders on the 4 of may	Prediction_10_Parametric	0.9
-what area is today the most dangerous about murders in the tenth district during the first watch	Prediction_10_Parametric	1.0	LOCATION, SHIFT_NUMBER
-What is the risk of a rape today?	Prediction_10_Parametric	0.9
-can you tell me the morning predictions	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-What area is today during the second watch the most risky in terms of murders	Prediction_10_Parametric	1.0
-What is the risk of a homicide today?	Prediction_10_Parametric	0.9
+what area is today the most dangerous about murders in the tenth district during the first watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+What is the risk of a rape today?	Prediction_10_Parametric	0.9	risk
+can you tell me the morning predictions	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
+What area is today during the second watch the most risky in terms of murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What is the risk of a homicide today?	Prediction_10_Parametric	0.9	risk
 Do you think there will be any robberies today?	Prediction_10_Parametric	0.9
 What is robbery risk near the Willis tower?	Prediction_10_Parametric	0.9
-What area is the most risky tomorrow during the second watch	Prediction_10_Parametric	1.0
+What area is the most risky tomorrow during the second watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
 i meant predictions for the 4 of may	Prediction_10_Parametric	0.9
 show me the forecast for robberies in Beverly on the 1 of december	Prediction_10_Parametric	0.9	CALENDARX
 Closest focus areas	Prediction_10_Parametric	1.0
 what are the hotspots in 1 mile from the willis tower	Prediction_10_Parametric	0.9
-where it is risky today	Prediction_10_Parametric	0.9	CALENDARX
+where it is risky today	Prediction_10_Parametric	0.9	risk, CALENDARX
 show me tomorrow murders hotspots	Prediction_10_Parametric	0.9
-where in central district today the robberies risks are the highest	Prediction_10_Parametric	0.9
+where in central district today the robberies risks are the highest	Prediction_10_Parametric	0.9	risk
 Tell me the chance of a robbery today?	Prediction_10_Parametric	0.9
 Closest hotspot	NO_MATCH	1.0
 Focus areas	Prediction_10_Parametric	1.0
 in which area the robberies risks are high during the first shift today	Prediction_10_Parametric	0.9	CALENDARX
 show the hotspots	Prediction_10_Parametric	0.9
 show predictions about murders on the 4 of may	Prediction_10_Parametric	0.9
-Where the risk is the highest today during the 3 watch	Prediction_10_Parametric	0.9
+Where the risk is the highest today during the 3 watch	Prediction_10_Parametric	0.9	risk
 predict murders in willis tower	Prediction_10_Parametric	1.0
-what is the most risky area nearby	Prediction_10_Parametric	0.9
+what is the most risky area nearby	Prediction_10_Parametric	0.9	risk
 In what location is robberies risk highest?	Prediction_10_Parametric	0.9
 show me the forecast about murders expected to be committed in North Park	Prediction_10_Parametric	0.9
-What is the risk of a burglary today?	Prediction_10_Parametric	0.9
-Which area is the most risky today?	Prediction_10_Parametric	0.9	CALENDARX
+What is the risk of a burglary today?	Prediction_10_Parametric	0.9	risk
+Which area is the most risky today?	Prediction_10_Parametric	0.9	risk, CALENDARX
 What is the crime prediction for tomorrow morning?	Prediction_10_Parametric	0.9
-in what area it is the most risky today	Prediction_10_Parametric	1.0	CALENDARX
-In what area of the Central district today during the 2nd watch it is the most risky	Prediction_10_Parametric	1.0	LOCATION
-Where the risk of a murder is the highest	Prediction_10_Parametric	0.9
-What location carries the highest risk of theft?	Prediction_10_Parametric	0.9
+in what area it is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
+In what area of the Central district today during the 2nd watch it is the most risky	Prediction_10_Parametric	1.0	risk, LOCATION
+Where the risk of a murder is the highest	Prediction_10_Parametric	0.9	risk
+What location carries the highest risk of theft?	Prediction_10_Parametric	0.9	risk
 which central district area carries high robberies risks today	Prediction_10_Parametric	0.9	CALENDARX
-Show me the robberies risk in 5 hours	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-What is the risk of a robbery today?	Prediction_10_Parametric	0.9
+Show me the robberies risk in 5 hours	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What is the risk of a robbery today?	Prediction_10_Parametric	0.9	risk
 show me the hotspots in this district	Prediction_10_Parametric	0.9
-what fifth district area today is dangerous in terms of crimes during the second watch	Prediction_10_Parametric	1.0
+what fifth district area today is dangerous in terms of crimes during the second watch	Prediction_10_Parametric	1.0	SHIFT_NUMBER
 predict me robberies hotspots in 5 hours	Prediction_10_Parametric	0.9
-Show me the robberies risk for tomorrow from 3 to 6 pm	Prediction_10_Parametric	0.9	CALENDARX, INCIDENT_TYPE
+Show me the robberies risk for tomorrow from 3 to 6 pm	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
 predict tomorrow thefts in 2 miles from here	Prediction_10_Parametric	0.9
 i need predictions in 2 miles from the willis tower	Prediction_10_Parametric	0.9
 forecast murders near university	Prediction_10_Parametric	1.0
 What is robberies prediction for the Old Town for tomorrow morning	Prediction_10_Parametric	0.9	CALENDARX
-In what area it is the most dangerous during the 3rd watch	Prediction_10_Parametric	1.0
+In what area it is the most dangerous during the 3rd watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
 show me the predictions of arsons in Chatham	Prediction_10_Parametric	0.9
 How likely is a robbery today? 	Prediction_10_Parametric	0.9
 show me the forecast about murders expected in North Park	Prediction_10_Parametric	0.9
-Show me the robberies risk in 5 hours from <abracadabra>	Prediction_10_Parametric	1.0	INCIDENT_TYPE
+Show me the robberies risk in 5 hours from <abracadabra>	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
 predict me robberies in 5 hours	Prediction_10_Parametric	0.9
-what is the most risky area	Prediction_10_Parametric	0.9
-What area is today the most risky	Prediction_10_Parametric	0.9
-Where the risk is the highest during the 2nd watch today	Prediction_10_Parametric	0.9	CALENDARX
+what is the most risky area	Prediction_10_Parametric	0.9	risk
+What area is today the most risky	Prediction_10_Parametric	0.9	risk
+Where the risk is the highest during the 2nd watch today	Prediction_10_Parametric	0.9	risk, CALENDARX
 which area carries the highest risk tomorrow during the 3rd shift	Prediction_10_Parametric	0.9
-What 1st district area today is the most risky during the 2nd shift	Prediction_10_Parametric	1.0
-Show me the robberies risk for January 5 from 2 to 3 pm.	Prediction_10_Parametric	0.9	CALENDARX, INCIDENT_TYPE
-Show me the robberies risk for today.	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-where today the robberies risk is the highest in central district	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-Where the risk during the third watch is the biggest	Prediction_10_Parametric	0.9
+What 1st district area today is the most risky during the 2nd shift	Prediction_10_Parametric	1.0	risk
+Show me the robberies risk for January 5 from 2 to 3 pm.	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
+Show me the robberies risk for today.	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
+where today the robberies risk is the highest in central district	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+Where the risk during the third watch is the biggest	Prediction_10_Parametric	0.9	risk
 show me tomorrow morning hotspots	Prediction_10_Parametric	0.9
-now give me the forecast 	Prediction_10_Parametric	0.9
-where today the robberies risk is high	Prediction_10_Parametric	0.9	INCIDENT_TYPE
+now give me the forecast 	Prediction_10_Parametric	0.9	INCIDENT_TYPE
+where today the robberies risk is high	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
 What's the robbery risk for today?	Prediction_10_Parametric	0.9
-In what first district area the murders risk is the highest	Prediction_10_Parametric	1.0	LOCATION, INCIDENT_TYPE
-Which area is the most risky of theft today?	Prediction_10_Parametric	0.9
-In what location is the risk of robbery highest?	Prediction_10_Parametric	1.0
-What is the risk of an assault today?	Prediction_10_Parametric	0.9
+In what first district area the murders risk is the highest	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+Which area is the most risky of theft today?	Prediction_10_Parametric	0.9	risk
+In what location is the risk of robbery highest?	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What is the risk of an assault today?	Prediction_10_Parametric	0.9	risk
 where is it dangerous	Prediction_10_Parametric	0.8
 can you tell me the morning arson estimate	Prediction_10_Parametric	0.9
-Where in the Central district it is dangerous today	Prediction_10_Parametric	1.0	LOCATION
-What is the risk of arson today?	Prediction_10_Parametric	0.9
-what area in 5th district is the most risky today	Prediction_10_Parametric	1.0	CALENDARX
+Where in the Central district it is dangerous today	Prediction_10_Parametric	1.0	risk, CALENDARX, LOCATION
+What is the risk of arson today?	Prediction_10_Parametric	0.9	risk
+what area in 5th district is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
 predict me robberies hotspots during 2 shift	Prediction_10_Parametric	0.9
 show me the morning predictions of arsons in Chatham	Prediction_10_Parametric	0.9
-What area during the 3 watch is the most dangerous	Prediction_10_Parametric	0.9
-Where it is the most dangerous today during the 2nd watch	Prediction_10_Parametric	1.0
+What area during the 3 watch is the most dangerous	Prediction_10_Parametric	0.9	risk
+Where it is the most dangerous today during the 2nd watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
 What's the possibility of a robbery today?	Prediction_10_Parametric	0.9
 which central district area is during the third watch risky about murders today	Prediction_10_Parametric	1.0	CALENDARX
-In what area during the 2nd watch the robberies risk is the biggest	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-What is the risk of a robbery occurring today?	Prediction_10_Parametric	0.9
-in which calumet district area today the robberies risk is high	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-In what district it is the most risky	Prediction_10_Parametric	1.0
+In what area during the 2nd watch the robberies risk is the biggest	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
+What is the risk of a robbery occurring today?	Prediction_10_Parametric	0.9	risk
+in which calumet district area today the robberies risk is high	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+In what district it is the most risky	Prediction_10_Parametric	1.0	risk
 show me the hotspots in 200 yards from here	Prediction_10_Parametric	0.9
-What district has the greatest risk	Prediction_10_Parametric	0.9
-Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-show me tomorrow murder predictions in 1 mile from the theatre from 7 to 10 pm	Prediction_10_Parametric	0.9	CALENDARX, INCIDENT_TYPE
-what is the hotspot in the proximity	Prediction_10_Parametric	0.9
-Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-what areas are risky	Prediction_10_Parametric	0.8
-Show me the robberies risk for the morning	Prediction_10_Parametric	0.9	INCIDENT_TYPE
+What district has the greatest risk	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
+Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
+show me tomorrow murder predictions in 1 mile from the theatre from 7 to 10 pm	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
+what is the hotspot in the proximity	Prediction_10_Parametric	0.9	risk
+Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
+what areas are risky	Prediction_10_Parametric	0.9	risk
+Show me the robberies risk for the morning	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
 What are the chances of a robbery today?	Prediction_10_Parametric	0.9
 Show focus areas	Prediction_10_Parametric	0.9
 show me robberies prediction	Prediction_10_Parametric	0.9
-which area of the eleventh district today is the most dangerous	Prediction_10_Parametric	0.9
+which area of the eleventh district today is the most dangerous	Prediction_10_Parametric	0.9	risk
 show me hotspots with murders for the 4 of may	Prediction_10_Parametric	0.9
 closest focus calls	NO_MATCH	1.0
 Do you predict any robberies today? 	Prediction_10_Parametric	0.9
-in what area of the central district the risk of murders is the highest tomorrow during the 1st watch	Prediction_10_Parametric	1.0	SHIFT_NUMBER
-in what area the robberies risks are the highest in central district	Prediction_10_Parametric	0.9
-in what district it is risky today	Prediction_10_Parametric	0.9	CALENDARX
+in what area of the central district the risk of murders is the highest tomorrow during the 1st watch	Prediction_10_Parametric	1.0	risk, LOCATION, SHIFT_NUMBER
+in what area the robberies risks are the highest in central district	Prediction_10_Parametric	0.9	risk
+in what district it is risky today	Prediction_10_Parametric	0.9	risk, CALENDARX
 predict me murders in the university tomorrow morning	Prediction_10_Parametric	0.9	CALENDARX
 i needed arson predictions	Prediction_10_Parametric	1.0
-in what area tomorrow the robberies risk will be the highest in calumet district	Prediction_10_Parametric	1.0
+in what area tomorrow the robberies risk will be the highest in calumet district	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
 give me the forecast for robberies in 100 yards from the west side for today's morning	Prediction_10_Parametric	0.9
-can you give me the robberies forecast	Prediction_10_Parametric	0.9
+can you give me the robberies forecast	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
 inform me about hotspots on 5 of september	Prediction_10_Parametric	0.9	CALENDARX
-Where the risk is the highest	Prediction_10_Parametric	0.9
+Where the risk is the highest	Prediction_10_Parametric	0.9	risk
 show me robberies prediction for 5 hours	Prediction_10_Parametric	0.9
 What is robbery risk near the Willis tower tomorrow?	Prediction_10_Parametric	0.9
 where is it dangerous now	Prediction_10_Parametric	0.9
-What area in the 1st district carries the biggest risk today during the 2nd shift	Prediction_10_Parametric	0.9	LOCATION
-what area tomorrow during the 2 shift has the biggest risk of murders	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-Which area carries the highest risk of murders?	Prediction_10_Parametric	0.9
+What area in the 1st district carries the biggest risk today during the 2nd shift	Prediction_10_Parametric	0.9
+what area tomorrow during the 2 shift has the biggest risk of murders	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
+Which area carries the highest risk of murders?	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
 i need predictions not on the 4 of may but on the 5 of may	Prediction_10_Parametric	0.9
-in which area tomorrow during the first watch the risk of murders will be the highest	Prediction_10_Parametric	0.9
+in which area tomorrow during the first watch the risk of murders will be the highest	Prediction_10_Parametric	0.9	risk
 tell me the estimate of murders tomorrow from 9 to 10 pm	Prediction_10_Parametric	0.9	CALENDARX
 predict me tomorrow morning hotspots	Prediction_10_Parametric	1.0
 show hotspots in my district for 1 shift	Prediction_10_Parametric	0.8
-What Central district area carries during the first watch the biggest risk of murders	Prediction_10_Parametric	1.0	INCIDENT_TYPE
+What Central district area carries during the first watch the biggest risk of murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
 Show focus calls	Prediction_10_Parametric	1.0
 show me hotspots in the neighborhood	Prediction_10_Parametric	0.9
-What location carries the highest risk of murder?	Prediction_10_Parametric	0.9
+What location carries the highest risk of murder?	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 where are focus calls	Prediction_10_Parametric	0.9
 Focus calls	NO_MATCH	1.0
-Where it is the most risky today concerning murders during the 2 watch	Prediction_10_Parametric	1.0
-In what area of the 5 district it is the most dangerous concerning murders during the 2nd watch	Prediction_10_Parametric	1.0
-What area of the Central district carries tomorrow the biggest risk of murders	Prediction_10_Parametric	1.0	LOCATION, INCIDENT_TYPE
+Where it is the most risky today concerning murders during the 2 watch	Prediction_10_Parametric	1.0	risk
+In what area of the 5 district it is the most dangerous concerning murders during the 2nd watch	Prediction_10_Parametric	1.0	risk, LOCATION, SHIFT_NUMBER
+What area of the Central district carries tomorrow the biggest risk of murders	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE
 what area in fourth district is today more risky speaking about murders during the first watch	Prediction_10_Parametric	1.0	SHIFT_NUMBER
 What area carries the most murder risks today	Prediction_10_Parametric	0.9	CALENDARX
 Show hotspots in my shift	Prediction_10_Parametric	0.9
 forecast tomorrow morning murders nearby	Prediction_10_Parametric	1.0
 tell me about tomorrow morning arsons estimation	Prediction_10_Parametric	0.9
-In what location it is the most dangerous today	Prediction_10_Parametric	1.0	CALENDARX
-in what area during the second watch it is more risky with crimes today	Prediction_10_Parametric	0.9	CALENDARX
-what area in 5th district is the most risky during the 2nd watch	Prediction_10_Parametric	1.0
+In what location it is the most dangerous today	Prediction_10_Parametric	1.0	risk, CALENDARX
+in what area during the second watch it is more risky with crimes today	Prediction_10_Parametric	1.0	CALENDARX
+what area in 5th district is the most risky during the 2nd watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
 what area today has big robberies risks in third district	Prediction_10_Parametric	0.9
-In what area during the 2nd watch robberies risk is the biggest	Prediction_10_Parametric	0.9
-In what area during the 2nd watch today the risk is the highest	Prediction_10_Parametric	1.0
+In what area during the 2nd watch robberies risk is the biggest	Prediction_10_Parametric	0.9	risk
+In what area during the 2nd watch today the risk is the highest	Prediction_10_Parametric	1.0	risk
 what area carries the biggest robberies risk today during the 2 watch	Prediction_10_Parametric	0.9
-show the most risky district in 3 miles from here	Prediction_10_Parametric	0.9
-Show me the robberies risk near the Willis Tower	Prediction_10_Parametric	0.9	INCIDENT_TYPE
-What is the risk of a theft today?	Prediction_10_Parametric	0.9
+show the most risky district in 3 miles from here	Prediction_10_Parametric	0.9	risk
+Show me the robberies risk near the Willis Tower	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE
+What is the risk of a theft today?	Prediction_10_Parametric	0.9	risk
 show me murders hotspots from 5 to 9	Prediction_10_Parametric	0.9
 Where are focus areas	Prediction_10_Parametric	0.8
-what area today is the most dangerous concerning crimes during the third watch	Prediction_10_Parametric	1.0
-In what area of the first district today it is the most risky meaning murders	Prediction_10_Parametric	1.0	INCIDENT_TYPE
-Show me the robberies risk for tomorrow morning	Prediction_10_Parametric	0.9	CALENDARX, INCIDENT_TYPE
+what area today is the most dangerous concerning crimes during the third watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+In what area of the first district today it is the most risky meaning murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+Show me the robberies risk for tomorrow morning	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
 Do you think there will be a robbery today?	Prediction_10_Parametric	0.9
 predict me robberies in 5 hours from now	Prediction_10_Parametric	0.9
-In which area the risk of murders during the 2nd watch is the highest today	Prediction_10_Parametric	1.0	CALENDARX
+In which area the risk of murders during the 2nd watch is the highest today	Prediction_10_Parametric	1.0	risk, CALENDARX
 give me the tomorrow morning estimate of crimes expected in 1 mile from the navy pier 	Prediction_10_Parametric	0.9	CALENDARX
-In what area during the 1st watch it is the most risky with murders	Prediction_10_Parametric	1.0	SHIFT_NUMBER
+In what area during the 1st watch it is the most risky with murders	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
 anything about address of the car owner	Prediction_10_Parametric	0.9
 show me address of the car owner	Prediction_10_Parametric	0.9
 What address is the vehicle regsitered at?	Prediction_10_Parametric	0.9
 What's the address of the vehicle owner?	Prediction_10_Parametric	0.9
 Where does the vehicle owner reside? 	Prediction_10_Parametric	0.9
 Tell where the vehicle owner's home is located? 	Prediction_10_Parametric	0.9
-Where can I find the owner of the car? 	Prediction_10_Parametric	0.9
+Where can I find the owner of the car? 	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 Is there an address on the vehicle owner? 	Prediction_10_Parametric	0.8
 Please get me the address of the vehicle owner.	Prediction_10_Parametric	0.9
 What is the address where the vehicle is registered?	Prediction_10_Parametric	0.9
@@ -277,18 +277,18 @@ Can I get contact information for the vehicle owner? 	Prediction_10_Parametric	0
 How can we get in touch with the car owner? 	Prediction_10_Parametric	0.8
 Get me the contact information for the vehicle owner. 	Prediction_10_Parametric	0.9
 I want to contact the car owner. 	Prediction_10_Parametric	1.0
-Find out how I can reach the owner of the car. 	Prediction_10_Parametric	0.9
+Find out how I can reach the owner of the car. 	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 Please display contact info for the vehicle owner.	Prediction_10_Parametric	1.0
 How can I talk to the owner?	Prediction_10_Parametric	1.0
 I need the details on how to contact the vehicle owner.	Prediction_10_Parametric	0.8
-Where can I reach the owner of the car?	Prediction_10_Parametric	0.9
+Where can I reach the owner of the car?	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 I'd like to contact whoever owns the car.	Prediction_10_Parametric	1.0
-Find me contact details for the vehcle owner 	Prediction_10_Parametric	0.9
+Find me contact details for the vehcle owner 	Prediction_10_Parametric	1.0
 How do we get in touch with the person to whom the veichle is registered?	Prediction_10_Parametric	0.9
 who owns the car	Prediction_10_Parametric	1.0
 to whom is the case 12 car registered	Prediction_10_Parametric	0.9
 Who is the car owner?	Prediction_10_Parametric	0.9
-Who is in possession of the car?	Prediction_10_Parametric	0.9
+Who is in possession of the car?	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 Who owns the car?	Prediction_10_Parametric	1.0
 Whose car is this?	Prediction_10_Parametric	1.0
 What about the car owner?	Prediction_10_Parametric	0.9
@@ -297,7 +297,7 @@ Whose vehicle is it?	Prediction_10_Parametric	0.9
 To whom is the vehicle registered?	Prediction_10_Parametric	0.9
 What's the name on the vehicle registration?	Prediction_10_Parametric	0.9
 Do we have an owner for that vehicle? 	NO_MATCH	1.0
-Whose name is the car in? 	Prediction_10_Parametric	0.9
+Whose name is the car in? 	Prediction_10_Parametric	0.9	risk
 Who is the car registered to?	Prediction_10_Parametric	0.9
 Who's on the registration? 	Prediction_10_Parametric	0.9
 Who does the car belong to?	Prediction_10_Parametric	1.0
@@ -323,7 +323,7 @@ Who is assigned to the case?	Prediction_10_Parametric	0.9
 And which officer responded?	NO_MATCH	1.0
 Who's on it?	Prediction_10_Parametric	1.0
 Who took the statements?	Prediction_10_Parametric	1.0
-Who is the investigator?	Prediction_10_Parametric	0.9
+Who is the investigator?	Prediction_10_Parametric	0.9	risk
 Give me the investigating officer	Prediction_10_Parametric	0.9
 Who is handling case 12?	Prediction_10_Parametric	1.0
 address of suspect	Prediction_10_Parametric	1.0
@@ -347,7 +347,7 @@ What's the suspect's phone number/address?	Prediction_10_Parametric	1.0
 Where can I find the suspect?	Prediction_10_Parametric	0.9
 Do we have contact information for the suspect in the case? 	Prediction_10_Parametric	0.8
 Please find me the contact information for the suspect.	Prediction_10_Parametric	0.9
-How can we reach/get in touch with/get a hold of the suspect? 	Prediction_10_Parametric	0.9
+How can we reach/get in touch with/get a hold of the suspect? 	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 I'd like to contact the suspect.	Prediction_10_Parametric	1.0
 Get me the suspect's contact information.	Prediction_10_Parametric	0.9
 Display contact infomation for the suspect.	Prediction_10_Parametric	1.0
@@ -361,7 +361,7 @@ Do we suspect that the alleged perp was in a gang?	Prediction_10_Parametric	0.9
 Does our suspect have any possible gang connections?	NO_MATCH	1.0
 Is there gang involvement suspected? 	Prediction_10_Parametric	1.0
 Is the suspect a gang member? 	Prediction_10_Parametric	0.9
-Is the suspect in any way connected with a gang?	Prediction_10_Parametric	0.9
+Is the suspect in any way connected with a gang?	Prediction_10_Parametric	0.9	risk
 Is the suspect connected with any gang activity? 	Prediction_10_Parametric	0.9
 Could the suspect be connected with a gang? 	Prediction_10_Parametric	1.0
 Any information on possible gang connections for the suspect? 	Prediction_10_Parametric	0.9
@@ -382,9 +382,9 @@ Can we get in touch with the suspect by phone? 	Prediction_10_Parametric	0.9
 do we have anything about case 12 vehicle	Prediction_10_Parametric	0.9
 what does the car in case 12 look like	Prediction_10_Parametric	0.9
 Anything about the car? 	Prediction_10_Parametric	0.9
-Information about the car	Prediction_10_Parametric	1.0
+Information about the car	Prediction_10_Parametric	1.0	risk
 What do we have on the car?	Prediction_10_Parametric	0.9
-Do we have a description of the car?	Prediction_10_Parametric	0.9
+Do we have a description of the car?	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 Do we have a car make and model?	NO_MATCH	1.0
 What did the witness say about the car?	Prediction_10_Parametric	0.9
 Are there any details on the car?	Prediction_10_Parametric	0.9
@@ -400,7 +400,7 @@ i need the witness's address	Prediction_10_Parametric	1.0
 where does the eyewitness live?	Prediction_10_Parametric	0.9
 show me the witness's house	Prediction_10_Parametric	0.9
 Where is the witness's residence?	Prediction_10_Parametric	0.9
-Give me the address of the witness.	Prediction_10_Parametric	0.9
+Give me the address of the witness.	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 Where can I find our eyewitness? 	Prediction_10_Parametric	0.9
 Do we have an address for the eyewitness in this case? 	Prediction_10_Parametric	0.8
 What's the address for the eyewitness?	Prediction_10_Parametric	1.0
@@ -413,7 +413,7 @@ give me contacts of case 12 witness	Prediction_10_Parametric	1.0
 do we have contacts of witness to case 12	Prediction_10_Parametric	1.0
 Show witness's contact information 	Prediction_10_Parametric	1.0
 Give me contact information for the witness	Prediction_10_Parametric	1.0
-Do you have the witness's contact information?	Prediction_10_Parametric	0.9
+Do you have the witness's contact information?	Prediction_10_Parametric	1.0
 How can I get in touch with the witness? 	Prediction_10_Parametric	0.8
 How can the witness be contacted?	Prediction_10_Parametric	1.0
 Where can I reach the witness? 	Prediction_10_Parametric	0.9
@@ -421,11 +421,11 @@ What is the witness's phone number/address?	Prediction_10_Parametric	0.9
 Can I get the contact details for the witness? 	Prediction_10_Parametric	0.9
 How can we contact the eyewitness?	Prediction_10_Parametric	1.0
 Find me the contact information for this witness.	Prediction_10_Parametric	0.9
-How can I get a hold of the witness?	Prediction_10_Parametric	0.8
+How can I get a hold of the witness?	Prediction_10_Parametric	0.8	INCIDENT_TYPE
 What do we have on witness	Prediction_10_Parametric	0.9
 Who is case 12 witness	Prediction_10_Parametric	1.0
 Describe witness	NO_MATCH	1.0
-Who is the witness in case 13?	Prediction_10_Parametric	0.9
+Who is the witness in case 13?	Prediction_10_Parametric	0.9	risk
 Show witnesses	Prediction_10_Parametric	1.0
 Do we have anything on the witness in case 12	Prediction_10_Parametric	0.9
 Are there any witnesses in case 12	Prediction_10_Parametric	1.0
@@ -437,7 +437,7 @@ What about witnesses?	Prediction_10_Parametric	0.9
 Can I get a witness description? 	Prediction_10_Parametric	1.0
 Who was the witness in the case?	Prediction_10_Parametric	0.9
 Can you give me details on the witness in the case?	Prediction_10_Parametric	0.9
-Please provide a description of the witness	Prediction_10_Parametric	0.9
+Please provide a description of the witness	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 And the witness?	Prediction_10_Parametric	1.0
 Any witnesses in the case?	Prediction_10_Parametric	0.9
 Was the witness injured	Prediction_10_Parametric	1.0
@@ -451,14 +451,14 @@ Did the witness escape unharmed? 	Prediction_10_Parametric	1.0
 Were there any physical injuries sustained by the witness? 	Prediction_10_Parametric	1.0
 Did the witness have any injuries? 	Prediction_10_Parametric	1.0
 Was the witness hurt? 	Prediction_10_Parametric	1.0
-Was the witness harmed during the commission of the crime? 	Prediction_10_Parametric	0.9
+Was the witness harmed during the commission of the crime? 	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 Did the witness come out of it unharmed? 	Prediction_10_Parametric	0.9
 navigate to witness	NO_MATCH	1.0
 Give me the phone number for the witness	Prediction_10_Parametric	0.9
 How can I call the witness?	Prediction_10_Parametric	1.0
 How can I call the witness?	Prediction_10_Parametric	1.0
 Find the witness's number	Prediction_10_Parametric	1.0
-Show telephone of the bystander	Prediction_10_Parametric	0.9
+Show telephone of the bystander	Prediction_10_Parametric	0.9	INCIDENT_TYPE
 What's the number for the eyewitness? 	Prediction_10_Parametric	1.0
 Where can the witness be reached? 	Prediction_10_Parametric	0.9
 At what number can we reach the eyewitness?	Prediction_10_Parametric	0.9

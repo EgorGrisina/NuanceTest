@@ -239,7 +239,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
                 if (interpretation == null) {
                     return;
                 }
-                logs.append("\nonInterpretation: " + interpretation.getResult().toString(2));
+                logs.append("\nonInterpretation: " + currentPosition);
                 JSONObject jsonObject = interpretation.getResult().getJSONArray("interpretations").getJSONObject(0);
                 if (interpretation.getResult().getJSONArray("interpretations").length() > 1)
                 {

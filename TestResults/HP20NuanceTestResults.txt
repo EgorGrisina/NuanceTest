@@ -1,0 +1,668 @@
+Tell me about robberies near the University last month	History_10_NonParametric	1.0	CALENDARX, LOCATION, INCIDENT_TYPE
+tell me anything about murders in 1 mile from the Willis tower	History_10_NonParametric	1.0	LOCATION, INCIDENT_TYPE
+show crimes in my district in August 2014	History_10_NonParametric	1.0	CALENDARX, LOCATION, INCIDENT_TYPE
+list all reports of theft for last week	History_10_NonParametric	1.0	report, CALENDARX, INCIDENT_TYPE
+can you report me about arsons committed in 3 miles around the art museum last month	History_10_NonParametric	1.0	report, CALENDARX, LOCATION, INCIDENT_TYPE
+I need cases in the Willis tower	History_10_NonParametric	1.0	report, LOCATION
+show me the robbery statistics for the willis tower in july	History_10_NonParametric	1.0	report, CALENDARX, LOCATION, INCIDENT_TYPE
+show me all emergency services calls for zip 19134 yesterday	History_10_NonParametric	1.0	CALENDARX, LOCATION, INCIDENT_TYPE
+could you show me the robbery stats for the willis tower area	History_10_NonParametric	1.0	report, LOCATION, INCIDENT_TYPE
+Tell me about robberies near the Willis tower in August	History_10_NonParametric	1.0	CALENDARX, LOCATION, INCIDENT_TYPE
+show me murders near central district	History_10_NonParametric	0.7	LOCATION, INCIDENT_TYPE
+history for location	History_10_NonParametric	1.0	report
+give me a report on crimes near the willis tower yesterday	History_10_NonParametric	1.0	report, CALENDARX, LOCATION, INCIDENT_TYPE
+please display the EMS call stats for yesterday	History_10_NonParametric	1.0	report, CALENDARX, INCIDENT_TYPE
+give me information on the number of murders within a 5 mile radius of here for last week	History_10_NonParametric	1.0	report, CALENDARX, LOCATION, INCIDENT_TYPE
+Show me robberies near the Willis Tower	History_10_NonParametric	1.0	LOCATION, INCIDENT_TYPE
+I need last year cases	History_10_NonParametric	1.0	report, CALENDARX
+Tell me about robberies near the University	History_10_NonParametric	1.0	LOCATION, INCIDENT_TYPE
+show murders in calumet	History_10_NonParametric	1.0	LOCATION, INCIDENT_TYPE
+show me murders in 3 miles from here	History_10_NonParametric	1.0	LOCATION, INCIDENT_TYPE
+show crimes near the bank	History_10_NonParametric	1.0	INCIDENT_TYPE
+Tell me about robberies in the <abracadabra> last month	History_10_NonParametric	0.5	CALENDARX, INCIDENT_TYPE
+show the murders committed last week in the willis tower	History_10_NonParametric	0.7	CALENDARX, LOCATION, INCIDENT_TYPE
+Tell me about robberies near the University in September	History_10_NonParametric	1.0	CALENDARX, LOCATION, INCIDENT_TYPE
+Tell me how many thefts there were in july for the city	Prediction_10_Parametric	0.6	CALENDARX, LOCATION
+show murders in district 7	History_10_NonParametric	0.6	INCIDENT_TYPE
+have there been any fires near the willis tower in july?	History_10_NonParametric	0.7	CALENDARX, LOCATION, INCIDENT_TYPE
+provide the theft stats for yesterday in the entire city 	History_10_NonParametric	0.5	report, CALENDARX, LOCATION, INCIDENT_TYPE
+how many thefts were reported last week in chicago	History_10_NonParametric	0.7	CALENDARX
+show me last week murders	History_10_NonParametric	0.6	CALENDARX, INCIDENT_TYPE
+thefts within 3 blocks of the willis tower	History_10_NonParametric	0.6	LOCATION
+Show me homicides in the Old Town in August	History_10_NonParametric	0.5	CALENDARX
+show me murders in September	History_10_NonParametric	0.6	CALENDARX, INCIDENT_TYPE
+how many robberies occurred in the university last year 	History_10_NonParametric	0.5	CALENDARX
+show me all EMS calls for kensington in the past 48 hours	History_10_NonParametric	0.5	LOCATION, INCIDENT_TYPE
+show all thefts for last week in the downtown area	History_10_NonParametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+find all reported rapes in  the city yesterday	Prediction_10_Parametric	0.6	CALENDARX
+inform me of the embezzlements in the bank of america	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+show me robberies nearby	History_10_NonParametric	0.6
+let me see the arsons that occurred around the willis tower in 2014	History_10_NonParametric	0.6	LOCATION
+all fires in the past 24 hours	Prediction_10_Parametric	0.7	LOCATION
+What is the history for that location	Prediction_10_Parametric	0.5	risk
+show me murders in 1 mile from 1 district	History_10_NonParametric	0.7	LOCATION, INCIDENT_TYPE
+inform me of the embezzlements in April in the bank of America	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+last week's murder statistics for all of chicago 	History_10_NonParametric	0.6	report
+robberies in the willis tower in 2010	History_10_NonParametric	0.6	LOCATION
+what are the robbery stats for the willis tower area for the past year	History_10_NonParametric	0.6	report, CALENDARX, LOCATION, INCIDENT_TYPE
+Give me the number of thefts for july within 3 blocks of the willis tower	History_10_NonParametric	0.7	report, CALENDARX, LOCATION, INCIDENT_TYPE
+Tell me about robberies in 2 kilometers from the Willis tower in August	History_10_NonParametric	0.8	CALENDARX, LOCATION, INCIDENT_TYPE
+how many fires were there in April	Prediction_10_Parametric	0.5	CALENDARX
+give me the willis tower crime stats for july 	History_10_NonParametric	0.7	CALENDARX, LOCATION
+Tell me about robberies in 100 yards from here in August	History_10_NonParametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+Tell me about robberies last month	History_10_NonParametric	0.6	CALENDARX, INCIDENT_TYPE
+incidents of arson in the past 24 hours	Prediction_10_Parametric	0.6	LOCATION, INCIDENT_TYPE
+show me robberies history	History_10_NonParametric	0.6	INCIDENT_TYPE
+can you tell me anything about murders in the university in july 	History_10_NonParametric	0.7	CALENDARX, LOCATION, INCIDENT_TYPE
+show incidents in my district in August 2015	History_10_NonParametric	0.6	CALENDARX, LOCATION
+i need the last month cases	History_10_NonParametric	1.0	report, CALENDARX
+display all reported crimes for the immediate area yesterday	History_10_NonParametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+tell me anything about last month murders in 1 mile from the willlis tower	History_10_NonParametric	0.8	CALENDARX, LOCATION, INCIDENT_TYPE
+Tell me about robberies near the <abracadabra> last month	History_10_NonParametric	0.7	CALENDARX, LOCATION, INCIDENT_TYPE
+Show me robberies in September	History_10_NonParametric	0.5	CALENDARX, INCIDENT_TYPE
+how many thefts occurred in july near the Willis Tower	History_10_NonParametric	0.6	CALENDARX, LOCATION
+show me crime stats for this area for last week	History_10_NonParametric	0.7	report, CALENDARX
+Tell me about robberies in 2 miles last month	History_10_NonParametric	0.6	CALENDARX, LOCATION, INCIDENT_TYPE
+all 2014 murders within a 500 meter radius of the willis tower 	History_10_NonParametric	0.7	LOCATION, INCIDENT_TYPE
+say anything about murders committed last week in 1 mile around chatham	History_10_NonParametric	0.6	CALENDARX, LOCATION, INCIDENT_TYPE
+tell me about last week murders near willis tower	History_10_NonParametric	0.8	CALENDARX, LOCATION, INCIDENT_TYPE
+Show me robberies near the Willis Tower in September	History_10_NonParametric	0.8	CALENDARX, LOCATION, INCIDENT_TYPE
+update me on the number of murders in the willis tower area for 2014	History_10_NonParametric	0.8	report, LOCATION, INCIDENT_TYPE
+How many thefts were there in july around the willis tower	History_10_NonParametric	0.5	CALENDARX, LOCATION
+bring up all thefts with a mile of the willis tower on june 10	History_10_NonParametric	0.5	CALENDARX, LOCATION
+How many thefts happened in the University in September?	Prediction_10_Parametric	0.6	CALENDARX
+show me murders near calumet district committed last week	History_10_NonParametric	0.8	CALENDARX, LOCATION, INCIDENT_TYPE
+thefts in july in the area of the willis tower	History_10_NonParametric	0.5	CALENDARX, LOCATION
+Tell me the number of 911 calls made last week	History_10_NonParametric	0.5	report, CALENDARX
+list all robberies in the city in the past 2 days	Prediction_10_Parametric	0.6	LOCATION, INCIDENT_TYPE
+Tell me about robberies nearby in August	History_10_NonParametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+show me the nearest last month robberies	History_10_NonParametric	0.5	CALENDARX
+july murder stats for the sears tower area	History_10_NonParametric	0.5	report, LOCATION
+give me robbery stats for within 10 minutes of the willis tower in july	History_10_NonParametric	0.8	report, CALENDARX, LOCATION, INCIDENT_TYPE
+thefts in july within 5 minutes of the willis tower	History_10_NonParametric	0.5	CALENDARX, LOCATION
+Tell me about robberies in 2 miles from the <abracadabra> last month	History_10_NonParametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+what about murders stats	History_10_NonParametric	0.6	LOCATION, INCIDENT_TYPE
+july thefts near the willis tower 	History_10_NonParametric	0.6	LOCATION
+list all thefts last week for the willis tower area	History_10_NonParametric	0.8	CALENDARX, LOCATION
+can you tell me anything about murder predictions on the 4 of may from 5 pm till 6 pm in the Addams park 	Prediction_10_Parametric	1.0	risk, CALENDARX, LOCATION, INCIDENT_TYPE
+Where it is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
+In what location is the risk of robbery battery	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+In what area it is the most dangerous meaning murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+what is the nearest dangerous area	Prediction_10_Parametric	1.0	risk
+tell me about murder predictions in evening	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE
+Show me the robberies risk in 5 hours from now	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+in what area of the central district it is the most dangerous during the 1st watch	Prediction_10_Parametric	1.0	risk, LOCATION, SHIFT_NUMBER
+What areas are risky now	Prediction_10_Parametric	1.0	risk
+In what calumet district area the murder risk is the highest	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE
+In what location is the risk of robbery highest	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What is the risk of a kidnapping today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+What is the risk of a robbery happening today	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE
+show the hotspots for today	Prediction_10_Parametric	1.0	risk, CALENDARX
+In what 20 district area it is the most risky with murders during the 2nd watch	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE, SHIFT_NUMBER
+tell me about murder estimations on the 4 of may in the morning in 1 mile from the bank	Prediction_10_Parametric	1.0	risk, CALENDARX, LOCATION, INCIDENT_TYPE
+What is the robbery prediction for the Old Town for tomorrow morning	Prediction_10_Parametric	1.0	risk, CALENDARX, LOCATION, INCIDENT_TYPE
+What is the risk of a murder today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+What's the likelihood of a robbery occurring today	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE
+where are the hotspots during 1 shift	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+what are the hotspots	Prediction_10_Parametric	0.7	risk
+show murders on the 4 of may	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+what area is today the most dangerous about murders in the tenth district during the first watch	Prediction_10_Parametric	0.8	risk, LOCATION, INCIDENT_TYPE, SHIFT_NUMBER
+What is the risk of a rape today?	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE
+can you tell me the morning predictions	Prediction_10_Parametric	0.6	CALENDARX
+What area is today during the second watch the most risky in terms of murders	Prediction_10_Parametric	0.9	risk, CALENDARX, INCIDENT_TYPE, SHIFT_NUMBER
+What is the risk of a homicide today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+Do you think there will be any robberies today?	Prediction_10_Parametric	0.6	CALENDARX
+What is robbery risk near the Willis tower?	History_10_NonParametric	0.5	LOCATION, INCIDENT_TYPE
+What area is the most risky tomorrow during the second watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+i meant predictions for the 4 of may	Prediction_10_Parametric	0.6	CALENDARX
+show me the forecast for robberies in Beverly on the 1 of december	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+Closest focus areas	Prediction_10_Parametric	0.3
+what are the hotspots in 1 mile from the willis tower	Prediction_10_Parametric	0.5	risk, LOCATION
+where it is risky today	Prediction_10_Parametric	0.6	risk, CALENDARX
+show me tomorrow murders hotspots	History_10_NonParametric	0.6	INCIDENT_TYPE
+where in central district today the robberies risks are the highest	Prediction_10_Parametric	0.5	risk, LOCATION
+Tell me the chance of a robbery today?	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+Closest hotspot	NO_MATCH	1.0
+Focus areas	Prediction_10_Parametric	0.3
+in which area the robberies risks are high during the first shift today	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+show the hotspots	Prediction_10_Parametric	0.6	risk
+show predictions about murders on the 4 of may	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+Where the risk is the highest today during the 3 watch	Prediction_10_Parametric	0.8	risk, CALENDARX, LOCATION
+predict murders in willis tower	History_10_NonParametric	0.6	LOCATION, INCIDENT_TYPE
+what is the most risky area nearby	Prediction_10_Parametric	0.9	risk
+In what location is robberies risk highest?	Prediction_10_Parametric	0.8
+show me the forecast about murders expected to be committed in North Park	History_10_NonParametric	0.6	INCIDENT_TYPE
+What is the risk of a burglary today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+Which area is the most risky today?	Prediction_10_Parametric	0.8	risk, CALENDARX
+What is the crime prediction for tomorrow morning?	Prediction_10_Parametric	0.8	risk, CALENDARX
+in what area it is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
+In what area of the Central district today during the 2nd watch it is the most risky	Prediction_10_Parametric	1.0	risk, LOCATION, SHIFT_NUMBER
+Where the risk of a murder is the highest	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What location carries the highest risk of theft?	Prediction_10_Parametric	0.8	INCIDENT_TYPE
+which central district area carries high robberies risks today	History_10_NonParametric	0.6	CALENDARX
+Show me the robberies risk in 5 hours	Prediction_10_Parametric	0.8	risk, INCIDENT_TYPE
+What is the risk of a robbery today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+show me the hotspots in this district	Prediction_10_Parametric	0.5	risk, LOCATION
+what fifth district area today is dangerous in terms of crimes during the second watch	Prediction_10_Parametric	0.5	INCIDENT_TYPE, SHIFT_NUMBER
+predict me robberies hotspots in 5 hours	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+Show me the robberies risk for tomorrow from 3 to 6 pm	Prediction_10_Parametric	0.5	risk, CALENDARX, INCIDENT_TYPE
+predict tomorrow thefts in 2 miles from here	History_10_NonParametric	0.6	LOCATION
+i need predictions in 2 miles from the willis tower	History_10_NonParametric	0.5	LOCATION
+forecast murders near university	History_10_NonParametric	0.7	LOCATION, INCIDENT_TYPE
+What is robberies prediction for the Old Town for tomorrow morning	Prediction_10_Parametric	0.8	risk, CALENDARX, LOCATION
+In what area it is the most dangerous during the 3rd watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+show me the predictions of arsons in Chatham	Prediction_10_Parametric	0.5	risk, CALENDARX, INCIDENT_TYPE
+How likely is a robbery today? 	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+show me the forecast about murders expected in North Park	History_10_NonParametric	0.6	INCIDENT_TYPE
+Show me the robberies risk in 5 hours from <abracadabra>	Prediction_10_Parametric	0.8	risk, INCIDENT_TYPE
+predict me robberies in 5 hours	Prediction_10_Parametric	0.5	INCIDENT_TYPE
+what is the most risky area	Prediction_10_Parametric	0.9	risk
+What area is today the most risky	Prediction_10_Parametric	0.9	risk
+Where the risk is the highest during the 2nd watch today	Prediction_10_Parametric	1.0	risk, CALENDARX, SHIFT_NUMBER
+which area carries the highest risk tomorrow during the 3rd shift	Prediction_10_Parametric	0.8	risk, SHIFT_NUMBER
+What 1st district area today is the most risky during the 2nd shift	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+Show me the robberies risk for January 5 from 2 to 3 pm.	Prediction_10_Parametric	0.5	risk, CALENDARX, INCIDENT_TYPE
+Show me the robberies risk for today.	Prediction_10_Parametric	0.6	risk, CALENDARX, INCIDENT_TYPE
+where today the robberies risk is the highest in central district	Prediction_10_Parametric	0.8	risk, LOCATION, INCIDENT_TYPE
+Where the risk during the third watch is the biggest	Prediction_10_Parametric	0.7	risk, SHIFT_NUMBER
+show me tomorrow morning hotspots	Prediction_10_Parametric	0.6	CALENDARX
+now give me the forecast 	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+where today the robberies risk is high	Prediction_10_Parametric	0.7	risk, INCIDENT_TYPE
+What's the robbery risk for today?	Prediction_10_Parametric	0.7	risk, CALENDARX, INCIDENT_TYPE
+In what first district area the murders risk is the highest	Prediction_10_Parametric	0.9	risk, LOCATION, INCIDENT_TYPE
+Which area is the most risky of theft today?	Prediction_10_Parametric	0.8	risk, CALENDARX, INCIDENT_TYPE
+In what location is the risk of robbery highest	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE
+What is the risk of an assault today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+where is it dangerous	Prediction_10_Parametric	0.6
+can you tell me the morning arson estimate	History_10_NonParametric	0.5	CALENDARX
+Where in the Central district it is dangerous today	Prediction_10_Parametric	0.5	CALENDARX, LOCATION
+What is the risk of arson today?	Prediction_10_Parametric	0.9	risk, CALENDARX
+what area in 5th district is the most risky today	Prediction_10_Parametric	1.0	risk, CALENDARX
+predict me robberies hotspots during 2 shift	Prediction_10_Parametric	0.6
+show me the morning predictions of arsons in Chatham	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+What area during the 3 watch is the most dangerous	Prediction_10_Parametric	0.8	risk
+Where it is the most dangerous today during the 2nd watch	Prediction_10_Parametric	1.0	risk, CALENDARX, SHIFT_NUMBER
+What's the possibility of a robbery today?	Prediction_10_Parametric	0.6	risk, CALENDARX, INCIDENT_TYPE
+which central district area is during the third watch risky about murders today	Prediction_10_Parametric	0.7	CALENDARX, INCIDENT_TYPE, SHIFT_NUMBER
+In what area during the 2nd watch the robberies risk is the biggest	Prediction_10_Parametric	0.8	risk, INCIDENT_TYPE, SHIFT_NUMBER
+What is the risk of a robbery occurring today	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE
+in which calumet district area today the robberies risk is high	Prediction_10_Parametric	0.6	risk, LOCATION, INCIDENT_TYPE
+In what district it is the most risky	Prediction_10_Parametric	1.0	risk
+show me the hotspots in 200 yards from here	Prediction_10_Parametric	0.5	risk, LOCATION
+What district has the greatest risk	Prediction_10_Parametric	0.7	risk, INCIDENT_TYPE
+Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.5	risk, CALENDARX, INCIDENT_TYPE
+show me tomorrow murder predictions in 1 mile from the theatre from 7 to 10 pm	Prediction_10_Parametric	0.6	risk, CALENDARX, LOCATION, INCIDENT_TYPE
+what is the hotspot in the proximity	Prediction_10_Parametric	0.6	risk, LOCATION
+Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.5	risk, CALENDARX, INCIDENT_TYPE
+what areas are risky	Prediction_10_Parametric	0.6	risk
+Show me the robberies risk for the morning	Prediction_10_Parametric	0.6	risk, CALENDARX, INCIDENT_TYPE
+What are the chances of a robbery today?	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+Show focus areas	History_10_NonParametric	0.7
+show me robberies prediction	Prediction_10_Parametric	0.6
+which area of the eleventh district today is the most dangerous	Prediction_10_Parametric	0.8	risk, LOCATION
+show me hotspots with murders for the 4 of may	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+closest focus calls	History_10_NonParametric	0.5
+Do you predict any robberies today? 	Prediction_10_Parametric	0.6	CALENDARX
+in what area of the central district the risk of murders is the highest tomorrow during the 1st watch	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE, SHIFT_NUMBER
+in what area the robberies risks are the highest in central district	Prediction_10_Parametric	0.6	risk, LOCATION, INCIDENT_TYPE
+in what district it is risky today	Prediction_10_Parametric	0.7	risk, CALENDARX
+predict me murders in the university tomorrow morning	History_10_NonParametric	0.5	CALENDARX, INCIDENT_TYPE
+i needed arson predictions	Prediction_10_Parametric	0.7
+in what area tomorrow the robberies risk will be the highest in calumet district	Prediction_10_Parametric	0.8	risk, LOCATION, INCIDENT_TYPE
+give me the forecast for robberies in 100 yards from the west side for today's morning	Prediction_10_Parametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+can you give me the robberies forecast	History_10_NonParametric	0.5	INCIDENT_TYPE
+inform me about hotspots on 5 of september	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+Where the risk is the highest	Prediction_10_Parametric	0.8	risk
+show me robberies prediction for 5 hours	Prediction_10_Parametric	0.5	risk, INCIDENT_TYPE
+What is robbery risk near the Willis tower tomorrow?	Prediction_10_Parametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+where is it dangerous now	Prediction_10_Parametric	0.5
+What area in the 1st district carries the biggest risk today during the 2nd shift	Prediction_10_Parametric	0.8	CALENDARX, LOCATION, SHIFT_NUMBER
+what area tomorrow during the 2 shift has the biggest risk of murders	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Which area carries the highest risk of murders?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+i need predictions not on the 4 of may but on the 5 of may	Prediction_10_Parametric	0.7	CALENDARX
+in which area tomorrow during the first watch the risk of murders will be the highest	Prediction_10_Parametric	0.8	risk, INCIDENT_TYPE, SHIFT_NUMBER
+tell me the estimate of murders tomorrow from 9 to 10 pm	Prediction_10_Parametric	0.5	CALENDARX, INCIDENT_TYPE
+predict me tomorrow morning hotspots	Prediction_10_Parametric	0.7	CALENDARX
+show hotspots in my district for 1 shift	History_10_NonParametric	0.5	LOCATION
+What Central district area carries during the first watch the biggest risk of murders	Prediction_10_Parametric	0.7	INCIDENT_TYPE, SHIFT_NUMBER
+Show focus calls	History_10_NonParametric	0.7
+show me hotspots in the neighborhood	Prediction_10_Parametric	0.5	LOCATION
+What location carries the highest risk of murder?	Prediction_10_Parametric	0.8	INCIDENT_TYPE
+where are focus calls	Prediction_10_Parametric	0.6
+Focus calls	History_10_NonParametric	0.5
+Where it is the most risky today concerning murders during the 2 watch	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE, SHIFT_NUMBER
+In what area of the 5 district it is the most dangerous concerning murders during the 2nd watch	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE, SHIFT_NUMBER
+What area of the Central district carries tomorrow the biggest risk of murders	Prediction_10_Parametric	0.7	LOCATION, INCIDENT_TYPE
+what area in fourth district is today more risky speaking about murders during the first watch	Prediction_10_Parametric	0.8	INCIDENT_TYPE, SHIFT_NUMBER
+What area carries the most murder risks today	Prediction_10_Parametric	0.6	CALENDARX
+Show hotspots in my shift	Prediction_10_Parametric	0.5	LOCATION
+forecast tomorrow morning murders nearby	Prediction_10_Parametric	0.5	CALENDARX
+tell me about tomorrow morning arsons estimation	History_10_NonParametric	0.5	CALENDARX
+In what location it is the most dangerous today	Prediction_10_Parametric	1.0	risk, CALENDARX
+in what area during the second watch it is more risky with crimes today	Prediction_10_Parametric	0.8	CALENDARX, INCIDENT_TYPE, SHIFT_NUMBER
+what area in 5th district is the most risky during the 2nd watch	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+what area today has big robberies risks in third district	Prediction_10_Parametric	0.5	LOCATION
+In what area during the 2nd watch robberies risk is the biggest	Prediction_10_Parametric	0.8	risk, SHIFT_NUMBER
+In what area during the 2nd watch today the risk is the highest	Prediction_10_Parametric	1.0	risk, SHIFT_NUMBER
+what area carries the biggest robberies risk today during the 2 watch	Prediction_10_Parametric	0.8	CALENDARX, SHIFT_NUMBER
+show the most risky district in 3 miles from here	Prediction_10_Parametric	0.5	risk, LOCATION
+Show me the robberies risk near the Willis Tower	History_10_NonParametric	0.5	LOCATION, INCIDENT_TYPE
+What is the risk of a theft today	Prediction_10_Parametric	1.0	CALENDARX, INCIDENT_TYPE
+show me murders hotspots from 5 to 9	Prediction_10_Parametric	0.5
+Where are focus areas	Prediction_10_Parametric	0.7
+what area today is the most dangerous concerning crimes during the third watch	Prediction_10_Parametric	0.9	risk, INCIDENT_TYPE, SHIFT_NUMBER
+In what area of the first district today it is the most risky meaning murders	Prediction_10_Parametric	1.0	risk, LOCATION, INCIDENT_TYPE
+Show me the robberies risk for tomorrow morning	Prediction_10_Parametric	0.6	risk, CALENDARX, INCIDENT_TYPE
+Do you think there will be a robbery today?	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+predict me robberies in 5 hours from now	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+In which area the risk of murders during the 2nd watch is the highest today	Prediction_10_Parametric	1.0	risk, CALENDARX, INCIDENT_TYPE, SHIFT_NUMBER
+give me the tomorrow morning estimate of crimes expected in 1 mile from the navy pier 	Prediction_10_Parametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+In what area during the 1st watch it is the most risky with murders	Prediction_10_Parametric	1.0	risk, INCIDENT_TYPE, SHIFT_NUMBER
+anything about address of the car owner	Prediction_10_Parametric	0.7	LOCATION
+show me address of the car owner	History_10_NonParametric	0.6	LOCATION
+What address is the vehicle regsitered at?	Prediction_10_Parametric	0.6
+What's the address of the vehicle owner?	Prediction_10_Parametric	0.6	risk, LOCATION
+Where does the vehicle owner reside? 	Prediction_10_Parametric	0.7
+Tell where the vehicle owner's home is located? 	Prediction_10_Parametric	0.7
+Where can I find the owner of the car? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Is there an address on the vehicle owner? 	Prediction_10_Parametric	0.7	LOCATION
+Please get me the address of the vehicle owner.	Prediction_10_Parametric	0.7	LOCATION
+What is the address where the vehicle is registered?	Prediction_10_Parametric	0.6
+What address is on the vehicle registration?	Prediction_10_Parametric	0.6	LOCATION
+What's the car owner's address? 	Prediction_10_Parametric	0.7
+contacts of the car owner	Prediction_10_Parametric	0.7	LOCATION
+how do we contact the owner of case 12 car	Prediction_10_Parametric	0.7
+What is the vehicle owner's address/phone number?	Prediction_10_Parametric	0.6
+Can I get contact information for the vehicle owner? 	History_10_NonParametric	0.6	LOCATION
+How can we get in touch with the car owner? 	Prediction_10_Parametric	0.7
+Get me the contact information for the vehicle owner. 	Prediction_10_Parametric	0.6	LOCATION, INCIDENT_TYPE
+I want to contact the car owner. 	Prediction_10_Parametric	0.5
+Find out how I can reach the owner of the car. 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Please display contact info for the vehicle owner.	History_10_NonParametric	0.6	report, LOCATION
+How can I talk to the owner?	Prediction_10_Parametric	0.5	risk
+I need the details on how to contact the vehicle owner.	Prediction_10_Parametric	0.6
+Where can I reach the owner of the car?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+I'd like to contact whoever owns the car.	Prediction_10_Parametric	0.6
+Find me contact details for the vehcle owner 	Prediction_10_Parametric	0.5	LOCATION
+How do we get in touch with the person to whom the veichle is registered?	Prediction_10_Parametric	0.7
+who owns the car	Prediction_10_Parametric	0.6
+to whom is the case 12 car registered	Prediction_10_Parametric	0.7
+Who is the car owner?	Prediction_10_Parametric	0.7
+Who is in possession of the car?	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+Who owns the car?	Prediction_10_Parametric	0.6	risk
+Whose car is this?	Prediction_10_Parametric	0.6
+What about the car owner?	Prediction_10_Parametric	0.6	LOCATION
+What do we know about the car owner? 	Prediction_10_Parametric	0.7	LOCATION
+Whose vehicle is it?	Prediction_10_Parametric	0.6
+To whom is the vehicle registered?	Prediction_10_Parametric	0.7
+What's the name on the vehicle registration?	Prediction_10_Parametric	0.7	risk, LOCATION
+Do we have an owner for that vehicle? 	History_10_NonParametric	0.6
+Whose name is the car in? 	Prediction_10_Parametric	0.7	risk
+Who is the car registered to?	Prediction_10_Parametric	0.7
+Who's on the registration? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Who does the car belong to?	Prediction_10_Parametric	0.6
+Who is the vehicle owner?	Prediction_10_Parametric	0.7
+how can i call the car owner	Prediction_10_Parametric	0.5
+i want to call the car owner	History_10_NonParametric	0.5
+What's the vehicle owner's telephone number?	History_10_NonParametric	0.6
+How can I get in contact/touch with the vehicle owner?	Prediction_10_Parametric	0.6
+What's the number for the car owner? 	Prediction_10_Parametric	0.6	LOCATION
+At what number can we reach the car owner? 	History_10_NonParametric	0.6
+I'd like to call the vehicle owner.	Prediction_10_Parametric	0.5
+Find me the car owner's number, please. 	History_10_NonParametric	0.7
+who investigated case 12	NO_MATCH	1.0
+who is case 12 investigating officer	Prediction_10_Parametric	0.6
+Who investigated the case	Prediction_10_Parametric	0.6
+Who handles incident 12	NO_MATCH	1.0
+Which officer handled the case	Prediction_10_Parametric	0.6
+Can I see case 12's detective?	History_10_NonParametric	0.6
+Who is on case 12? 	Prediction_10_Parametric	0.6
+Who is covering that case?	Prediction_10_Parametric	0.6
+Who's the officer on the case? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Who is assigned to the case?	Prediction_10_Parametric	0.7	risk
+And which officer responded?	NO_MATCH	1.0
+Who's on it?	Prediction_10_Parametric	0.4
+Who took the statements?	Prediction_10_Parametric	0.6	risk
+Who is the investigator?	Prediction_10_Parametric	0.7	risk
+Give me the investigating officer	History_10_NonParametric	0.6	INCIDENT_TYPE
+Who is handling case 12?	Prediction_10_Parametric	0.6
+address of suspect	Prediction_10_Parametric	0.3
+tell me where the suspect lives	Prediction_10_Parametric	0.6
+What's the address for that suspect?	Prediction_10_Parametric	0.7	risk
+Where does the suspect reside?	Prediction_10_Parametric	0.7
+Can I get an address for the suspect? 	Prediction_10_Parametric	0.6	LOCATION
+Where does the suspect in the case live? 	Prediction_10_Parametric	0.7	LOCATION, INCIDENT_TYPE
+Find me the suspect's residence. 	Prediction_10_Parametric	0.4
+Do we have an address for the suspect?	Prediction_10_Parametric	0.6	LOCATION
+What's the address for the suspect's residence? 	Prediction_10_Parametric	0.7	risk, LOCATION
+Pull up the suspect's address.	Prediction_10_Parametric	0.6
+Do we have a location for the suspect?	Prediction_10_Parametric	0.6	LOCATION
+i need to contact the suspect	History_10_NonParametric	0.6
+how can the suspect be reached	Prediction_10_Parametric	0.6
+I need contact information for the suspect	History_10_NonParametric	0.6	LOCATION
+all contact info of suspect	History_10_NonParametric	0.6
+suspect contact details	NO_MATCH	1.0
+suspect's contact information 	History_10_NonParametric	0.5
+What's the suspect's phone number/address?	History_10_NonParametric	0.6
+Where can I find the suspect?	Prediction_10_Parametric	0.7	risk
+Do we have contact information for the suspect in the case? 	Prediction_10_Parametric	0.7	LOCATION, INCIDENT_TYPE
+Please find me the contact information for the suspect.	History_10_NonParametric	0.6	report, LOCATION, INCIDENT_TYPE
+How can we reach/get in touch with/get a hold of the suspect? 	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+I'd like to contact the suspect.	Prediction_10_Parametric	0.6
+Get me the suspect's contact information.	History_10_NonParametric	0.4
+Display contact infomation for the suspect.	History_10_NonParametric	0.7	report, LOCATION
+How can the suspect be reached? 	Prediction_10_Parametric	0.6
+What contact information do we have on the suspect? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+I want to contact the suspect. 	Prediction_10_Parametric	0.5
+Was the suspect in a gang	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Does our suspect have any possible gang connections	NO_MATCH	1.0
+Was the suspect in a gang?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Do we suspect that the alleged perp was in a gang?	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+Does our suspect have any possible gang connections?	NO_MATCH	1.0
+Is there gang involvement suspected? 	Prediction_10_Parametric	0.6
+Is the suspect a gang member? 	Prediction_10_Parametric	0.7
+Is the suspect in any way connected with a gang?	Prediction_10_Parametric	0.6	risk, INCIDENT_TYPE
+Is the suspect connected with any gang activity? 	Prediction_10_Parametric	0.7
+Could the suspect be connected with a gang? 	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+Any information on possible gang connections for the suspect? 	Prediction_10_Parametric	0.6	LOCATION
+Is the suspect known to be a gang member? 	Prediction_10_Parametric	0.7
+give me telephone number of case 12 suspect	History_10_NonParametric	0.7
+give me telephone number of suspect	History_10_NonParametric	0.7
+and now telephone of case 12 suspect	Prediction_10_Parametric	0.6
+Do we have a telephone number for the suspect? 	History_10_NonParametric	0.7	report, LOCATION
+What's the suspect's phone number? 	History_10_NonParametric	0.6
+How can I call/get in touch with/contact the suspect?	Prediction_10_Parametric	0.6	risk
+Give me the phone number for the suspect. 	History_10_NonParametric	0.6	report, LOCATION, INCIDENT_TYPE
+At what number can the suspect be reached? 	History_10_NonParametric	0.6
+Can you please find me the suspect's cell?	History_10_NonParametric	0.6
+Get me the suspect's mobile number. 	History_10_NonParametric	0.7
+Is there a cell number for the suspect available? 	History_10_NonParametric	0.7	report, LOCATION
+Do we know the suspect's phone number? 	History_10_NonParametric	0.6
+Can we get in touch with the suspect by phone? 	Prediction_10_Parametric	0.7
+do we have anything about case 12 vehicle	History_10_NonParametric	0.6
+what does the car in case 12 look like	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Anything about the car? 	Prediction_10_Parametric	0.5	risk
+Information about the car	History_10_NonParametric	0.5
+What do we have on the car?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Do we have a description of the car?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Do we have a car make and model?	History_10_NonParametric	0.3
+What did the witness say about the car?	Prediction_10_Parametric	0.7	risk
+Are there any details on the car?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+And the car?	Prediction_10_Parametric	0.6	risk
+What about the vehicle?	Prediction_10_Parametric	0.6	risk
+Any info on the vehicle?	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+How about a vehicle description?	History_10_NonParametric	0.5
+Do we know anything about the car?	Prediction_10_Parametric	0.5	risk
+where does the witness to case 12 live	Prediction_10_Parametric	0.7
+do you know the address of witness	Prediction_10_Parametric	0.7
+do you have the witness's address	Prediction_10_Parametric	0.6
+i need the witness's address	History_10_NonParametric	0.6
+where does the eyewitness live?	Prediction_10_Parametric	0.7
+show me the witness's house	History_10_NonParametric	0.6
+Where is the witness's residence?	Prediction_10_Parametric	0.6
+Give me the address of the witness.	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Where can I find our eyewitness? 	History_10_NonParametric	0.5
+Do we have an address for the eyewitness in this case? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+What's the address for the eyewitness?	Prediction_10_Parametric	0.7	risk, LOCATION
+Can you find me information on the witness' residence?	History_10_NonParametric	0.5
+Where does the witness reside? 	Prediction_10_Parametric	0.7
+What's the witness' address?	Prediction_10_Parametric	0.7	risk
+Where can I talk to the witness in person? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+What's the address we have for the witness?	Prediction_10_Parametric	0.7	LOCATION
+give me contacts of case 12 witness	History_10_NonParametric	0.7
+do we have contacts of witness to case 12	Prediction_10_Parametric	0.3
+Show witness's contact information 	History_10_NonParametric	0.7
+Give me contact information for the witness	History_10_NonParametric	0.5	report, LOCATION
+Do you have the witness's contact information?	Prediction_10_Parametric	0.5
+How can I get in touch with the witness? 	Prediction_10_Parametric	0.7
+How can the witness be contacted?	Prediction_10_Parametric	0.6
+Where can I reach the witness? 	Prediction_10_Parametric	0.7	risk
+What is the witness's phone number/address?	Prediction_10_Parametric	0.6
+Can I get the contact details for the witness? 	Prediction_10_Parametric	0.7	LOCATION
+How can we contact the eyewitness?	Prediction_10_Parametric	0.6	risk
+Find me the contact information for this witness.	History_10_NonParametric	0.6	INCIDENT_TYPE
+How can I get a hold of the witness?	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+What do we have on witness	Prediction_10_Parametric	0.6
+Who is case 12 witness	Prediction_10_Parametric	0.6
+Describe witness	NO_MATCH	1.0
+Who is the witness in case 13?	Prediction_10_Parametric	0.7	risk
+Show witnesses	History_10_NonParametric	0.7
+Do we have anything on the witness in case 12	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Are there any witnesses in case 12	Prediction_10_Parametric	0.4
+Anything on the witness?	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Tell me about the witness in that case	History_10_NonParametric	0.5
+Give me some details on the witness 	History_10_NonParametric	0.6
+Update me on the witness in case 12	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+What about witnesses?	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+Can I get a witness description? 	History_10_NonParametric	0.6
+Who was the witness in the case?	Prediction_10_Parametric	0.7	LOCATION, INCIDENT_TYPE
+Can you give me details on the witness in the case?	Prediction_10_Parametric	0.5	LOCATION, INCIDENT_TYPE
+Please provide a description of the witness	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+And the witness?	Prediction_10_Parametric	0.6	risk
+Any witnesses in the case?	Prediction_10_Parametric	0.7	LOCATION
+Was the witness injured	Prediction_10_Parametric	0.6
+Did the witness sustain any injuries	Prediction_10_Parametric	0.6
+Was the witness injured?	Prediction_10_Parametric	0.6
+Was the eyewitness wounded?	Prediction_10_Parametric	0.6
+Did the witness sustain any injuries?  	Prediction_10_Parametric	0.6
+Was the witness harmed in any way?	Prediction_10_Parametric	0.7
+Were there any injuries to the witness? 	Prediction_10_Parametric	0.6	risk
+Did the witness escape unharmed? 	Prediction_10_Parametric	0.6
+Were there any physical injuries sustained by the witness? 	Prediction_10_Parametric	0.6	risk
+Did the witness have any injuries? 	Prediction_10_Parametric	0.6
+Was the witness hurt? 	Prediction_10_Parametric	0.6
+Was the witness harmed during the commission of the crime? 	Prediction_10_Parametric	0.7	INCIDENT_TYPE
+Did the witness come out of it unharmed? 	Prediction_10_Parametric	0.6
+navigate to witness	NO_MATCH	1.0
+Give me the phone number for the witness	History_10_NonParametric	0.6	report, LOCATION, INCIDENT_TYPE
+How can I call the witness?	Prediction_10_Parametric	0.5	risk
+How can I call the witness?	Prediction_10_Parametric	0.5	risk
+Find the witness's number	History_10_NonParametric	0.7
+Show telephone of the bystander	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+What's the number for the eyewitness? 	Prediction_10_Parametric	0.6	LOCATION
+Where can the witness be reached? 	Prediction_10_Parametric	0.7
+At what number can we reach the eyewitness?	History_10_NonParametric	0.6
+Get me the phone number for the witness in the case. 	History_10_NonParametric	0.6	report, LOCATION, INCIDENT_TYPE
+Pull up the phone number for the eyewitness. 	History_10_NonParametric	0.6	report, LOCATION
+How do I get a hold of the witness in the case? 	Prediction_10_Parametric	0.6	LOCATION, INCIDENT_TYPE
+What's the witness' phone number? 	History_10_NonParametric	0.7
+Get me a number where I can contact the witness, please. 	History_10_NonParametric	0.6
+Do we have a cell number for the eyewitness? 	History_10_NonParametric	0.7	report, LOCATION
+show me details on a Mr. Joe Schmo. 	History_10_NonParametric	0.6
+can you tell me whether there is a record on miss callie white? 	History_10_NonParametric	0.5
+bring up all info for Jonathan Wile	History_10_NonParametric	0.6	report
+what do you have on a Mr. Carl Geiger?	Prediction_10_Parametric	0.7
+do we have a record on a Ms. Joanna Kyle?	History_10_NonParametric	0.4
+can i get a background check on Harriet Yelling.	History_10_NonParametric	0.6
+run a check, please, on a Lola Ferris	History_10_NonParametric	0.5
+is there any information on a Mr. James Teague?	Prediction_10_Parametric	0.6
+can you pull the record for a Greta Finnegan	Prediction_10_Parametric	0.6	risk
+pull up a Ms. Carlita Gutierrez	History_10_NonParametric	0.3
+May i please see the record for Jonah Mansfield	Prediction_10_Parametric	0.6	risk
+check Kim Hilford	NO_MATCH	1.0
+please search for a Pilar Frost-Winston in the records	Prediction_10_Parametric	0.6	LOCATION
+Look for Mr. Bin Chook-Lee 	History_10_NonParametric	0.6
+find Diem Truong 	NO_MATCH	1.0
+find Yaroslav Gusevich	NO_MATCH	1.0
+find Mr. Bin Chook-Lee	NO_MATCH	1.0
+find Ms. Kelly robinson.	NO_MATCH	1.0
+Find a Ms. Rosa Deacon	History_10_NonParametric	0.4
+Give incident details	History_10_NonParametric	0.6
+please pull up incident 23456	History_10_NonParametric	0.6
+detail on case 234466	Prediction_10_Parametric	0.3
+can you show me incident 23456	History_10_NonParametric	0.5
+bring up incident 23456	NO_MATCH	1.0
+display incident 23456	History_10_NonParametric	0.9
+can i please see the details on incident 23456	Prediction_10_Parametric	0.6
+give me some information on incident 234576	History_10_NonParametric	0.5
+show incident 234656	History_10_NonParametric	0.7
+incident 233456	NO_MATCH	1.0
+who are the suspects in incident 23456?	Prediction_10_Parametric	0.7	risk
+please pull up the information on case 34567	History_10_NonParametric	0.6
+i'd like to see the details on incident 23446	Prediction_10_Parametric	0.6
+provide the details for incident 77965	Prediction_10_Parametric	0.6	risk
+give me the facts on case 98760876	History_10_NonParametric	0.6
+please pull up the record on case 79657956	Prediction_10_Parametric	0.6
+Man of about 30	History_10_NonParametric	0.4	INCIDENT_TYPE
+30 year old man	History_10_NonParametric	0.4
+Teenage girl	NO_MATCH	1.0
+Middle-aged woman	NO_MATCH	1.0
+A lady in years	History_10_NonParametric	0.4
+Male, nearly 70	NO_MATCH	1.0
+A man in his seventies	History_10_NonParametric	0.4
+A woman from 30 to 50	Prediction_10_Parametric	0.4
+an elderly male/man/female/woman/gentleman/lady	NO_MATCH	1.0
+a male/female senior citizen	History_10_NonParametric	0.3
+pre-teen girl	NO_MATCH	1.0
+female toddler	NO_MATCH	1.0
+a school-age girl/boy	History_10_NonParametric	0.4
+woman of about 30 years of age 	History_10_NonParametric	0.4
+old man	Prediction_10_Parametric	0.4
+a female senior	History_10_NonParametric	0.4
+a young lady in her teens	History_10_NonParametric	0.4
+male, approximately 30 years of age	Prediction_10_Parametric	0.3
+female, over 70 years of age	Prediction_10_Parametric	0.3
+Male teenager	NO_MATCH	1.0
+White woman	NO_MATCH	1.0
+Indian girl	NO_MATCH	1.0
+Black guy	NO_MATCH	1.0
+Caucasian woman	NO_MATCH	1.0
+Hispanic male/female/man/woman/lady/gentleman	NO_MATCH	1.0
+Arab male	NO_MATCH	1.0
+African-American male	NO_MATCH	1.0
+Caribbean male	NO_MATCH	1.0
+Asian male	NO_MATCH	1.0
+East Asian male	NO_MATCH	1.0
+South Asian male	NO_MATCH	1.0
+Native American male	NO_MATCH	1.0
+African male	NO_MATCH	1.0
+Latino male / Latina female	NO_MATCH	1.0
+Male Pacific Islander 	NO_MATCH	1.0
+American Indian male	NO_MATCH	1.0
+Middle-Eastern male	NO_MATCH	1.0
+Male person of color 	Prediction_10_Parametric	0.3
+Native Hawaiian/Alaskan male	NO_MATCH	1.0
+Male, Hispanic	NO_MATCH	1.0
+Black woman in her thirties	History_10_NonParametric	0.3
+White man of about 30	History_10_NonParametric	0.4	INCIDENT_TYPE
+Native hawaiian, male, 30 years of age	Prediction_10_Parametric	0.3
+Caucasian woman, between 30 and 60	NO_MATCH	1.0
+Asian boy	NO_MATCH	1.0
+Woman in mid-thirties, indian	History_10_NonParametric	0.3
+Man in mid-to-late seventies	History_10_NonParametric	0.3
+Woman in her forties, black	History_10_NonParametric	0.3
+African American female, approximately 50 years of age	Prediction_10_Parametric	0.3
+Female, South Asian, over 55 years of age	Prediction_10_Parametric	0.3
+African American senior citizen, female	NO_MATCH	1.0
+Middle aged Hispanic male	NO_MATCH	1.0
+25 year old female, caucasian	History_10_NonParametric	0.4
+African American teen, male	NO_MATCH	1.0
+Caucasian woman, 20 to 30 years of age	Prediction_10_Parametric	0.4
+30-year-old white male	NO_MATCH	1.0
+woman, 100 pounds	NO_MATCH	1.0
+male 170 pounds	NO_MATCH	1.0
+man, weighing about 170 pounds	History_10_NonParametric	0.5
+man, weight from 150 to 200 pounds	Prediction_10_Parametric	0.4
+slim woman	NO_MATCH	1.0
+overweight man	NO_MATCH	1.0
+200-pound female	NO_MATCH	1.0
+heavyset male	NO_MATCH	1.0
+obese man	NO_MATCH	1.0
+thin woman	NO_MATCH	1.0
+skinny gentleman	NO_MATCH	1.0
+muscular male	NO_MATCH	1.0
+woman, weight  over 200 pounds	NO_MATCH	1.0
+underweight Hispanic female	NO_MATCH	1.0
+black man, weight 150 pounds	NO_MATCH	1.0
+white girl, 100 pounds	NO_MATCH	1.0
+Hispanic female, over 200 pounds	NO_MATCH	1.0
+Heavyset Asian male	NO_MATCH	1.0
+extremely thin white female	NO_MATCH	1.0
+overweight black female	NO_MATCH	1.0
+Male, African American, heavyset	NO_MATCH	1.0
+Woman weighing about 150 pounds, Latina	History_10_NonParametric	0.5
+Overweight male, of Middle-Eastern decent	Prediction_10_Parametric	0.3
+Asian female, extremely thin	NO_MATCH	1.0
+woman, 1 meter 70 cm tall	Prediction_10_Parametric	0.3
+the man is 6 feet 4 inches tall	Prediction_10_Parametric	0.7
+male, height from 6 feet 2 inches to 7 feet 3 inches	History_10_NonParametric	0.4
+male 173 cm	NO_MATCH	1.0
+a tall woman	History_10_NonParametric	0.4
+middle height man	NO_MATCH	1.0
+male, about six foot four	Prediction_10_Parametric	0.4
+short female	NO_MATCH	1.0
+extremely tall man	NO_MATCH	1.0
+a woman, about five feet seven inches 	Prediction_10_Parametric	0.4
+a girl about 60 inches tall	History_10_NonParametric	0.5
+a male of below/above average height	History_10_NonParametric	0.4
+a girl in her twenties about 5 feet 3 inches	Prediction_10_Parametric	0.5
+a woman about 40 height 5 feet 2 inches	History_10_NonParametric	0.4
+female, late 30s, about 6 feet tall	Prediction_10_Parametric	0.4
+a middle aged man, over 6 feet/foot tall	History_10_NonParametric	0.3
+Male, about 5 foot 6, approximately 50 years old	Prediction_10_Parametric	0.6
+Tall, middle-aged female. 	NO_MATCH	1.0
+Very short male, possibly in his late 30s	History_10_NonParametric	0.3
+Elderly, short  woman	NO_MATCH	1.0
+Police have blamed the robbery on the IRA which has repeatedly denied any connection to the theft	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+The Northern Bank heist is one of the largest in Europesince the theft of more than US$65 million from a London bank in 1987. 	Prediction_10_Parametric	0.5	INCIDENT_TYPE
+The sheer numbers of the cars and their lack of theft deterrent systems make them thieves ' preferred choices.	Prediction_10_Parametric	0.6
+According to the reports, Secret Service agents guarding Miss Bush failed to notice the theft . 	History_10_NonParametric	0.6	INCIDENT_TYPE
+A Bush administration official confirmed that " a theft incident " involving Barbara Bush had occurred, butdeclined details. 	History_10_NonParametric	0.5
+Mazhari, who is a sculptor, was charged with the unrelated theft of $100,000 worth of paintings last year. 	History_10_NonParametric	0.5	CALENDARX
+The crying woman told a constable the plant theft was the fourth from her property in four years. 	Prediction_10_Parametric	0.6	CALENDARX
+Sergeant Mal Lochrie said that the officer found it hard to stop smiling as the woman gave details of the theft over the phone.	Prediction_10_Parametric	0.6	INCIDENT_TYPE
+The man had been in custody for a month on charges of theft from the Royal Library in Stockholm.	Prediction_10_Parametric	0.5
+The increase in security cameras being used in schools is an attempt to protect valuable schooling equipment from theft and damage, in particular computers incomputer rooms. 	Prediction_10_Parametric	0.6
+The FBI listed the theft of the painting as of one of the world 's top ten art crimes inrecent years	Prediction_10_Parametric	0.6	LOCATION
+Gruber has been charged with theft before. 	History_10_NonParametric	0.6
+s organization based in Washington, D. D. C., calling Logo " another example of an assault on children 's innocence, a means of legitimizing a homosexual lifestyle,mainstreaming homosexuality in a positive and	History_10_NonParametric	0.6
+He faces charges of attempted homicide, aggravated assault , burglary and criminal mischief. 	History_10_NonParametric	0.6
+Atkinson had been charged with kidnap and assault in a separate case involving a Polishwoman.	History_10_NonParametric	0.5	CALENDARX
+An 11-year-old girl faces serious assault charges in California after casting a stone at a group ofboys who were throwing water balloons at her.	History_10_NonParametric	0.5
+We determined a felony assault had taken place and the officers took theactions that were necessary.	Prediction_10_Parametric	0.4
+He is capable of sexual consent and that therefore any sexual contact is automatically deemed in law to be a sex assault , " said OutRage! 's Peter Tatchell. 	Prediction_10_Parametric	0.6
+They proceeded to throw grenades and fire their assault weapons. 	History_10_NonParametric	0.6
+Officers in full body armour, helmets and gas masks and armed with shotguns and assault rifles were seen moving in. 	History_10_NonParametric	0.5
+The force, estimated to be up to a hundred men, overpowered Arafat 's numerous bodyguards, using assault rifles and grenades, before directly assaulting the house.	Prediction_10_Parametric	0.5
+ISI were also seen guarding a gated community, and were wearing full military gear including bulletproof vests and M16 assault rifles.	History_10_NonParametric	0.5
+The goal of this is to see trends in crime and locations.	Prediction_10_Parametric	0.7
+The strength of the effect of BID on robbery crimes varied by location.	Prediction_10_Parametric	0.6
+In emergency circumstances to report a crime; the location of the crime or victims; or the identity, description or location of the person who committedthe crime.	Prediction_10_Parametric	0.6
+Africa BOPNet crime Google location South Africa Street ViewPosted by Scott Smith Comments	History_10_NonParametric	0.5
+Much crime is gang or drug related, and usually occurs in areas that are of little interest to visitors. 	Prediction_10_Parametric	0.7
+First and foremost, identify the high crime districts and avoid them. Speak softly. Dress to blend in.	Prediction_10_Parametric	0.6
+While there is no definitive analysis of the New York crime decline to date, most observers believe that the interplay of a number of variables wasresponsible.	Prediction_10_Parametric	0.6
+ Now consider the increased senseless violence at our schools and unchecked crime on our streets.	Prediction_10_Parametric	0.7
+ Cops Seize Photographer 's Film ... for the crime of street photography ( hat tip: BoingBoing ). 	Prediction_10_Parametric	0.6
+Research consistently finds that adverse social conditions are correlated with problem behaviors ( street crime, street gangs, truancy, drop outrates, teen pregnancy, etc. ).	Prediction_10_Parametric	0.4
+For example, Maritimers are as prone as other Canadians to believe that crime in our streets is getting worse. 	Prediction_10_Parametric	0.6
+The ban also had the supportof local businesses, who wanted an end to the thefts, assaults, shoplifting and other street crime on Rotorua streets. 	Prediction_10_Parametric	0.5
+They did -- and they repealedthat prohibition after a 15-year national nightmare that included a nationwide rise of organized crime, street violence and ... drinking! 	History_10_NonParametric	0.3
+Crime was an issue in the area.	Prediction_10_Parametric	0.6	LOCATION
+ How long will we see people murdered in the street for making fun ofor disagreeing with Islam as in the Netherlands recently?	Prediction_10_Parametric	0.7	risk, LOCATION
+An American named Michael Brewer, who runs a home for " street kids and runaway 'restavek ' slave children " says carloads of men " who areactually members of the now disbanded military, have began patrolling the streets of Port-au-Prince and are indiscriminately murdering street children for no reason otherthan sport. 	Prediction_10_Parametric	0.6
+Count Dracula Beloved war-hero, aristocrat and former cabinet minister Count Vlad Dracula, Hammer of the Turks and Hero of Wallachiawas brutally murdered yesterday by a ruthless gang of accountants and lawyers from England. In his youth, Count Dracula fought to keep his country free fromencroachment by the Ottoman Empire.	Prediction_10_Parametric	0.6
+Attorney General Gord Mackintosh struck an independent inquiry into theJames Driskell murder case yesterday amid mounting allegations police and prosecutors failed to disclose evidence that would have cast doubt on the conviction.	Prediction_10_Parametric	0.6	risk
+The police chief actually suspected someone else of the murder.Yesterday, the New Brunswick government re-opened the case, finally deciding to examine exhibits seized from the crime scene that somehow have gone untested untilnow. 	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE
+Murder evidence ignored BARBARA BROWN, Justice Reporter The Hamilton Spectator, June 17, 2000 	Prediction_10_Parametric	0.6	CALENDARX
+s conviction: Report suggests Driskell was a victim of deal-making By KIRK MAKIN AND GRAEME SMITH, Nov. 25, 2003 Gaping holes appeared in a 12-year-oldManitoba murder conviction yesterday after the release of a long-suppressed police report suggesting a key underworld witness was told he would not be charged in anarson prosecution in return for his	History_10_NonParametric	0.5	CALENDARX, INCIDENT_TYPE
+Prosecutorswithdrew a second-degree murder charge yesterday against Chris McCullough, who spent nearly nine years in prison for the slaying of Tapleytown School teacherBeverley Perrin.	Prediction_10_Parametric	0.5
+ Crime in Britain has more than doubled since 1979.	History_10_NonParametric	0.3
+A Washington survey, for example, showed that 38 per cent of those asked revealed that they had been a victim of a serious crime within thelast year, compared to the 10 per cent revealed by police statistics. 	History_10_NonParametric	0.6	INCIDENT_TYPE
+More than 1.5 million carcrimes were committed last year, one in five by people under 21, a survey found. 	History_10_NonParametric	0.6	CALENDARX
+The revelation comes as an oil industry survey claims 84 per cent of forecourts were hitby crime last year . 	Prediction_10_Parametric	0.5	CALENDARX
+The latest security report says installing cameras has finally led to a fall in car theft, but overall hospital crime rose12.5% last year. 	History_10_NonParametric	0.6	CALENDARX
+for the police, in some parts of the region car related crimes have reached epidemic porportions, in the Thames Valley region for instance, there were 40,000 car- relatedcrimes last year . The police want tougher action taken against offenders: He says that all to often it 's the same people committing the crimes, theyaalso commit more whileon	History_10_NonParametric	0.5	CALENDARX, LOCATION, INCIDENT_TYPE
+The force, which covers Oxfordshire, Buckinghamshire and Berkshire solved just twenty one point seven percent ofreported crimes last year. 	History_10_NonParametric	0.7	CALENDARX
+He had served ten years in jail in the Republic for armed robbery.	Prediction_10_Parametric	0.6	LOCATION, INCIDENT_TYPE
+The hut at North Park, Darlington,was destroyed in an arson attack last year.	History_10_NonParametric	0.6	CALENDARX
+The whole questionof what constitutes the rightful ownership of great international works of art is a minefield which, except in cases of outright and proven theft in very recent times, is bestleft undisturbed.	Prediction_10_Parametric	0.5
+Maxine Carr had nothing to do with the Soham murders.	History_10_NonParametric	0.6	INCIDENT_TYPE
+She had the perfect alibi which distanced her from one of the most terrible crimes of recent decades	Prediction_10_Parametric	0.6
+Without A Trace 10pm, C4 Undoubtedly one ofthe most consistently satisfying crime shows of recent years	Prediction_10_Parametric	0.6	CALENDARX
+The island was one of the more peaceful in the West Indies but had been plagued by drugs and violent crime in recent years.	Prediction_10_Parametric	0.7	LOCATION
+Tom Cruise has a tough time in Minority Report, where future crime ispredicted	History_10_NonParametric	0.7
+Cruise is a drug-addicted cop in a future where murder is predicted before it is committed	Prediction_10_Parametric	0.6
+However, the impact of thoseparameters on the accuracy of crime prediction has not been evaluated yet.	Prediction_10_Parametric	0.7
+In essence, hotspot mapping is used as a basic form of crime prediction.	Prediction_10_Parametric	0.7
+Edward Davey MP acknowledged that his nightmarishcrime predictions were coming true.	Prediction_10_Parametric	1.0

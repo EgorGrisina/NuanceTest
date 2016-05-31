@@ -1,0 +1,668 @@
+Tell me about robberies near the University last month	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, CALENDARX, prep, tell
+tell me anything about murders in 1 mile from the Willis tower	Prediction_10_Parametric	0.5	report, INCIDENT_TYPE, def, LOCATION, prep, tell
+show crimes in my district in August 2014	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+list all reports of theft for last week	NO_INTENT	0.6	CALENDARX, not_needed, INCIDENT_TYPE, prep
+can you report me about arsons committed in 3 miles around the art museum last month	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+I need cases in the Willis tower	Prediction_10_Parametric	0.5	def, prep, tell
+show me the robbery statistics for the willis tower in july	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+show me all emergency services calls for zip 19134 yesterday	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+could you show me the robbery stats for the willis tower area 	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, prep, tell
+Tell me about robberies near the Willis tower in August	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, CALENDARX, prep, tell
+show me murders near central district	Prediction_10_Parametric	0.7	LOCATION, prep, tell
+history for location	Prediction_10_Parametric	0.5
+give me a report on crimes near the willis tower yesterday	NO_INTENT	0.7	def, CALENDARX, not_needed, prep, tell
+please display the EMS call stats for yesterday 	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+give me information on the number of murders within a 5 mile radius of here for last week 	NO_INTENT	0.5	where, def, CALENDARX, not_needed, prep, tell
+Show me robberies near the Willis Tower	Prediction_10_Parametric	0.7	def, prep, tell
+I need last year cases	Prediction_10_Parametric	0.5	CALENDARX, tell
+Tell me about robberies near the University	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, prep, tell
+show murders in calumet	Prediction_10_Parametric	0.6	prep, tell
+show me murders in 3 miles from here	Prediction_10_Parametric	0.7	prep, tell
+show crimes near the bank	Prediction_10_Parametric	0.6	def, prep, tell
+Tell me about robberies in the <abracadabra> last month	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, CALENDARX, prep, tell
+show the murders committed last week in the willis tower	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+Tell me about robberies near the University in September	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, prep, tell
+Tell me how many thefts there were in july for the city	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+show murders in district 7	Prediction_10_Parametric	0.7	prep, tell
+have there been any fires near the willis tower in july?	Prediction_10_Parametric	0.6	CALENDARX, def, prep
+provide the theft stats for yesterday in the entire city 	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep
+how many thefts were reported last week in chicago	Prediction_10_Parametric	0.6	CALENDARX, prep
+show me last week murders	Prediction_10_Parametric	0.7	CALENDARX, INCIDENT_TYPE, tell
+thefts within 3 blocks of the willis tower	Prediction_10_Parametric	0.6	def, prep
+Show me homicides in the Old Town in August	Prediction_10_Parametric	0.6	def, prep, tell
+show me murders in September	Prediction_10_Parametric	0.7	CALENDARX, tell
+how many robberies occurred in the university last year 	Prediction_10_Parametric	0.6	CALENDARX, def, prep
+show me all EMS calls for kensington in the past 48 hours	Prediction_10_Parametric	0.6	def, prep, tell
+show all thefts for last week in the downtown area	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+find all reported rapes in  the city yesterday	Prediction_10_Parametric	0.6	CALENDARX, def, prep
+inform me of the embezzlements in the bank of america	NO_INTENT	0.6	not_needed, def, prep, tell
+show me robberies nearby	Prediction_10_Parametric	0.6	INCIDENT_TYPE, prep, tell
+let me see the arsons that occurred around the willis tower in 2014	Prediction_10_Parametric	0.6	def, prep, tell
+all fires in the past 24 hours	Prediction_10_Parametric	0.7	def, prep
+What is the history for that location	Prediction_10_Parametric	0.6	def, prep, tell, risk
+show me murders in 1 mile from 1 district	Prediction_10_Parametric	0.6	LOCATION, prep, tell
+inform me of the embezzlements in April in the bank of America	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+last week's murder statistics for all of chicago 	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE, prep, risk
+robberies in the willis tower in 2010	Prediction_10_Parametric	0.7	def, prep
+what are the robbery stats for the willis tower area for the past year	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+Give me the number of thefts for july within 3 blocks of the willis tower	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+Tell me about robberies in 2 kilometers from the Willis tower in August	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, CALENDARX, prep, tell
+how many fires were there in April	Prediction_10_Parametric	0.6	CALENDARX
+give me the willis tower crime stats for july 	Prediction_10_Parametric	0.7	CALENDARX, def, prep, tell
+Tell me about robberies in 100 yards from here in August	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE, prep, tell
+Tell me about robberies last month	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE, prep, tell
+incidents of arson in the past 24 hours	Prediction_10_Parametric	0.7	def, prep
+show me robberies history	Prediction_10_Parametric	0.6	INCIDENT_TYPE, prep, tell
+can you tell me anything about murders in the university in july 	Prediction_10_Parametric	0.5	report, INCIDENT_TYPE, def, CALENDARX, prep, tell
+show incidents in my district in August 2015	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+i need the last month cases	Prediction_10_Parametric	0.5	CALENDARX, def, tell
+display all reported crimes for the immediate area yesterday	Prediction_10_Parametric	0.7	CALENDARX, def, prep
+tell me anything about last month murders in 1 mile from the willlis tower	Prediction_10_Parametric	0.5	report, def, CALENDARX, LOCATION, prep, tell
+Tell me about robberies near the <abracadabra> last month	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, CALENDARX, prep, tell
+Show me robberies in September	Prediction_10_Parametric	0.6	CALENDARX, tell
+how many thefts occurred in july near the Willis Tower	Prediction_10_Parametric	0.7	CALENDARX, def, prep
+show me crime stats for this area for last week	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+Tell me about robberies in 2 miles last month	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE, prep, tell
+all 2014 murders within a 500 meter radius of the willis tower 	NO_INTENT	0.5	not_needed, def, prep
+say anything about murders committed last week in 1 mile around chatham	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE, LOCATION, prep
+tell me about last week murders near willis tower	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+Show me robberies near the Willis Tower in September	Prediction_10_Parametric	0.6	def, prep, tell
+update me on the number of murders in the willis tower area for 2014	NO_INTENT	0.6	INCIDENT_TYPE, def, not_needed, prep, tell
+How many thefts were there in july around the willis tower	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+bring up all thefts with a mile of the willis tower on june 10	NO_INTENT	0.6	CALENDARX, not_needed, def, prep
+How many thefts happened in the University in September?	Prediction_10_Parametric	0.7	CALENDARX, def, prep, tell
+show me murders near calumet district committed last week	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+thefts in july in the area of the willis tower	Prediction_10_Parametric	0.7	CALENDARX, def, prep
+Tell me the number of 911 calls made last week	Prediction_10_Parametric	0.7	CALENDARX, def, prep, tell
+list all robberies in the city in the past 2 days	Prediction_10_Parametric	0.6	def, prep
+Tell me about robberies nearby in August	Prediction_10_Parametric	0.6	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+show me the nearest last month robberies	Prediction_10_Parametric	0.7	CALENDARX, def, tell
+july murder stats for the sears tower area	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, prep, tell
+give me robbery stats for within 10 minutes of the willis tower in july	Prediction_10_Parametric	0.7	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+thefts in july within 5 minutes of the willis tower	Prediction_10_Parametric	0.7	CALENDARX, def, prep
+Tell me about robberies in 2 miles from the <abracadabra> last month	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, CALENDARX, prep, tell
+what about murders stats	Prediction_10_Parametric	0.7	INCIDENT_TYPE, prep, tell
+july thefts near the willis tower 	Prediction_10_Parametric	0.5	def, prep, tell
+list all thefts last week for the willis tower area	Prediction_10_Parametric	0.7	CALENDARX, def, prep
+can you tell me anything about murder predictions on the 4 of may from 5 pm till 6 pm in the Addams park 	Prediction_10_Parametric	0.9	report, def, risk, CALENDARX, LOCATION, prep, tell, INCIDENT_TYPE
+Where it is the most risky today	Prediction_10_Parametric	1.0	where, def, it, risk, is, CALENDARX
+In what location is the risk of robbery battery	Prediction_10_Parametric	1.0	where, INCIDENT_TYPE, def, risk, is, prep
+In what area it is the most dangerous meaning murders	Prediction_10_Parametric	1.0	where, INCIDENT_TYPE, def, it, risk
+what is the nearest dangerous area	Prediction_10_Parametric	1.0	where, def, risk
+tell me about murder predictions in evening	Prediction_10_Parametric	1.0	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+Show me the robberies risk in 5 hours from now	Prediction_10_Parametric	0.8	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+in what area of the central district it is the most dangerous during the 1st watch	Prediction_10_Parametric	1.0	def, risk, LOCATION, prep, where, it, SHIFT_NUMBER, is
+What areas are risky now	Prediction_10_Parametric	1.0	where, is, CALENDARX, risk
+In what calumet district area the murder risk is the highest	Prediction_10_Parametric	1.0	where, INCIDENT_TYPE, def, risk, LOCATION
+In what location is the risk of robbery highest	Prediction_10_Parametric	1.0	where, INCIDENT_TYPE, def, risk, is, prep
+What is the risk of a kidnapping today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+What is the risk of a robbery happening today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, happen, CALENDARX, prep
+show the hotspots for today	Prediction_10_Parametric	1.0	def, risk, CALENDARX, prep, tell
+In what 20 district area it is the most risky with murders during the 2nd watch	Prediction_10_Parametric	1.0	def, risk, LOCATION, prep, where, INCIDENT_TYPE, it, SHIFT_NUMBER, is
+tell me about murder estimations on the 4 of may in the morning in 1 mile from the bank	Prediction_10_Parametric	0.8	INCIDENT_TYPE, def, risk, CALENDARX, LOCATION, prep, tell
+What is the robbery prediction for the Old Town for tomorrow morning	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, LOCATION, prep
+What is the risk of a murder today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+What's the likelihood of a robbery occurring today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, happen, CALENDARX, prep
+where are the hotspots during 1 shift	Prediction_10_Parametric	1.0	where, def, risk, SHIFT_NUMBER, is, prep
+what are the hotspots	Prediction_10_Parametric	0.6	def, tell, risk
+show murders on the 4 of may	Prediction_10_Parametric	0.5	CALENDARX, def, prep, tell
+what area is today the most dangerous about murders in the tenth district during the first watch	Prediction_10_Parametric	0.8	def, risk, CALENDARX, LOCATION, prep, where, INCIDENT_TYPE, SHIFT_NUMBER, is
+What is the risk of a rape today?	Prediction_10_Parametric	0.7	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+can you tell me the morning predictions	Prediction_10_Parametric	0.6	def, tell
+What area is today during the second watch the most risky in terms of murders	Prediction_10_Parametric	0.7	def, risk, CALENDARX, prep, where, INCIDENT_TYPE, SHIFT_NUMBER, is
+What is the risk of a homicide today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+Do you think there will be any robberies today?	Prediction_10_Parametric	0.7	CALENDARX, tell
+What is robbery risk near the Willis tower?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, prep, tell
+What area is the most risky tomorrow during the second watch	Prediction_10_Parametric	0.8	where, def, risk, SHIFT_NUMBER, is, CALENDARX, prep
+i meant predictions for the 4 of may	Prediction_10_Parametric	0.6	CALENDARX, def, prep
+show me the forecast for robberies in Beverly on the 1 of december	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+Closest focus areas	Prediction_10_Parametric	0.4
+what are the hotspots in 1 mile from the willis tower	Prediction_10_Parametric	0.6	def, risk, LOCATION, prep, tell
+where it is risky today	Prediction_10_Parametric	0.6	where, it, risk, is, CALENDARX
+show me tomorrow murders hotspots	Prediction_10_Parametric	0.7	INCIDENT_TYPE, tell, risk
+where in central district today the robberies risks are the highest	Prediction_10_Parametric	0.5	CALENDARX, def, LOCATION, prep
+Tell me the chance of a robbery today?	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, CALENDARX, prep, tell
+Closest hotspot	NO_MATCH	1.0	not_needed
+Focus areas	Prediction_10_Parametric	0.4
+in which area the robberies risks are high during the first shift today	Prediction_10_Parametric	0.5	where, CALENDARX, def, prep
+show the hotspots	Prediction_10_Parametric	0.7	def, tell, risk
+show predictions about murders on the 4 of may	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, CALENDARX, prep, tell
+Where the risk is the highest today during the 3 watch	Prediction_10_Parametric	0.7	where, def, risk, SHIFT_NUMBER, CALENDARX, prep
+predict murders in willis tower	Prediction_10_Parametric	0.6	prep
+what is the most risky area nearby	Prediction_10_Parametric	0.7	def, prep, tell, risk
+In what location is robberies risk highest?	Prediction_10_Parametric	0.7	where, is, INCIDENT_TYPE, risk
+show me the forecast about murders expected to be committed in North Park	NO_INTENT	0.6	not_needed, def, prep, tell
+What is the risk of a burglary today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+Which area is the most risky today?	Prediction_10_Parametric	0.8	where, def, risk, is, CALENDARX
+What is the crime prediction for tomorrow morning?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+in what area it is the most risky today	Prediction_10_Parametric	1.0	where, def, it, risk, is, CALENDARX
+In what area of the Central district today during the 2nd watch it is the most risky	Prediction_10_Parametric	0.8	def, risk, CALENDARX, LOCATION, prep, where, it, SHIFT_NUMBER, is
+Where the risk of a murder is the highest	Prediction_10_Parametric	0.6	where, INCIDENT_TYPE, def, risk, is, prep
+What location carries the highest risk of theft?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, prep, tell
+which central district area carries high robberies risks today	Prediction_10_Parametric	0.6	where, CALENDARX, LOCATION
+Show me the robberies risk in 5 hours	Prediction_10_Parametric	0.7	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+What is the risk of a robbery today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+show me the hotspots in this district	Prediction_10_Parametric	0.6	def, prep, tell, risk
+what fifth district area today is dangerous in terms of crimes during the second watch	Prediction_10_Parametric	0.5	def, CALENDARX, LOCATION, prep, tell, where, INCIDENT_TYPE, SHIFT_NUMBER, is
+predict me robberies hotspots in 5 hours	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+Show me the robberies risk for tomorrow from 3 to 6 pm	Prediction_10_Parametric	0.5	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+predict tomorrow thefts in 2 miles from here	Prediction_10_Parametric	0.7	prep
+i need predictions in 2 miles from the willis tower	Prediction_10_Parametric	0.6	def, prep
+forecast murders near university	Prediction_10_Parametric	0.5
+What is robberies prediction for the Old Town for tomorrow morning	Prediction_10_Parametric	0.8	def, risk, CALENDARX, prep, tell
+In what area it is the most dangerous during the 3rd watch	Prediction_10_Parametric	0.8	where, def, it, risk, SHIFT_NUMBER, is, prep
+show me the predictions of arsons in Chatham	Prediction_10_Parametric	0.5	def, prep, tell
+How likely is a robbery today? 	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, is, CALENDARX, tell
+show me the forecast about murders expected in North Park	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, prep, tell
+Show me the robberies risk in 5 hours from <abracadabra>	Prediction_10_Parametric	0.7	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+predict me robberies in 5 hours	Prediction_10_Parametric	0.6	CALENDARX, prep, tell
+what is the most risky area	Prediction_10_Parametric	0.7	def, tell, risk
+What area is today the most risky	Prediction_10_Parametric	0.8	where, def, risk, is, CALENDARX
+Where the risk is the highest during the 2nd watch today	Prediction_10_Parametric	0.7	where, def, risk, SHIFT_NUMBER, CALENDARX, prep
+which area carries the highest risk tomorrow during the 3rd shift	Prediction_10_Parametric	0.6	SHIFT_NUMBER, CALENDARX, def, prep
+What 1st district area today is the most risky during the 2nd shift	Prediction_10_Parametric	0.8	def, risk, CALENDARX, LOCATION, prep, tell, where, SHIFT_NUMBER, is
+Show me the robberies risk for January 5 from 2 to 3 pm.	Prediction_10_Parametric	0.5	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+Show me the robberies risk for today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+where today the robberies risk is the highest in central district	Prediction_10_Parametric	0.7	where, INCIDENT_TYPE, def, risk, is, LOCATION, prep
+Where the risk during the third watch is the biggest	Prediction_10_Parametric	0.6	where, def, risk, SHIFT_NUMBER, is, prep
+show me tomorrow morning hotspots	Prediction_10_Parametric	0.7	CALENDARX, tell
+now give me the forecast 	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, tell
+where today the robberies risk is high	Prediction_10_Parametric	0.6	where, INCIDENT_TYPE, def, risk, is
+What's the robbery risk for today?	Prediction_10_Parametric	0.7	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+In what first district area the murders risk is the highest	Prediction_10_Parametric	0.8	where, INCIDENT_TYPE, def, risk, LOCATION
+Which area is the most risky of theft today?	Prediction_10_Parametric	0.7	where, INCIDENT_TYPE, def, risk, is, CALENDARX, prep
+In what location is the risk of robbery highest	Prediction_10_Parametric	1.0	where, INCIDENT_TYPE, def, risk, is, prep
+What is the risk of an assault today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+where is it dangerous	NO_INTENT	0.7	is, not_needed, tell
+can you tell me the morning arson estimate	Prediction_10_Parametric	0.6	def, tell
+Where in the Central district it is dangerous today	Prediction_10_Parametric	0.5	def, risk, CALENDARX, LOCATION, prep, where, it, is
+What is the risk of arson today?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+what area in 5th district is the most risky today	Prediction_10_Parametric	0.9	def, risk, is, CALENDARX, prep, tell
+predict me robberies hotspots during 2 shift	Prediction_10_Parametric	0.7	SHIFT_NUMBER, prep, tell
+show me the morning predictions of arsons in Chatham	Prediction_10_Parametric	0.6	def, prep, tell
+What area during the 3 watch is the most dangerous	Prediction_10_Parametric	0.8	def, risk, is, prep, tell
+Where it is the most dangerous today during the 2nd watch	Prediction_10_Parametric	0.8	def, risk, CALENDARX, prep, where, it, SHIFT_NUMBER, is
+What's the possibility of a robbery today?	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+which central district area is during the third watch risky about murders today	Prediction_10_Parametric	0.7	def, CALENDARX, LOCATION, prep, where, INCIDENT_TYPE, SHIFT_NUMBER, is
+In what area during the 2nd watch the robberies risk is the biggest	Prediction_10_Parametric	0.6	where, INCIDENT_TYPE, def, risk, SHIFT_NUMBER, is, prep
+What is the risk of a robbery occurring today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, happen, CALENDARX, prep
+in which calumet district area today the robberies risk is high	Prediction_10_Parametric	0.7	where, INCIDENT_TYPE, def, risk, CALENDARX, LOCATION
+In what district it is the most risky	Prediction_10_Parametric	0.8	where, def, it, risk, is
+show me the hotspots in 200 yards from here	Prediction_10_Parametric	0.5	def, prep, tell, risk
+What district has the greatest risk	Prediction_10_Parametric	0.6	def, prep, tell
+Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.5	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+show me tomorrow murder predictions in 1 mile from the theatre from 7 to 10 pm	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, risk, CALENDARX, LOCATION, prep, tell
+what is the hotspot in the proximity	Prediction_10_Parametric	0.7	def, prep, tell
+Show me the robberies risk from 6 to 9 pm.	Prediction_10_Parametric	0.5	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+what areas are risky	Prediction_10_Parametric	0.6	where, is, risk
+Show me the robberies risk for the morning	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+What are the chances of a robbery today?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+Show focus areas	Prediction_10_Parametric	0.4	tell
+show me robberies prediction	Prediction_10_Parametric	0.7	INCIDENT_TYPE, prep, tell
+which area of the eleventh district today is the most dangerous	Prediction_10_Parametric	0.7	def, risk, is, CALENDARX, LOCATION, prep
+show me hotspots with murders for the 4 of may	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, CALENDARX, prep, tell
+closest focus calls	NO_MATCH	1.0	not_needed
+Do you predict any robberies today? 	Prediction_10_Parametric	0.7	CALENDARX, tell
+in what area of the central district the risk of murders is the highest tomorrow during the 1st watch	Prediction_10_Parametric	0.8	def, risk, LOCATION, prep, where, INCIDENT_TYPE, SHIFT_NUMBER, is
+in what area the robberies risks are the highest in central district	Prediction_10_Parametric	0.6	where, def, LOCATION, prep
+in what district it is risky today	Prediction_10_Parametric	0.6	where, it, risk, is, CALENDARX
+predict me murders in the university tomorrow morning	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+i needed arson predictions	Prediction_10_Parametric	0.8
+in what area tomorrow the robberies risk will be the highest in calumet district	Prediction_10_Parametric	0.7	where, INCIDENT_TYPE, def, risk, LOCATION, prep
+give me the forecast for robberies in 100 yards from the west side for today's morning	Prediction_10_Parametric	0.7	CALENDARX, def, prep, tell
+can you give me the robberies forecast	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, tell, risk
+inform me about hotspots on 5 of september	Prediction_10_Parametric	0.6	CALENDARX, INCIDENT_TYPE, prep, tell
+Where the risk is the highest	Prediction_10_Parametric	0.6	where, def, risk
+show me robberies prediction for 5 hours	Prediction_10_Parametric	0.6	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+What is robbery risk near the Willis tower tomorrow?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+where is it dangerous now	NO_INTENT	0.6	def, risk, is, CALENDARX, tell
+What area in the 1st district carries the biggest risk today during the 2nd shift	Prediction_10_Parametric	0.6	def, SHIFT_NUMBER, CALENDARX, LOCATION, prep, tell
+what area tomorrow during the 2 shift has the biggest risk of murders	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, CALENDARX, prep, tell
+Which area carries the highest risk of murders?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, risk, prep, tell
+i need predictions not on the 4 of may but on the 5 of may	Prediction_10_Parametric	0.6	CALENDARX, def, prep
+in which area tomorrow during the first watch the risk of murders will be the highest	Prediction_10_Parametric	0.6	where, def, risk, SHIFT_NUMBER, CALENDARX, prep
+tell me the estimate of murders tomorrow from 9 to 10 pm	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, CALENDARX, prep, tell
+predict me tomorrow morning hotspots	Prediction_10_Parametric	0.8	CALENDARX, tell
+show hotspots in my district for 1 shift	Prediction_10_Parametric	0.6	SHIFT_NUMBER, prep, tell
+What Central district area carries during the first watch the biggest risk of murders	Prediction_10_Parametric	0.6	def, risk, LOCATION, prep, tell, where, INCIDENT_TYPE, SHIFT_NUMBER
+Show focus calls	Prediction_10_Parametric	0.4	tell
+show me hotspots in the neighborhood	Prediction_10_Parametric	0.6	def, prep, tell
+What location carries the highest risk of murder?	Prediction_10_Parametric	0.7	INCIDENT_TYPE, def, risk, prep, tell
+where are focus calls	Prediction_10_Parametric	0.4	where, is
+Focus calls	NO_MATCH	1.0	not_needed
+Where it is the most risky today concerning murders during the 2 watch	Prediction_10_Parametric	0.8	def, risk, CALENDARX, prep, where, INCIDENT_TYPE, it, SHIFT_NUMBER, is
+In what area of the 5 district it is the most dangerous concerning murders during the 2nd watch	Prediction_10_Parametric	0.8	def, risk, LOCATION, prep, where, INCIDENT_TYPE, it, SHIFT_NUMBER, is
+What area of the Central district carries tomorrow the biggest risk of murders	Prediction_10_Parametric	0.6	def, risk, CALENDARX, LOCATION, prep, tell, where, INCIDENT_TYPE
+what area in fourth district is today more risky speaking about murders during the first watch	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, SHIFT_NUMBER, is, CALENDARX, prep, tell
+What area carries the most murder risks today	Prediction_10_Parametric	0.6	CALENDARX, def, prep, tell
+Show hotspots in my shift	Prediction_10_Parametric	0.7	prep, tell
+forecast tomorrow morning murders nearby	Prediction_10_Parametric	0.7	CALENDARX
+tell me about tomorrow morning arsons estimation	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+In what location it is the most dangerous today	Prediction_10_Parametric	0.9	where, it, risk, is, CALENDARX
+in what area during the second watch it is more risky with crimes today	Prediction_10_Parametric	0.5	where, INCIDENT_TYPE, def, SHIFT_NUMBER, is, CALENDARX, prep
+what area in 5th district is the most risky during the 2nd watch	Prediction_10_Parametric	0.8	def, risk, SHIFT_NUMBER, is, prep, tell
+what area today has big robberies risks in third district	Prediction_10_Parametric	0.6	CALENDARX, prep, tell
+In what area during the 2nd watch robberies risk is the biggest	Prediction_10_Parametric	0.7	where, INCIDENT_TYPE, def, risk, SHIFT_NUMBER, is, prep
+In what area during the 2nd watch today the risk is the highest	Prediction_10_Parametric	0.8	where, def, risk, SHIFT_NUMBER, CALENDARX, prep
+what area carries the biggest robberies risk today during the 2 watch	Prediction_10_Parametric	0.7	INCIDENT_TYPE, def, risk, SHIFT_NUMBER, CALENDARX, prep, tell
+show the most risky district in 3 miles from here	Prediction_10_Parametric	0.6	def, prep, tell, risk
+Show me the robberies risk near the Willis Tower	Prediction_10_Parametric	0.5	INCIDENT_TYPE, def, risk, prep, tell
+What is the risk of a theft today	Prediction_10_Parametric	1.0	INCIDENT_TYPE, def, risk, CALENDARX, prep
+show me murders hotspots from 5 to 9	Prediction_10_Parametric	0.6	prep, tell
+Where are focus areas	Prediction_10_Parametric	0.5	where, is
+what area today is the most dangerous concerning crimes during the third watch	Prediction_10_Parametric	0.8	def, risk, CALENDARX, prep, tell, INCIDENT_TYPE, SHIFT_NUMBER, is
+In what area of the first district today it is the most risky meaning murders	Prediction_10_Parametric	0.8	def, risk, LOCATION, prep, where, INCIDENT_TYPE, it, is
+Show me the robberies risk for tomorrow morning	Prediction_10_Parametric	1.0	INCIDENT_TYPE, risk, CALENDARX, prep, tell
+Do you think there will be a robbery today?	Prediction_10_Parametric	0.7	INCIDENT_TYPE, def, CALENDARX, prep, tell
+predict me robberies in 5 hours from now	Prediction_10_Parametric	0.6	CALENDARX, prep, tell
+In which area the risk of murders during the 2nd watch is the highest today	Prediction_10_Parametric	0.8	def, risk, CALENDARX, prep, where, INCIDENT_TYPE, SHIFT_NUMBER, is
+give me the tomorrow morning estimate of crimes expected in 1 mile from the navy pier 	Prediction_10_Parametric	0.5	def, CALENDARX, LOCATION, prep, tell
+In what area during the 1st watch it is the most risky with murders	Prediction_10_Parametric	0.8	def, risk, prep, where, INCIDENT_TYPE, it, SHIFT_NUMBER, is
+anything about address of the car owner	NO_INTENT	1.0	where, report, def, not_needed, prep
+show me address of the car owner	NO_INTENT	1.0	where, def, not_needed, prep, tell
+What address is the vehicle regsitered at	NO_INTENT	1.0	where, def, is, not_needed, prep
+What's the address of the vehicle owner	NO_INTENT	1.0	where, not_needed, def, prep
+Where does the vehicle owner reside	NO_INTENT	1.0	where, is, not_needed, def
+Tell where the vehicle owner's home is located?	NO_INTENT	1.0	where, def, is, not_needed, tell
+Where can I find the owner of the car	NO_INTENT	1.0	not_needed, def, tell
+Is there an address on the vehicle owner	NO_INTENT	1.0	where, not_needed, def, tell
+Please get me the address of the vehicle owner	NO_INTENT	1.0	where, def, not_needed, prep, tell
+What is the address where the vehicle is registered	NO_INTENT	1.0	where, is, not_needed, def
+What address is on the vehicle registration?	NO_INTENT	0.6	where, is, not_needed, def
+What's the car owner's address? 	NO_INTENT	0.6	not_needed, def, tell
+contacts of the car owner	NO_INTENT	0.6	not_needed, def, prep
+how do we contact the owner of case 12 car	NO_INTENT	0.6	not_needed, def, prep
+What is the vehicle owner's address/phone number?	NO_INTENT	0.7	not_needed, def, tell
+Can I get contact information for the vehicle owner? 	NO_INTENT	0.6	not_needed, def, prep, tell
+How can we get in touch with the car owner? 	NO_INTENT	0.6	not_needed, def, prep, tell
+Get me the contact information for the vehicle owner. 	NO_INTENT	0.6	not_needed, def, prep, tell
+I want to contact the car owner. 	NO_INTENT	0.7	not_needed, def, prep, tell
+Find out how I can reach the owner of the car. 	NO_INTENT	0.6	not_needed, def, prep
+Please display contact info for the vehicle owner.	NO_INTENT	0.6	not_needed, def, prep, tell
+How can I talk to the owner?	NO_INTENT	0.6	not_needed, def, prep, tell
+I need the details on how to contact the vehicle owner.	NO_INTENT	0.7	not_needed, def, prep, tell
+Where can I reach the owner of the car?	NO_INTENT	0.6	not_needed, def, tell
+I'd like to contact whoever owns the car.	NO_INTENT	0.7	not_needed, def, prep, tell
+Find me contact details for the vehcle owner 	NO_INTENT	0.6	not_needed, def, prep, tell
+How do we get in touch with the person to whom the veichle is registered?	NO_INTENT	0.6	is, not_needed, def, prep
+who owns the car	NO_INTENT	0.7	not_needed, def, tell
+to whom is the case 12 car registered	NO_INTENT	0.6	is, not_needed, def, prep
+Who is the car owner?	NO_INTENT	0.6	is, not_needed, def, tell
+Who is in possession of the car?	NO_INTENT	0.6	not_needed, def, prep, tell
+Who owns the car?	NO_INTENT	0.7	not_needed, def, tell
+Whose car is this?	NO_INTENT	0.6	is, not_needed, tell
+What about the car owner?	NO_INTENT	0.6	not_needed, def, tell
+What do we know about the car owner? 	NO_INTENT	0.6	not_needed, def, prep, tell
+Whose vehicle is it?	NO_INTENT	0.9	is, not_needed, def, tell
+To whom is the vehicle registered?	NO_INTENT	0.7	where, is, not_needed, def
+What's the name on the vehicle registration?	NO_INTENT	0.6	not_needed, def, prep, tell
+Do we have an owner for that vehicle? 	NO_INTENT	0.7	not_needed, tell
+Whose name is the car in? 	NO_INTENT	0.6	where, def, is, not_needed, prep
+Who is the car registered to?	NO_INTENT	0.6	def, is, not_needed, prep, tell
+Who's on the registration? 	NO_INTENT	0.7	not_needed, def, prep, tell
+Who does the car belong to?	NO_INTENT	0.6	not_needed, def, prep, tell
+Who is the vehicle owner?	NO_INTENT	0.7	is, not_needed, def, tell
+how can i call the car owner	NO_INTENT	0.6	not_needed, def, tell
+i want to call the car owner	NO_INTENT	0.7	not_needed, def, prep
+What's the vehicle owner's telephone number?	NO_INTENT	0.7	where, not_needed, def
+How can I get in contact/touch with the vehicle owner?	NO_INTENT	0.6	not_needed, def, prep, tell
+What's the number for the car owner? 	NO_INTENT	0.6	not_needed, def, prep, tell
+At what number can we reach the car owner? 	NO_INTENT	0.6	where, not_needed, def, prep
+I'd like to call the vehicle owner.	NO_INTENT	0.7	not_needed, def, prep, tell
+Find me the car owner's number, please. 	NO_INTENT	0.6	not_needed, def, prep, tell
+who investigated case 12	Prediction_10_Parametric	0.6
+who is case 12 investigating officer	NO_INTENT	0.7	is, not_needed, tell
+Who investigated the case	Prediction_10_Parametric	0.4	def, tell
+Who handles incident 12	Prediction_10_Parametric	0.6	tell
+Which officer handled the case	NO_INTENT	0.7	not_needed, def, prep, tell
+Can I see case 12's detective?	Prediction_10_Parametric	0.5	tell
+Who is on case 12? 	NO_INTENT	0.7	is, not_needed, tell
+Who is covering that case?	NO_INTENT	0.5	is, not_needed, prep, tell
+Who's the officer on the case? 	NO_INTENT	0.7	not_needed, def, prep, tell
+Who is assigned to the case?	NO_INTENT	0.6	def, is, not_needed, prep, tell
+And which officer responded?	NO_INTENT	0.7	not_needed
+Who's on it?	NO_INTENT	1.0	not_needed, tell
+Who took the statements?	Prediction_10_Parametric	0.4	def, tell
+Who is the investigator?	Prediction_10_Parametric	0.5	is, def, tell
+Give me the investigating officer	NO_INTENT	0.7	not_needed, def, tell
+Who is handling case 12?	Prediction_10_Parametric	0.5	is, tell
+address of suspect	NO_INTENT	0.6	where, not_needed, prep
+tell me where the suspect lives	Prediction_10_Parametric	0.7	def, prep, tell
+What's the address for that suspect?	Prediction_10_Parametric	0.6	where, def, prep, risk
+Where does the suspect reside?	NO_INTENT	0.6	where, is, not_needed, def
+Can I get an address for the suspect? 	NO_INTENT	0.6	where, def, not_needed, prep, tell
+Where does the suspect in the case live? 	NO_INTENT	0.6	where, def, is, not_needed, prep
+Find me the suspect's residence. 	NO_INTENT	0.5	not_needed, def, tell
+Do we have an address for the suspect?	NO_INTENT	0.7	where, def, not_needed, prep, tell
+What's the address for the suspect's residence? 	NO_INTENT	0.6	where, not_needed, def, prep
+Pull up the suspect's address.	NO_INTENT	0.7	not_needed, def, prep, tell
+Do we have a location for the suspect?	Prediction_10_Parametric	0.6	def, prep, tell
+i need to contact the suspect	NO_INTENT	0.7	not_needed, def, prep
+how can the suspect be reached	NO_INTENT	0.5	not_needed, def, tell
+I need contact information for the suspect	Prediction_10_Parametric	0.6	def, prep, tell
+all contact info of suspect	NO_INTENT	0.4	not_needed, prep
+suspect contact details	NO_INTENT	0.5	not_needed
+suspect's contact information 	NO_INTENT	0.3	not_needed
+What's the suspect's phone number/address?	NO_INTENT	0.6	not_needed, def, prep, tell
+Where can I find the suspect?	NO_INTENT	0.5	not_needed, def, tell
+Do we have contact information for the suspect in the case? 	Prediction_10_Parametric	0.6	def, prep, tell
+Please find me the contact information for the suspect.	Prediction_10_Parametric	0.6	def, prep, tell
+How can we reach/get in touch with/get a hold of the suspect? 	Prediction_10_Parametric	0.6	def, prep, tell
+I'd like to contact the suspect.	NO_INTENT	0.7	not_needed, def, prep, tell
+Get me the suspect's contact information.	Prediction_10_Parametric	0.6	def, prep, tell
+Display contact infomation for the suspect.	Prediction_10_Parametric	0.6	def, prep
+How can the suspect be reached? 	NO_INTENT	0.5	not_needed, def, tell
+What contact information do we have on the suspect? 	NO_INTENT	0.6	not_needed, def, prep, tell
+I want to contact the suspect. 	NO_INTENT	0.7	not_needed, def, prep, tell
+Was the suspect in a gang	NO_INTENT	0.6	not_needed, def, prep, tell
+Does our suspect have any possible gang connections	NO_INTENT	0.5	not_needed
+Was the suspect in a gang?	NO_INTENT	0.6	not_needed, def, prep, tell
+Do we suspect that the alleged perp was in a gang?	NO_INTENT	0.6	not_needed, def, prep
+Does our suspect have any possible gang connections?	NO_INTENT	0.5	not_needed
+Is there gang involvement suspected? 	NO_INTENT	0.5	not_needed, def, tell
+Is the suspect a gang member? 	Prediction_10_Parametric	0.5	def, tell
+Is the suspect in any way connected with a gang?	Prediction_10_Parametric	0.6	def, prep, tell
+Is the suspect connected with any gang activity? 	Prediction_10_Parametric	0.6	def, tell
+Could the suspect be connected with a gang? 	NO_INTENT	0.5	not_needed, def, prep, tell
+Any information on possible gang connections for the suspect? 	NO_INTENT	0.7	not_needed, def, prep, tell
+Is the suspect known to be a gang member? 	NO_INTENT	0.6	not_needed, def, prep, tell
+give me telephone number of case 12 suspect	Prediction_10_Parametric	0.6	prep, tell
+give me telephone number of suspect	NO_INTENT	0.3	not_needed, prep, tell
+and now telephone of case 12 suspect	Prediction_10_Parametric	0.7	prep
+Do we have a telephone number for the suspect? 	NO_INTENT	0.5	not_needed, def, prep, tell
+What's the suspect's phone number? 	NO_INTENT	0.6	not_needed, def, prep, tell
+How can I call/get in touch with/contact the suspect?	Prediction_10_Parametric	0.6	def, prep, tell
+Give me the phone number for the suspect. 	NO_INTENT	0.7	not_needed, def, prep, tell
+At what number can the suspect be reached? 	Prediction_10_Parametric	0.6	where, def, prep
+Can you please find me the suspect's cell?	NO_INTENT	0.6	not_needed, def, tell
+Get me the suspect's mobile number. 	Prediction_10_Parametric	0.6	def, prep, tell
+Is there a cell number for the suspect available? 	NO_INTENT	0.6	not_needed, def, prep, tell
+Do we know the suspect's phone number? 	NO_INTENT	0.7	not_needed, def, prep, tell
+Can we get in touch with the suspect by phone? 	NO_INTENT	0.6	not_needed, def, prep, tell
+do we have anything about case 12 vehicle	NO_INTENT	0.7	not_needed, prep
+what does the car in case 12 look like	Prediction_10_Parametric	0.6	def, prep, tell
+Anything about the car? 	NO_INTENT	0.7	not_needed, report, def, prep
+Information about the car	NO_INTENT	0.6	not_needed, def, prep, tell
+What do we have on the car?	NO_INTENT	0.6	not_needed, def, prep, tell
+Do we have a description of the car?	NO_INTENT	0.6	not_needed, def, prep, tell
+Do we have a car make and model?	NO_INTENT	0.8	not_needed, def, prep, tell
+What did the witness say about the car?	Prediction_10_Parametric	0.6	def, prep, tell
+Are there any details on the car?	NO_INTENT	0.6	not_needed, def, prep, tell
+And the car?	NO_INTENT	0.7	not_needed, def, tell
+What about the vehicle?	NO_INTENT	0.6	not_needed, def, tell
+Any info on the vehicle?	NO_INTENT	0.7	not_needed, def, prep, tell
+How about a vehicle description?	NO_INTENT	0.8	not_needed, def, prep, tell
+Do we know anything about the car?	NO_INTENT	0.7	not_needed, def, prep
+where does the witness to case 12 live	NO_INTENT	0.6	where, def, is, not_needed, prep
+do you know the address of witness	NO_INTENT	0.7	where, not_needed, def, prep
+do you have the witness's address	NO_INTENT	0.7	not_needed, def, prep
+i need the witness's address	NO_INTENT	0.7	not_needed, def, prep, tell
+where does the eyewitness live?	NO_INTENT	0.6	where, is, not_needed, def
+show me the witness's house	Prediction_10_Parametric	0.6	def, tell
+Where is the witness's residence?	Prediction_10_Parametric	0.6	is, def, tell
+Give me the address of the witness.	NO_INTENT	0.6	where, def, not_needed, prep, tell
+Where can I find our eyewitness? 	NO_INTENT	0.6	not_needed, tell
+Do we have an address for the eyewitness in this case? 	NO_INTENT	0.6	where, def, not_needed, prep, tell
+What's the address for the eyewitness?	NO_INTENT	0.6	where, not_needed, def, prep
+Can you find me information on the witness' residence?	NO_INTENT	0.6	not_needed, def, prep, tell
+Where does the witness reside? 	NO_INTENT	0.6	where, is, not_needed, def
+What's the witness' address?	NO_INTENT	0.6	where, not_needed, def, tell
+Where can I talk to the witness in person? 	NO_INTENT	0.5	not_needed, def, prep, tell
+What's the address we have for the witness?	NO_INTENT	0.6	where, not_needed, def, prep
+give me contacts of case 12 witness	Prediction_10_Parametric	0.6	prep, tell
+do we have contacts of witness to case 12	NO_INTENT	0.7	not_needed, prep
+Show witness's contact information 	Prediction_10_Parametric	0.4	tell
+Give me contact information for the witness	Prediction_10_Parametric	0.7	def, prep, tell
+Do you have the witness's contact information?	NO_INTENT	0.6	not_needed, def, prep, tell
+How can I get in touch with the witness? 	Prediction_10_Parametric	0.6	def, prep, tell
+How can the witness be contacted?	NO_INTENT	0.5	not_needed, def, tell
+Where can I reach the witness? 	NO_INTENT	0.6	not_needed, def, tell
+What is the witness's phone number/address?	NO_INTENT	0.6	not_needed, def, prep, tell
+Can I get the contact details for the witness? 	NO_INTENT	0.6	not_needed, def, prep, tell
+How can we contact the eyewitness?	NO_INTENT	0.5	not_needed, def, prep, tell
+Find me the contact information for this witness.	Prediction_10_Parametric	0.6	def, prep, tell
+How can I get a hold of the witness?	NO_INTENT	0.6	not_needed, def, prep, tell
+What do we have on witness	NO_INTENT	0.7	not_needed, tell
+Who is case 12 witness	Prediction_10_Parametric	0.5	is, tell
+Describe witness	NO_MATCH	1.0	not_needed
+Who is the witness in case 13?	Prediction_10_Parametric	0.7	is, def, prep, tell
+Show witnesses	Prediction_10_Parametric	0.4	tell
+Do we have anything on the witness in case 12	NO_INTENT	0.6	not_needed, def, prep
+Are there any witnesses in case 12	Prediction_10_Parametric	0.6	def, prep, tell
+Anything on the witness?	NO_INTENT	0.7	not_needed, def, prep, tell
+Tell me about the witness in that case	Prediction_10_Parametric	0.5	def, prep, tell
+Give me some details on the witness 	NO_INTENT	0.6	not_needed, def, prep, tell
+Update me on the witness in case 12	NO_INTENT	0.6	not_needed, def, prep, tell
+What about witnesses?	Prediction_10_Parametric	0.6	INCIDENT_TYPE, tell
+Can I get a witness description? 	NO_INTENT	0.6	not_needed, def, tell
+Who was the witness in the case?	NO_INTENT	0.6	not_needed, def, prep, tell
+Can you give me details on the witness in the case?	NO_INTENT	0.6	not_needed, def, prep, tell
+Please provide a description of the witness	Prediction_10_Parametric	0.5	def, prep, tell
+And the witness?	NO_INTENT	0.5	not_needed, def, tell
+Any witnesses in the case?	Prediction_10_Parametric	0.6	def, prep, tell
+Was the witness injured	NO_INTENT	0.6	not_needed, def, tell
+Did the witness sustain any injuries	NO_INTENT	0.5	not_needed, def, tell
+Was the witness injured?	NO_INTENT	0.6	not_needed, def, tell
+Was the eyewitness wounded?	NO_INTENT	0.6	not_needed, def, tell
+Did the witness sustain any injuries?  	NO_INTENT	0.5	not_needed, def, tell
+Was the witness harmed in any way?	NO_INTENT	0.6	not_needed, def, prep, tell
+Were there any injuries to the witness? 	NO_INTENT	0.7	not_needed, def, prep, tell
+Did the witness escape unharmed? 	Prediction_10_Parametric	0.4	def, tell
+Were there any physical injuries sustained by the witness? 	NO_INTENT	0.4	not_needed, def, prep, tell
+Did the witness have any injuries? 	NO_INTENT	0.6	not_needed, def, tell
+Was the witness hurt? 	NO_INTENT	0.6	not_needed, def, tell
+Was the witness harmed during the commission of the crime? 	NO_INTENT	0.6	not_needed, def, prep, tell
+Did the witness come out of it unharmed? 	NO_INTENT	0.7	not_needed, def, prep, tell
+navigate to witness	NO_INTENT	0.9	not_needed, prep
+Give me the phone number for the witness	NO_INTENT	0.7	not_needed, def, prep, tell
+How can I call the witness?	NO_INTENT	0.6	not_needed, def, tell
+How can I call the witness?	NO_INTENT	0.6	not_needed, def, tell
+Find the witness's number	NO_INTENT	0.6	not_needed, def, tell
+Show telephone of the bystander	Prediction_10_Parametric	0.5	def, prep, tell
+What's the number for the eyewitness? 	Prediction_10_Parametric	0.6	def, prep, tell
+Where can the witness be reached? 	NO_INTENT	0.6	not_needed, def, tell
+At what number can we reach the eyewitness?	Prediction_10_Parametric	0.5	where, def, prep
+Get me the phone number for the witness in the case. 	NO_INTENT	0.6	not_needed, def, prep, tell
+Pull up the phone number for the eyewitness. 	NO_INTENT	0.7	not_needed, def, prep, tell
+How do I get a hold of the witness in the case? 	NO_INTENT	0.6	not_needed, def, prep, tell
+What's the witness' phone number? 	NO_INTENT	0.7	not_needed, def, tell
+Get me a number where I can contact the witness, please. 	NO_INTENT	0.6	not_needed, def, prep, tell
+Do we have a cell number for the eyewitness? 	NO_INTENT	0.5	not_needed, def, prep, tell
+show me details on a Mr. Joe Schmo. 	NO_INTENT	0.7	def, risk, not_needed, prep, tell
+can you tell me whether there is a record on miss callie white? 	NO_INTENT	0.5	def, is, not_needed, prep, tell
+bring up all info for Jonathan Wile	Prediction_10_Parametric	0.5	prep
+what do you have on a Mr. Carl Geiger?	NO_INTENT	0.7	not_needed, def, prep, tell
+do we have a record on a Ms. Joanna Kyle?	NO_INTENT	0.8	not_needed, def, prep
+can i get a background check on Harriet Yelling.	NO_INTENT	0.7	not_needed, def, tell
+run a check, please, on a Lola Ferris	NO_INTENT	0.8	not_needed, def, prep, tell
+is there any information on a Mr. James Teague?	NO_INTENT	0.7	not_needed, def, prep, tell
+can you pull the record for a Greta Finnegan	Prediction_10_Parametric	0.6	def, prep, tell
+pull up a Ms. Carlita Gutierrez	NO_INTENT	0.5	not_needed, def, prep
+May i please see the record for Jonah Mansfield	Prediction_10_Parametric	0.7	def, prep
+check Kim Hilford	NO_MATCH	1.0	not_needed
+please search for a Pilar Frost-Winston in the records	Prediction_10_Parametric	0.6	def, prep
+Look for Mr. Bin Chook-Lee 	Prediction_10_Parametric	0.5	prep, tell
+find Diem Truong 	NO_INTENT	0.5	not_needed
+find Yaroslav Gusevich	NO_INTENT	0.5	not_needed
+find Mr. Bin Chook-Lee	NO_INTENT	0.5	not_needed
+find Ms. Kelly robinson.	NO_INTENT	0.5	not_needed
+Find a Ms. Rosa Deacon	NO_INTENT	0.5	not_needed, def, tell
+Give incident details	NO_INTENT	0.5	not_needed, tell
+please pull up incident 23456	NO_INTENT	0.4	not_needed, prep
+detail on case 234466	NO_INTENT	0.9	not_needed
+can you show me incident 23456	Prediction_10_Parametric	0.6	prep, tell
+bring up incident 23456	NO_INTENT	0.3	not_needed, prep
+display incident 23456	NO_INTENT	0.3	not_needed, prep
+can i please see the details on incident 23456	NO_INTENT	0.5	not_needed, def, prep, tell
+give me some information on incident 234576	NO_INTENT	0.8	not_needed, prep, tell
+show incident 234656	Prediction_10_Parametric	0.4	prep, tell
+incident 233456	NO_INTENT	0.3	not_needed
+who are the suspects in incident 23456?	Prediction_10_Parametric	0.6	where, is, def, prep
+please pull up the information on case 34567	NO_INTENT	0.7	not_needed, def, prep, tell
+i'd like to see the details on incident 23446	NO_INTENT	0.7	not_needed, def, prep
+provide the details for incident 77965	Prediction_10_Parametric	0.6	def, prep
+give me the facts on case 98760876	NO_INTENT	0.7	not_needed, def, prep, tell
+please pull up the record on case 79657956	NO_INTENT	0.7	not_needed, def, prep, tell
+Man of about 30	NO_INTENT	0.7	not_needed, prep, tell
+30 year old man	NO_INTENT	0.7	not_needed
+Teenage girl	NO_MATCH	1.0	not_needed
+Middle-aged woman	NO_INTENT	1.0	not_needed
+A lady in years	NO_INTENT	0.6	not_needed, prep
+Male, nearly 70	Prediction_10_Parametric	0.8	tell
+A man in his seventies	NO_INTENT	0.7	not_needed, prep
+A woman from 30 to 50	NO_INTENT	0.7	not_needed, prep
+an elderly male/man/female/woman/gentleman/lady	NO_INTENT	1.0	not_needed
+a male/female senior citizen	NO_INTENT	0.5	not_needed
+pre-teen girl	NO_MATCH	1.0	not_needed
+female toddler	NO_MATCH	1.0	not_needed
+a school-age girl/boy	NO_INTENT	0.5	not_needed
+woman of about 30 years of age 	NO_INTENT	0.7	not_needed, prep
+old man	NO_INTENT	0.9	not_needed
+a female senior	NO_INTENT	0.5	not_needed
+a young lady in her teens	NO_INTENT	0.7	not_needed, prep
+male, approximately 30 years of age	Prediction_10_Parametric	0.5	prep
+female, over 70 years of age	Prediction_10_Parametric	0.5	prep
+Male teenager	NO_MATCH	1.0	not_needed
+White woman	NO_INTENT	1.0	not_needed
+Indian girl	NO_MATCH	1.0	not_needed
+Black guy	NO_MATCH	1.0	not_needed
+Caucasian woman	NO_INTENT	1.0	not_needed
+Hispanic male/female/man/woman/lady/gentleman	NO_INTENT	1.0	not_needed
+Arab male	NO_MATCH	1.0	not_needed
+African-American male	NO_MATCH	1.0	not_needed
+Caribbean male	NO_MATCH	1.0	not_needed
+Asian male	NO_MATCH	1.0	not_needed
+East Asian male	NO_MATCH	1.0	not_needed
+South Asian male	NO_MATCH	1.0	not_needed
+Native American male	NO_MATCH	1.0	not_needed
+African male	NO_MATCH	1.0	not_needed
+Latino male / Latina female	NO_MATCH	1.0	not_needed
+Male Pacific Islander 	NO_MATCH	1.0	tell
+American Indian male	NO_MATCH	1.0	not_needed
+Middle-Eastern male	NO_MATCH	1.0	not_needed
+Male person of color 	NO_INTENT	0.4	not_needed, prep, tell
+Native Hawaiian/Alaskan male	NO_MATCH	1.0	not_needed
+Male, Hispanic	NO_MATCH	1.0	tell
+Black woman in her thirties	NO_INTENT	1.0	not_needed, prep
+White man of about 30	NO_INTENT	0.7	not_needed, prep, tell
+Native hawaiian, male, 30 years of age	Prediction_10_Parametric	0.5	prep, tell
+Caucasian woman, between 30 and 60	NO_INTENT	0.6	not_needed, prep
+Asian boy	NO_MATCH	1.0	not_needed
+Woman in mid-thirties, indian	NO_INTENT	0.8	not_needed, prep
+Man in mid-to-late seventies	NO_INTENT	0.8	not_needed, prep
+Woman in her forties, black	NO_INTENT	1.0	not_needed, prep
+African American female, approximately 50 years of age	Prediction_10_Parametric	0.5	prep, tell
+Female, South Asian, over 55 years of age	NO_INTENT	0.5	not_needed, prep, tell
+African American senior citizen, female	NO_MATCH	1.0	not_needed, prep
+Middle aged Hispanic male	NO_MATCH	1.0	not_needed
+25 year old female, caucasian	Prediction_10_Parametric	0.4	prep, tell
+African American teen, male	NO_MATCH	1.0	prep, tell
+Caucasian woman, 20 to 30 years of age	NO_INTENT	0.7	not_needed, prep
+30-year-old white male	Prediction_10_Parametric	0.8	tell
+woman, 100 pounds	NO_INTENT	1.0	not_needed
+male 170 pounds	NO_MATCH	1.0	not_needed, prep
+man, weighing about 170 pounds	NO_INTENT	0.8	not_needed, prep
+man, weight from 150 to 200 pounds	NO_INTENT	1.0	not_needed, prep
+slim woman	NO_INTENT	1.0	not_needed
+overweight man	NO_INTENT	1.0	not_needed
+200-pound female	NO_MATCH	1.0	not_needed
+heavyset male	NO_MATCH	1.0	not_needed
+obese man	NO_INTENT	1.0	not_needed
+thin woman	NO_INTENT	1.0	not_needed
+skinny gentleman	NO_MATCH	1.0	not_needed
+muscular male	NO_MATCH	1.0	not_needed
+woman, weight  over 200 pounds	NO_INTENT	0.9	not_needed, prep
+underweight Hispanic female	NO_MATCH	1.0	not_needed
+black man, weight 150 pounds	NO_INTENT	1.0	not_needed, prep
+white girl, 100 pounds	NO_MATCH	1.0	not_needed
+Hispanic female, over 200 pounds	Prediction_10_Parametric	0.3	prep, tell
+Heavyset Asian male	NO_MATCH	1.0	not_needed
+extremely thin white female	NO_MATCH	1.0	not_needed
+overweight black female	NO_MATCH	1.0	not_needed
+Male, African American, heavyset	NO_MATCH	1.0	not_needed, prep, tell
+Woman weighing about 150 pounds, Latina	NO_INTENT	0.8	not_needed, prep, tell
+Overweight male, of Middle-Eastern decent	NO_INTENT	0.4	not_needed, prep, tell
+Asian female, extremely thin	NO_MATCH	1.0	not_needed, prep, tell
+woman, 1 meter 70 cm tall	NO_INTENT	0.5	not_needed
+the man is 6 feet 4 inches tall	NO_INTENT	0.7	is, not_needed, def
+male, height from 6 feet 2 inches to 7 feet 3 inches	NO_INTENT	0.5	not_needed, prep
+male 173 cm	NO_MATCH	1.0	not_needed, prep
+a tall woman	NO_INTENT	0.9	not_needed
+middle height man	NO_INTENT	1.0	not_needed
+male, about six foot four	Prediction_10_Parametric	0.8	CALENDARX
+short female	NO_MATCH	1.0	not_needed
+extremely tall man	NO_INTENT	1.0	not_needed
+a woman, about five feet seven inches 	NO_INTENT	0.5	CALENDARX, not_needed
+a girl about 60 inches tall	Prediction_10_Parametric	0.6	prep
+a male of below/above average height	NO_INTENT	0.4	not_needed, prep
+a girl in her twenties about 5 feet 3 inches	Prediction_10_Parametric	0.6	def, prep
+a woman about 40 height 5 feet 2 inches	NO_INTENT	0.5	not_needed, prep
+female, late 30s, about 6 feet tall	Prediction_10_Parametric	0.7	prep
+a middle aged man, over 6 feet/foot tall	NO_INTENT	0.7	not_needed, prep
+Male, about 5 foot 6, approximately 50 years old	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+Tall, middle-aged female. 	NO_MATCH	1.0	not_needed, tell
+Very short male, possibly in his late 30s	Prediction_10_Parametric	0.5	prep
+Elderly, short  woman	NO_INTENT	1.0	not_needed, tell
+Police have blamed the robbery on the IRA which has repeatedly denied any connection to the theft	NO_INTENT	1.0	INCIDENT_TYPE, def, is, some, not_needed, prep
+The Northern Bank heist is one of the largest in Europesince the theft of more than US$65 million from a London bank in 1987. 	NO_INTENT	0.8	QUANTITY, INCIDENT_TYPE, def, NUMBER, is, not_needed, prep
+The sheer numbers of the cars and their lack of theft deterrent systems make them thieves ' preferred choic	NO_INTENT	1.0	not_needed, INCIDENT_TYPE, def, prep
+According to the reports, Secret Service agents guarding Miss Bush failed to notice the thef	NO_INTENT	1.0	report, INCIDENT_TYPE, def, not_needed, prep
+A Bush administration official confirmed that " a theft incident " involving Barbara Bush had occurred, butdeclined details. 	NO_INTENT	0.8	INCIDENT_TYPE, def, happen, is, not_needed, prep
+Mazhari, who is a sculptor, was charged with the unrelated theft of $100,000 worth of paintings last ye	NO_INTENT	1.0	QUANTITY, INCIDENT_TYPE, def, is, CALENDARX, not_needed, prep
+The crying woman told a constable the plant theft was the fourth from her property in four years	NO_INTENT	1.0	def, ORDINAL_NUMBER, CALENDARX, prep, tell, INCIDENT_TYPE, is, not_needed
+Sergeant Mal Lochrie said that the officer found it hard to stop smiling as the woman gave details of the theft over the phone	NO_INTENT	1.0	INCIDENT_TYPE, def, not_needed, prep, tell
+The man had been in custody for a month on charges of theft from the Royal Library in Stockholm	NO_INTENT	1.0	INCIDENT_TYPE, def, is, CALENDARX, not_needed, prep
+The increase in security cameras being used in schools is an attempt to protect valuable schooling equipment from theft and damage, in particular computers incomputer room	NO_INTENT	1.0	INCIDENT_TYPE, def, is, not_needed, prep
+The FBI listed the theft of the painting as of one of the world 's top ten art crimes inrecent years	NO_INTENT	0.6	not_needed, INCIDENT_TYPE, def, prep
+Gruber has been charged with theft before. 	NO_INTENT	0.7	not_needed, INCIDENT_TYPE, prep
+s organization based in Washington, D. D. C., calling Logo " another example of an assault on children 's innocence, a means of legitimizing a homosexual lifestyle,mainstreaming homosexuality in a positive and	NO_INTENT	0.6	not_needed, def, prep
+He faces charges of attempted homicide, aggravated assault , burglary and criminal mischief. 	NO_INTENT	0.7	not_needed, prep, tell
+Atkinson had been charged with kidnap and assault in a separate case involving a Polishwoman.	NO_INTENT	0.6	not_needed, def, prep
+An 11-year-old girl faces serious assault charges in California after casting a stone at a group ofboys who were throwing water balloons at her.	NO_INTENT	0.7	not_needed, def, prep, tell
+We determined a felony assault had taken place and the officers took theactions that were necessary.	NO_INTENT	0.6	not_needed, def, prep, tell
+He is capable of sexual consent and that therefore any sexual contact is automatically deemed in law to be a sex assault , " said OutRage! 's Peter Tatchell. 	NO_INTENT	0.7	is, not_needed, prep, tell
+They proceeded to throw grenades and fire their assault weapons. 	NO_INTENT	0.8	not_needed, prep, tell
+Officers in full body armour, helmets and gas masks and armed with shotguns and assault rifles were seen moving in. 	Prediction_10_Parametric	0.5	prep
+The force, estimated to be up to a hundred men, overpowered Arafat 's numerous bodyguards, using assault rifles and grenades, before directly assaulting the house.	NO_INTENT	0.7	not_needed, def, prep
+ISI were also seen guarding a gated community, and were wearing full military gear including bulletproof vests and M16 assault rifles.	Prediction_10_Parametric	0.5	def, prep
+The goal of this is to see trends in crime and locations.	NO_INTENT	0.6	not_needed, def, prep
+The strength of the effect of BID on robbery crimes varied by location.	NO_INTENT	0.7	not_needed, def, prep
+In emergency circumstances to report a crime; the location of the crime or victims; or the identity, description or location of the person who committedthe crime.	NO_INTENT	0.6	where, not_needed, def, prep
+Africa BOPNet crime Google location South Africa Street ViewPosted by Scott Smith Comments	Prediction_10_Parametric	0.4
+Much crime is gang or drug related, and usually occurs in areas that are of little interest to visitors. 	NO_INTENT	0.7	is, not_needed, prep, tell
+First and foremost, identify the high crime districts and avoid them. Speak softly. Dress to blend in.	NO_INTENT	0.7	not_needed, def, prep
+While there is no definitive analysis of the New York crime decline to date, most observers believe that the interplay of a number of variables wasresponsible.	NO_INTENT	0.6	def, is, not_needed, prep, tell
+ Now consider the increased senseless violence at our schools and unchecked crime on our streets.	NO_INTENT	0.7	not_needed, def, prep
+ Cops Seize Photographer 's Film ... for the crime of street photography ( hat tip: BoingBoing ). 	Prediction_10_Parametric	0.6	def, prep
+Research consistently finds that adverse social conditions are correlated with problem behaviors ( street crime, street gangs, truancy, drop outrates, teen pregnancy, etc. ).	NO_INTENT	0.4	not_needed, prep
+For example, Maritimers are as prone as other Canadians to believe that crime in our streets is getting worse. 	NO_INTENT	0.7	is, not_needed, prep, tell
+The ban also had the supportof local businesses, who wanted an end to the thefts, assaults, shoplifting and other street crime on Rotorua streets. 	NO_INTENT	0.7	not_needed, def, prep
+They did -- and they repealedthat prohibition after a 15-year national nightmare that included a nationwide rise of organized crime, street violence and ... drinking! 	NO_INTENT	0.5	not_needed, def, prep
+Crime was an issue in the area.	Prediction_10_Parametric	0.6	def, prep, tell
+ How long will we see people murdered in the street for making fun ofor disagreeing with Islam as in the Netherlands recently?	Prediction_10_Parametric	0.6	def, prep
+An American named Michael Brewer, who runs a home for " street kids and runaway 'restavek ' slave children " says carloads of men " who areactually members of the now disbanded military, have began patrolling the streets of Port-au-Prince and are indiscriminately murdering street children for no reason otherthan sport. 	NO_INTENT	0.6	not_needed, def, prep, tell
+Count Dracula Beloved war-hero, aristocrat and former cabinet minister Count Vlad Dracula, Hammer of the Turks and Hero of Wallachiawas brutally murdered yesterday by a ruthless gang of accountants and lawyers from England. In his youth, Count Dracula fought to keep his country free fromencroachment by the Ottoman Empire.	NO_INTENT	0.6	not_needed, def, prep
+Attorney General Gord Mackintosh struck an independent inquiry into theJames Driskell murder case yesterday amid mounting allegations police and prosecutors failed to disclose evidence that would have cast doubt on the conviction.	NO_INTENT	0.7	not_needed, def, prep
+The police chief actually suspected someone else of the murder.Yesterday, the New Brunswick government re-opened the case, finally deciding to examine exhibits seized from the crime scene that somehow have gone untested untilnow. 	NO_INTENT	0.6	not_needed, INCIDENT_TYPE, def, prep
+Murder evidence ignored BARBARA BROWN, Justice Reporter The Hamilton Spectator, June 17, 2000 	Prediction_10_Parametric	0.5	def, prep, tell
+s conviction: Report suggests Driskell was a victim of deal-making By KIRK MAKIN AND GRAEME SMITH, Nov. 25, 2003 Gaping holes appeared in a 12-year-oldManitoba murder conviction yesterday after the release of a long-suppressed police report suggesting a key underworld witness was told he would not be charged in anarson prosecution in return for his	NO_INTENT	0.6	CALENDARX, not_needed, def, prep
+Prosecutorswithdrew a second-degree murder charge yesterday against Chris McCullough, who spent nearly nine years in prison for the slaying of Tapleytown School teacherBeverley Perrin.	Prediction_10_Parametric	0.6	def, prep, tell
+ Crime in Britain has more than doubled since 1979.	NO_INTENT	0.7	not_needed, prep
+A Washington survey, for example, showed that 38 per cent of those asked revealed that they had been a victim of a serious crime within thelast year, compared to the 10 per cent revealed by police statistics. 	NO_INTENT	0.7	not_needed, def, prep
+More than 1.5 million carcrimes were committed last year, one in five by people under 21, a survey found. 	NO_INTENT	0.6	CALENDARX, not_needed, def, prep
+The revelation comes as an oil industry survey claims 84 per cent of forecourts were hitby crime last year . 	NO_INTENT	0.6	CALENDARX, not_needed, def, prep
+The latest security report says installing cameras has finally led to a fall in car theft, but overall hospital crime rose12.5% last year. 	NO_INTENT	0.6	INCIDENT_TYPE, def, CALENDARX, not_needed, prep
+for the police, in some parts of the region car related crimes have reached epidemic porportions, in the Thames Valley region for instance, there were 40,000 car- relatedcrimes last year . The police want tougher action taken against offenders: He says that all to often it 's the same people committing the crimes, theyaalso commit more whileon	NO_INTENT	0.7	CALENDARX, not_needed, def, prep
+The force, which covers Oxfordshire, Buckinghamshire and Berkshire solved just twenty one point seven percent ofreported crimes last year. 	Prediction_10_Parametric	0.6	CALENDARX, def, prep
+He had served ten years in jail in the Republic for armed robbery.	Prediction_10_Parametric	0.6	INCIDENT_TYPE, def, prep
+The hut at North Park, Darlington,was destroyed in an arson attack last year.	NO_INTENT	0.6	def, is, CALENDARX, not_needed, prep
+The whole questionof what constitutes the rightful ownership of great international works of art is a minefield which, except in cases of outright and proven theft in very recent times, is bestleft undisturbed.	NO_INTENT	0.6	INCIDENT_TYPE, def, is, not_needed, prep
+Maxine Carr had nothing to do with the Soham murders.	NO_INTENT	0.6	not_needed, def, prep
+She had the perfect alibi which distanced her from one of the most terrible crimes of recent decades	NO_INTENT	0.6	not_needed, def, prep, tell
+Without A Trace 10pm, C4 Undoubtedly one ofthe most consistently satisfying crime shows of recent years	Prediction_10_Parametric	0.7	CALENDARX, prep, tell
+The island was one of the more peaceful in the West Indies but had been plagued by drugs and violent crime in recent years.	NO_INTENT	0.5	not_needed, def, prep
+Tom Cruise has a tough time in Minority Report, where future crime ispredicted	NO_INTENT	0.5	not_needed, def, prep, tell
+Cruise is a drug-addicted cop in a future where murder is predicted before it is committed	NO_INTENT	0.7	INCIDENT_TYPE, def, is, not_needed, prep, tell
+However, the impact of thoseparameters on the accuracy of crime prediction has not been evaluated yet.	NO_INTENT	0.6	INCIDENT_TYPE, def, not_needed, prep, tell
+In essence, hotspot mapping is used as a basic form of crime prediction.	NO_INTENT	0.6	where, def, is, not_needed, prep
+Edward Davey MP acknowledged that his nightmarishcrime predictions were coming true.	Prediction_10_Parametric	0.8	prep

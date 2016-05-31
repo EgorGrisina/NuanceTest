@@ -21,7 +21,7 @@ public class Configuration {
     public static final Uri SERVER_URI = Uri.parse("nmsps://" + APP_ID + "@" + SERVER_HOST + ":" + SERVER_PORT);
 
     //Only needed if using NLU
-    public static final String CONTEXT_TAG = "M2638_A1265_V4";
+    public static final String CONTEXT_TAG = "M2686_A1265_V5";
 
     public static final PcmFormat PCM_FORMAT = new PcmFormat(PcmFormat.SampleFormat.SignedLinear16, 16000, 1);
 }

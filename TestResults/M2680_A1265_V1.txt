@@ -1,0 +1,486 @@
+68 please	Thermostat	1.0	NUMBER, please
+change it to 65 degrees	Thermostat	1.0	NUMBER, change, degree
+cool down the room	Thermostat	1.0	change, room
+i'm cold	Thermostat	1.0	temperature
+Increase the temperature to 65 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+make it warmer	Thermostat	1.0	temperature, change
+set room to 67 degrees	Thermostat	1.0	NUMBER, change, room, degree
+Turn it up	Thermostat	1.0	change
+Turn temperature up to 70	Thermostat	1.0	NUMBER, temperature, change
+up by 5	Thermostat	1.0	NUMBER, change
+go down 3 degrees	Thermostat	1.0	NUMBER, change, degree
+Turn down the temperature by 7 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+please set to 50	Thermostat	1.0	NUMBER, change, please
+Turn the temperature	Thermostat	1.0	temperature, change
+it's chilly	Thermostat	1.0	temperature
+i'd like it to be about 72 degrees	Thermostat	1.0	NUMBER, change, degree
+go up a little	Thermostat	1.0	change
+it's hot	Thermostat	1.0	temperature
+80	Thermostat	1.0	NUMBER
+it's wicked hot in here	Thermostat	1.0	temperature, room
+4 degrees colder	Thermostat	0.9	NUMBER
+it's really hot	Thermostat	0.7	temperature
+go up a degree	Thermostat	0.7	change
+down by 1 degree	Thermostat	0.7	change
+make the room warmer by 2 degrees	Thermostat	0.6	NUMBER, change, degree
+Turn temperature down to 67	Thermostat	1.0	NUMBER, temperature, change
+Turn it up a bit	Thermostat	0.6	change
+change the thermostat to 76	Thermostat	0.7	NUMBER
+make the room 4 degrees cooler	Thermostat	0.7	change
+it's freezing	Thermostat	0.7
+heat up	Thermostat	0.6	change
+set thermostat to 67 degrees	Thermostat	0.6	NUMBER, change, degree
+set thermostat to 67	Thermostat	0.6	NUMBER, change
+Turn it down	Thermostat	1.0	change
+make it colder in here	Thermostat	0.7	change
+up by 1 degree	Thermostat	0.7	change
+make it colder	Thermostat	0.4	change
+make it 10 degrees	Thermostat	0.7	NUMBER, change, degree
+make it 10	Thermostat	0.7	NUMBER, change
+it's really hot here	Thermostat	0.7
+increase the temperature by 2 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+Make it 6 degrees warmer	Thermostat	0.8	NUMBER, change
+make it hotter	Thermostat	0.4	change
+Turn it way up	Thermostat	0.6	change
+Turn up the thermostat	Thermostat	1.0	temperature, change
+Turn up by 1 degree	Thermostat	0.7	change
+the temperature of 90	Thermostat	0.7	NUMBER, temperature
+decrease the temperature	Thermostat	0.7	temperature
+set at 68	Thermostat	0.7	NUMBER
+Turn it down a bit	Thermostat	0.5	change
+Turn it up more	Thermostat	0.7	change
+make it 5 degrees cooler	Thermostat	0.7	NUMBER, change
+set it to 70	Thermostat	0.5	NUMBER, change
+Turn heat to 55	Thermostat	0.7	NUMBER, change
+could you please just make it less hot	Thermostat	0.6
+3 degrees cooler	Thermostat	0.8	NUMBER
+Turn temperature up to 75	Thermostat	1.0	NUMBER, temperature, change
+Turn up the thermostat by 4 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+Turn down the temperature by 7	Thermostat	0.7	NUMBER, temperature, change
+I'm so cold	Thermostat	0.7
+Make it 4 degrees warmer	Thermostat	0.8	NUMBER, change
+set it to 55 degrees	Thermostat	1.0	NUMBER, change, degree
+Turn it down a little	Thermostat	0.6	change
+set temperature to 72	Thermostat	0.6	NUMBER, temperature, change
+decrease temperature by 6	Thermostat	0.8	NUMBER
+decrease the temperature by 2 degrees	Thermostat	0.6	NUMBER, temperature, degree
+set room to 67	Thermostat	0.6	NUMBER, change, room
+make the room hotter	Thermostat	0.6	change
+decrease the temperature by 1 degree	Thermostat	0.7	temperature
+it's cold in here	Thermostat	0.6	temperature
+make it 1 degree warmer	Thermostat	0.7	change
+I'm really warm	Thermostat	0.6
+it's way too hot in here	Thermostat	0.6	temperature
+set to 56	Thermostat	0.5	NUMBER, change
+67 degrees	NO_INTENT	1.0	TEMPERATURE
+Turn the temperature down by 3	Thermostat	0.7	NUMBER, temperature, change
+increase the temperature	Thermostat	1.0	temperature, change
+my fingers are freezing	NO_INTENT	0.6
+it's too damn hot	Thermostat	0.7
+Turn down the thermostat by 4 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+make a 72	Thermostat	0.7	NUMBER
+set to 65 degrees	Thermostat	0.6	NUMBER, change, degree
+Turn it up a little	Thermostat	0.6	change
+Set the temperature to 80 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+so hot in here	Thermostat	0.6
+please make it 10 degrees	Thermostat	0.6	NUMBER, change, degree
+it's too cold	Thermostat	0.7	temperature
+it's too warm in here	Thermostat	0.6
+make it cooler	Thermostat	0.4	change
+increase the temperature please	Thermostat	0.6	temperature, change
+I'm warm	Thermostat	0.6
+Turn to 56 degrees	Thermostat	0.6	NUMBER, change, degree
+make it really hot	Thermostat	0.7	change
+go down	NO_INTENT	1.0	change
+It's cold in here	Thermostat	0.6	temperature
+make it 2 degrees colder	Thermostat	0.7	NUMBER, change
+it's a little warm in here	Thermostat	0.6
+make it 2 degrees warmer	Thermostat	0.8	NUMBER, change
+make it 3 degrees hotter	Thermostat	0.6	NUMBER, change, degree
+Turn it down please	Thermostat	0.6	change
+set a 105 degrees	Thermostat	0.7	NUMBER, degree
+86	Thermostat	1.0	NUMBER
+Turn it to 73	Thermostat	0.7	NUMBER, change
+Set temperature to 68 degrees	Thermostat	0.6	NUMBER, change, degree
+Turn it up by 5 degrees	Thermostat	0.7	NUMBER, change, degree
+i'm hot	Thermostat	1.0	temperature
+Turn the temperature down to 68	Thermostat	0.7	NUMBER, temperature, change
+Turn the temperature down by 3 degrees	Thermostat	0.7	NUMBER, temperature, change, degree
+4 degrees warmer	Thermostat	1.0	NUMBER
+Turn the heat down	Thermostat	0.7	change
+set it to 80	Thermostat	0.6	NUMBER, change
+Turn on the heat	NO_INTENT	0.5	change
+i'd like it to be about 75	Thermostat	0.5	NUMBER, change
+Turn it down by 3 degrees	Thermostat	0.6	NUMBER, change, degree
+make it 2 degrees cooler	Thermostat	0.7	NUMBER, change
+set to 72	Thermostat	0.7	NUMBER, change
+it's chilly in here	Thermostat	0.6	temperature
+set temperature to 75 degrees	Thermostat	0.6	NUMBER, change, degree
+now 75	NO_MATCH	1.0	NUMBER
+please make it 10	Thermostat	0.7	NUMBER, change
+Turn it down by 4 degrees	Thermostat	0.6	NUMBER, change, degree
+temperature up to 65 degrees	Thermostat	0.6	NUMBER, change, degree
+set temperature	Thermostat	0.7	temperature
+make the room warmer	Thermostat	0.6	change
+change the temperature to 76	Thermostat	0.6	NUMBER, temperature
+it's too hot in here	Thermostat	0.6	temperature
+go down by 2 degrees	Thermostat	0.6	NUMBER, change, degree
+make it 3 degrees colder	Thermostat	0.6	NUMBER, change, degree
+it's too hot	Thermostat	0.7	temperature
+set it to 72	Thermostat	0.6	NUMBER, change
+Turn it up by 15 degrees	Thermostat	0.6	NUMBER, change, degree
+take it warmer in here	Thermostat	0.7	change
+go down by 4	Thermostat	1.0	NUMBER, change
+go up up by 2 degrees	Thermostat	0.6	NUMBER, change, degree
+it's hot in here	Thermostat	0.6	temperature
+make it 62	Thermostat	0.4	NUMBER, change
+2 degrees cooler	Thermostat	0.9	NUMBER
+Go up 4 degrees	Thermostat	1.0	NUMBER, change, degree
+Turn heat to 55 degrees	Thermostat	0.6	NUMBER, change, degree
+Turn the thermostat to 80	Thermostat	0.6	NUMBER, change
+down by 3 degrees	Thermostat	0.6	NUMBER, change, degree
+down by 2 degrees	Thermostat	0.7	NUMBER, change, degree
+3 degrees warmer	Thermostat	0.8	NUMBER
+Increase the temperature by 4 degrees	Thermostat	1.0	NUMBER, temperature, change, degree
+make it really warm	Thermostat	0.4	change
+get warmer	Thermostat	0.8
+Increase the temperature	Thermostat	1.0	temperature, change
+Turn it up 2 degrees	Thermostat	0.7	NUMBER, change, degree
+make it 1 degree colder	Thermostat	0.7	change
+the temperature 55 degrees	Thermostat	0.6	NUMBER, temperature, degree
+I'm freezing	Thermostat	0.6
+Turn down the thermostat	Thermostat	1.0	temperature, change
+don't get so excited	NO_INTENT	1.0
+the screen is too dark	NO_INTENT	1.0
+Turn up the language formality	NO_INTENT	1.0	change
+volume louder	NO_INTENT	1.0
+Turn the sound up	NO_INTENT	1.0	change
+keep it simple, pleas	NO_INTENT	1.0	please
+brightness lower	NO_INTENT	1.0
+be less formal	NO_INTENT	1.0	change
+make it brighter	NO_INTENT	1.0	change
+I still can't hear you clearly	NO_INTENT	1.0
+be more formal	NO_INTENT	0.7
+say it louder	NO_INTENT	0.6
+can you show more emotion?	NO_INTENT	0.7
+Turn the volume down	Thermostat	0.6	change
+switch to formal mode	NO_INTENT	0.6
+Can you be warmer with me?	Thermostat	0.5
+Enable formal mode	NO_INTENT	0.7
+don't be so emotional	NO_INTENT	0.8
+Talk calm	NO_MATCH	1.0
+your voice is too low	NO_INTENT	0.8
+brighten the screen	NO_INTENT	0.8
+lower brightness	NO_INTENT	0.8
+dim the screen a bit	NO_INTENT	0.7
+volume down	NO_INTENT	0.5
+I don't think we have such an intimate relationship	NO_INTENT	0.7
+show some respect	NO_INTENT	0.6
+can you be more enthusiastic?	NO_INTENT	0.7
+whisper please	NO_INTENT	0.4
+stop talking like a snob	NO_INTENT	0.6
+Turn it up	Thermostat	1.0	change
+tone down the snobby language	NO_INTENT	0.7
+Turn up the sound	NO_INTENT	0.6	change
+make the screen lighter	NO_INTENT	0.7
+Use simple language	NO_INTENT	0.8
+you're so pretentious	NO_INTENT	0.6
+Talk more casual	NO_INTENT	0.5
+can you be louder	NO_INTENT	0.7
+don't be such a snob	NO_INTENT	0.7
+Enable informal mode	NO_MATCH	1.0
+lower your voice	NO_INTENT	0.7
+Respect me	NO_MATCH	1.0
+say that with some feeling	NO_INTENT	0.6
+you're not loud enough	NO_MATCH	1.0
+raise your voice	NO_INTENT	0.6
+speech formality down	Thermostat	0.3
+you sound pretentious	NO_INTENT	0.8
+brightness down	NO_INTENT	0.5
+Turn the speech sentiment value down	Thermostat	0.6	change
+Turn the volume up	NO_INTENT	0.6	change
+can you try to sound human?	NO_INTENT	0.7
+can you be more bright	NO_INTENT	0.7
+don't be so formal	NO_INTENT	0.7
+Turn the informal speech on	NO_INTENT	0.5	change
+it's too bright	Thermostat	0.6
+it's too dark	NO_INTENT	0.5
+you can be less formal	NO_INTENT	0.6
+sound down	NO_INTENT	0.5
+be more relaxed	NO_INTENT	0.7
+make it louder	NO_INTENT	0.7	change
+Talk less reserved	NO_INTENT	0.4
+Talk formally	NO_MATCH	1.0
+you are not bright enough	NO_INTENT	0.6
+Be more respectful	NO_INTENT	0.7
+We can talk in a more intimate way, can't we	NO_INTENT	0.7
+can you talk a bit louder	NO_INTENT	0.7
+could you be more sentimental	NO_INTENT	0.7
+the volume is too low	NO_INTENT	0.7
+Can you pay homage to me	NO_INTENT	0.6
+down the language formality	NO_INTENT	1.0	change
+stop being so vulgar	NO_INTENT	0.6
+what are you holding back?	NO_INTENT	0.7
+Turn on the informal speech	NO_INTENT	0.5	change
+speak louder	NO_INTENT	0.8
+speak like a normal person	NO_INTENT	0.6
+you sound so boring	NO_INTENT	0.8
+We aren't in formal relations	NO_INTENT	0.7
+speak like a real person	NO_INTENT	0.6
+your tone is too flat	NO_INTENT	0.8
+brightness up	NO_INTENT	0.5
+it's not light enough	Thermostat	0.6
+stop being so boring	NO_INTENT	0.6
+louder	NO_INTENT	0.8
+talk like a computer	NO_INTENT	0.6
+You're too nonchalant	NO_INTENT	0.7
+be louder	NO_INTENT	0.8
+you sound stuck up	NO_INTENT	0.7
+speak more formally	NO_INTENT	0.5
+increase brightness	Thermostat	0.5
+We can talk less formally, can't we?	NO_INTENT	0.6
+can you speak more professionally?	NO_INTENT	0.6
+You're so puffed up!	Thermostat	0.5
+I can't hear you	NO_INTENT	0.6
+Reserved mode on	NO_MATCH	1.0
+I don't think we're that close	NO_INTENT	0.7
+speak loudly	NO_MATCH	1.0
+stop being so formal	NO_INTENT	0.8
+Turn the formality down	NO_INTENT	0.6	change
+Turn the friendly assistance on	NO_INTENT	0.5	change
+where are your manners?	NO_INTENT	0.6
+quieter please	NO_INTENT	0.4
+no need for formalities	NO_INTENT	0.6
+informal is fine	NO_INTENT	0.7
+it's too dim	Thermostat	0.6
+Turn down the brightness	Thermostat	0.7	change
+Turn the brightness up	NO_INTENT	0.6	change
+calm your voice	NO_INTENT	0.6
+speak informally	NO_MATCH	1.0
+lower volume	NO_INTENT	0.8
+shhh	NO_MATCH	1.0
+How unemotional you are	NO_INTENT	0.6
+You're overemotional	NO_MATCH	1.0
+try to use more emotion in your speech	NO_INTENT	0.7
+volume higher	NO_INTENT	0.8
+Can you talk less dispassionately	NO_INTENT	0.6
+relax	NO_MATCH	1.0
+quiet down	Thermostat	0.6
+i wish to Turn the volume up	NO_INTENT	0.5
+speak up	Thermostat	0.6	change
+calm down	Thermostat	0.6
+speak calmly	NO_MATCH	1.0
+volume lower	NO_INTENT	0.8
+it's too light	Thermostat	0.5
+you are too sentimental	NO_INTENT	0.7
+volume up	NO_INTENT	0.5
+I can't hear what you're saying	NO_INTENT	0.7
+speech formality up	NO_INTENT	0.6
+Turn on the casual speech	NO_INTENT	0.5	change
+cut the brightness	NO_INTENT	0.9
+too loud	NO_INTENT	0.7
+use a computer voice	NO_INTENT	0.6
+Talk in accordance with etiquette	NO_INTENT	0.6
+that's too loud	NO_INTENT	0.7
+mind your manners	NO_INTENT	0.6
+you sound so snotty	NO_INTENT	0.8
+decrease brightness	NO_INTENT	0.7
+You so impudent!	NO_INTENT	0.7
+be more friendly	NO_INTENT	0.7
+Turn it down a bit	Thermostat	0.5	change
+softer please	NO_INTENT	0.4
+shift to the formal language	NO_INTENT	0.7
+Can you behave not so snobbish	NO_INTENT	0.7
+too dim	NO_INTENT	0.7
+sound up	NO_INTENT	0.7	change
+Turn the formality up	NO_INTENT	0.6	change
+brighter	NO_INTENT	0.9
+Turn down the volume	Thermostat	0.7	change
+tone down the formality	NO_INTENT	0.7
+make it less bright	Thermostat	0.5	change
+make your voice quieter	NO_INTENT	0.5
+less bright, please	Thermostat	0.4
+Be informal	NO_INTENT	0.8
+you sound so snobby	NO_INTENT	0.8
+Turn volume down	Thermostat	0.7	change
+mind your language	NO_INTENT	0.7
+Can you treat me as a friend?	NO_INTENT	0.7
+you are too loud	NO_INTENT	0.7
+speak more professionally	NO_INTENT	0.5
+We can talk in a casual way	NO_INTENT	0.7
+minimize brightness	NO_INTENT	0.7
+be brighter	NO_INTENT	0.9
+Shift to dry language	NO_INTENT	0.6
+more light	NO_INTENT	0.6
+talk louder	NO_INTENT	0.8
+How impolite you are!	NO_INTENT	0.6
+don't be so official	NO_INTENT	0.8
+I still can't hear you distinctly	NO_INTENT	0.6
+reduce brightness	NO_INTENT	0.7
+You can talk in an unreserved manner	NO_INTENT	0.7
+be less emotional	NO_INTENT	0.7
+lighten the screen	NO_INTENT	0.8
+address me formally	NO_MATCH	1.0
+Can we talk in a more reserved manner	NO_INTENT	0.7
+make it dimmer	Thermostat	0.4	change
+speak simply	NO_MATCH	1.0
+don't get so worked up	NO_INTENT	0.6
+use the detailed answering	NO_INTENT	0.9
+you're too quiet	NO_INTENT	0.7
+stop sounding so emotional	NO_INTENT	0.6
+toggle to the simple language	NO_INTENT	0.7
+Turn up the volume	NO_INTENT	0.7	change
+Talk more emotional	NO_INTENT	0.5
+Turn yourself up	Thermostat	0.7	change
+speak normally	NO_MATCH	1.0
+How arrogant you are!	NO_INTENT	0.6
+When pilot light goes out, check the temperatur	NO_INTENT	1.0	temperature
+If you leave your device in the cold ftp too long, its battery will di	NO_INTENT	1.0	temperature
+And Honeywell has reintroduced its original 1952 wall thermostat, the classic bubble shape, but with designer colors for today's ho	NO_INTENT	1.0	NUMBER, temperature
+When adjusting my hot water heater, what temperature should I set it t	NO_INTENT	1.0	temperature, change
+By default, Outlook displays temperatures using the Fahrenheit scal	NO_INTENT	1.0	temperature
+Trying to get a good night's rest in a bed that is too hot or too cold can be extremely difficult.	NO_INTENT	1.0	temperature
+Of the 64 students in this study, 66% had bachelor's degrees in a science (i.e., biology, chemistry, etc.), and 68% had taken the MCAT at least once prior to entering MEDPREP; 58% had received non-competitive Verbal Reasoning (VR) scores.	NO_INTENT	1.0	NUMBER, degree
+Figures relating to Malta's international trade show that in 2015 imports went down by 386 million euro	NO_INTENT	1.0	NUMBER, change
+Our property taxes also went down by just a bit	NO_INTENT	1.0	change
+The Gathering is a Turn-based game, where game flow is partitioned into well-defined parts	NO_INTENT	1.0	change
+A man who had grudgingly turned his thermostat up to sixty-three when she came to spend the night.	Thermostat	0.7	NUMBER
+If you are a woman who always feels cold in the office, you aren't alone.	NO_INTENT	0.6
+At about 600 degrees Celsius, the biomass decomposes to these optionary compounds, which then enter into our catalyst, which is a zeolite-type catalyst.	NO_INTENT	0.7	NUMBER
+A warm front is defined as the transition zone where a warm air mass is replacing a cold air mass.	NO_INTENT	0.7
+Simply find the buttons that control the water's temperature and turn it to 102 degrees.	Thermostat	0.5	NUMBER, change, degree
+To easily fine tune your adjustments, simply click or tap the up and down arrows below the current target temperature.	Thermostat	0.6
+Minus 1 high temperature in Chicago.	Thermostat	0.8
+Turn it a few times and then cook it on a really low temperature.	Thermostat	0.6	change
+The Red Ranger takes on a pair of enemies in these photos from the film's set.	NO_INTENT	0.7
+When the engine reaches a high enough temperature, the thermostat opens so cold water can enter and cool the motor.	NO_INTENT	0.6
+We've sold 200 tons of hot chocolate and 50 tons of coffee.	Thermostat	0.7
+It's too cold in New York City for the annual Central Park Ice Festival.	Thermostat	0.6
+If the temperature is too low, doughnuts will absorb more oil and taste soggy and oily.	NO_INTENT	0.6	temperature
+You turn it on when you need hot water, set the temperature and turn on the water.	Thermostat	0.5	temperature
+Pasteurization involves cooking milk at a high temperature to kill listeria,	Thermostat	0.7
+A video surfaced online yesterday showing Katt Williams getting beat up by a 7th grade kid after throwing the first punch.	NO_INTENT	0.6
+It was a peaceful Indian summer day with the temperature in the low seventies.	NO_INTENT	0.6	temperature
+In St. Louis County, temperatures are 1 to 1.5 degrees hotter than the average from 1901 to 1960.	Thermostat	0.7	NUMBER
+For the last two weeks the thermostat had been broken so that it kept the radiators working all day.	NO_INTENT	0.7
+At Warm Winters, we believe that every homeless person deserves access to warm clothing.	NO_INTENT	0.6
+A dryer that's too hot may seem like a daunting repair, but fixing your own appliance is actually pretty easy.	NO_INTENT	0.6
+He feels so impinged upon by the degree and the velocity of my art.	NO_INTENT	0.7
+You don't need to turn your thermostat up when it is colder outside; the house will heat up to the set temperature regardless	Thermostat	0.5
+You can't be fired for being a woman — but you can be fired for being too hot.	NO_INTENT	0.6	temperature
+But, as noted previously, it also involves a degree of control.	NO_INTENT	0.6
+How high is my temperature, Doctor?	Thermostat	0.6
+Westerners are surprised when Russians tell them that they wanted to continue the Cold War at any price.	NO_INTENT	0.7
+Too low a temperature may mean the pile is too low in nitrogen -- usually not a problem since grass clippings are nitrogen-rich.	NO_INTENT	0.7
+The company also announced a software update for its Nest Learning Thermostat that adds at least one new feature: notifications when temperatures in the home drop low enough to freeze pipes	NO_INTENT	0.5
+It is warm air.	NO_INTENT	0.6
+This year's hot holiday gift is just way too hot for some.	NO_INTENT	0.6
+t was cold, it was dark, and there was a row of trees with ropes hanging off the branches, " he said. "	NO_INTENT	0.6
+High ambient temperature and mortality: a review of epidemiologic studies from 2001 to 2008.	Thermostat	0.6	NUMBER
+Everything around you that you call life was made up by people that were no smarter than you	NO_INTENT	0.6
+It was warm enough that roads were clearing up after Tuesday's blizzard, but still cold enough for those to go ice fishing.	Thermostat	0.7
+Some types of medicine can also make it easy to get too cold.	Thermostat	0.6	temperature
+Lithium tantalate is very stable because of its high Curie temperature and insensitivity to humidity and vacuum, and is often used for space applications.	NO_INTENT	0.6
+Make your normal backswing, turning your shoulders about 90 degrees and your hips some 45 degrees.	Thermostat	0.7	NUMBER, degree
+When she's cooking, she just sets her propane furnace thermostatto68degrees, which keeps the house at a comfortable temperature.	Thermostat	0.6	NUMBER
+At low temperature, tunneling predominates.	Thermostat	0.7
+Begin your journey into the world of statistics with some warm-up questions about data sets.	NO_INTENT	0.7
+Then after you set the coffee aside to cool, it gets too cold.	Thermostat	0.6	temperature
+Warm Heart is a nonprofit organization in Thailand focused on people helping people.	NO_INTENT	0.8
+Certainly, when you exercise, run, or play sports, a healthy warm up is a good way to prepare, improve your performance, and prevent injury to yourself.	NO_INTENT	0.6
+Today the benchmark index at Nepal Stock Exchange went down by5.88 points or 0.46% to close at 1,285.93 points.	Thermostat	0.6	NUMBER, change
+Add rice, mayo, Dijon, hot sauce and season to taste with salt and pepper.	Thermostat	0.5
+Raise the temperature setting if you're willing to do so.	Thermostat	0.6	temperature
+Samsonite offers the ideal luggage set for business and travel.	NO_INTENT	0.7
+It may become too hot for humans to survive, study warns.	Thermostat	0.6
+The German Aerospace Center (DLR) said on Friday it suspects Philae is now covered in dust and too cold to operate.	NO_INTENT	0.6
+However a new study, published today in Global Change Biology, shows that it was once too coldeven for emperor penguins.	NO_INTENT	0.7
+Each time you start your vehicle, the cabin temperature is set to a single zone, which can be manually adjusted by touching the driver-side (+ and -).	NO_INTENT	0.5
+Prices and details about Ice hotel's warm hotel rooms & chalets.	NO_INTENT	0.6
+He can't see me once I've finished my degree wanting to stay in the job that I'm doing.	NO_INTENT	0.7
+Cover ice with coldwater.	NO_INTENT	0.6
+In aerobic composting proper temperature is important.	Thermostat	0.6
+New photos from the Luke Cage set reveal a villain that will be in the series and show Mike Coulter's title character fighting him!	NO_INTENT	0.6
+Our bats were cold.	Thermostat	0.7
+Don't feel your baby's hands or feet to work out if he is warm enough; it is normal for them to feel cold.	NO_INTENT	0.6
+Acclimation to the cold is an important factor, too.	NO_INTENT	0.7
+And seasonal outlooks - such as whether it will be a cold, snowy winter - tend to be only marginally more accurate.	NO_INTENT	0.6
+A fur coat is not enough to keep warm enough when it is really cold, even if the rabbit is indoors.	NO_INTENT	0.6
+IF you want to get your vegetable garden off to a fast start, you need to plant your seeds in soil that's warm enough to ensure good germination.	NO_INTENT	0.7
+If your horse outgrows his clip very quickly then it is likely that he is not warm enough and if he grows long 'cat hairs' that outgrow the rest of the coat and produce a whiskery effect then your horse has almost certainly been getting cold.	NO_INTENT	0.6
+She had apparently been brought up by apes or monkeys.	NO_INTENT	0.5
+This notifcation is required by a new EU cookie law.	NO_INTENT	0.7
+Right now it's super warm all the way across the Pacific to Japan	NO_INTENT	0.7
+You deposited $500 yesterday, then wrote $600 worth of checks and your balance went down by$100.	NO_INTENT	0.6	change
+Succeed by one's own efforts, as in She was homeless for nearly two years, but she managed to pull herself up by the bootstraps.	NO_INTENT	0.6	change
+The top-performing hedge fund manager that's too hot for big money to handle.	NO_INTENT	0.7
+Adaptation of plants to water and high temperature stress.	Thermostat	0.6
+Humanities scholars speak of a quantitative Turn in history in the 1960s, a linguistic and cultural Turn of the 1980s in history and literature, and even more recently an animal Turn.	NO_INTENT	0.7
+Temperature is a key parameter determining the success of composting operations.	NO_INTENT	0.7
+In this article, I'll explain why your iPhone is getting so ho tand show you exactly how to fix it.	NO_INTENT	0.7
+Frozen sections were cut into 4 m sections and fixed for 10 min in cold acetone.	Thermostat	0.7
+The Mayor keeps his thermostat set on eighty-five and still can not get warm.	Thermostat	0.7
+t's too cold, there's no tea, no restaurants, no bars	Thermostat	0.4
+Aid spending pushed up by refugee crisis, OECD says.	Thermostat	0.5
+There are several hot races to watch.	Thermostat	0.6
+I did a lot of cold calling to climbing gyms.	Thermostat	0.5
+We went down by train and spent two fabulous weeks climbing the local limestone crags, cycling and walking.	NO_INTENT	0.7	change
+I was wondering if it will be warm enough to swim and tan there the first week of March.	NO_INTENT	0.6
+Carney checked the thermostat.	NO_INTENT	0.5
+Here are the cold career realities, according to some in the industry	NO_INTENT	0.7
+We went down by the river.	NO_INTENT	0.6	change
+Last but never least, when expanding the brood nest, there needs to be enough bees to cover and keep warm during a cold snap	NO_INTENT	0.6
+CALL THE ELECTION PROTECTION HOTLINE, 1-866-0UR-V0TE.	Thermostat	0.7
+The film should be agitated frequently during fixing at 65 degrees F to 75 degrees F (18.5 degrees C to 24 degrees C).	Thermostat	0.6	NUMBER
+Politically motivated crime up by20%, Germany says.	Thermostat	0.7	NUMBER
+How come my youtube views went down by like 150!	NO_INTENT	0.7	NUMBER, change
+Twitter fired up by naming of Louis Otieno in murder inquest.	NO_INTENT	0.5
+One of its most eye-catching features is the hot tub set amid a virtual sunning and entertaining complex on the flying bridge.	NO_INTENT	0.6	NUMBER
+The climate of Haripur is continental in character i.e. very hot in summer and bitterly cold in winter.	NO_INTENT	0.6
+Freezing food at the proper temperature also preserves nutrients and slows enzymes.	Thermostat	0.6
+Even though sets have been used in Python since 2.3, Python3 has finally implemented them uniformly.	Thermostat	0.8
+We were hot together, but he wasn't my boyfriend.	Thermostat	0.5
+If you do not have any other warm IPs, all extra traffic will be routed through SendGrid's Shared IP Warm up clusters.	NO_INTENT	0.7
+The temperature at which a liquid resin or adhesive, or an assembly involving them, will set, that is, harden, gel, or cure.	NO_INTENT	0.6	temperature
+The number of persons speaking Finnish, Swedish or Sami as their native language went down by nearly 4,000 persons.	NO_INTENT	0.6	change
+One of the easiest ways to increase decomposition in your compost pile, and to solve many compost problems, is to regularly turn and aerate your compost	Thermostat	0.5	NUMBER
+It is estimated that the average water heater temperature is set to 130ºF in the United States.	NO_INTENT	0.6	NUMBER
+It's getting too hot for monkeys.	Thermostat	0.7
+It's too cold to put on makeup, it's too cold to be a fashionist a, and it's too cold to care.	Thermostat	0.7	temperature
+These receivers are cooled to the incredibly low temperature of 0.1 kelvin.	Thermostat	0.7
+The essential data consisted of three charts, each detailing the high and low temperature at one location over a period of 7 days.	Thermostat	0.7
+The average level of food prices in January 2016 in comparison with the corresponding month of the previous year went down by0.3 %	NO_INTENT	0.6	NUMBER, change
+They will most likely get another chance to buy many of today's hot stocks at far lower prices, and they will also have plenty of opportunities later	NO_INTENT	0.6
+On the other hand, if the temperature is too low, the viscosity of the polymer will be too high, inhibiting the molding process.	NO_INTENT	0.6	temperature
+Put the back of your hand on the pavement, and if you can't keep it there for five seconds, it's too hotfor your pup's feet.	NO_INTENT	0.6
+In deciding when it is too hot to play sports depends on the heat index.	NO_INTENT	0.6	temperature
+Global temperatures are set to rise more than 1C above pre-industrial levels in 2015, according to the UK's Met Office.	Thermostat	0.6	NUMBER
+People enjoy unseasonably warm weather near the White House on December 11, 2015.	NO_INTENT	0.6	NUMBER
+On the red ball I would first paint the degrees of pink that fall between the red and the highlight	NO_INTENT	0.8
+Within 5 seconds, turn the oven control dial to either the BROIL HI, to increase, or BROIL LO, to decrease the oven temperature.	Thermostat	0.6
+There the temperature drops as low as 40 degrees, and the apples keep very well.	Thermostat	0.7	temperature
+A Round Turn is the most simple knot, one complete turn of a rope around an object.	NO_INTENT	0.6
+Meanwhile, in nonstick 12-inch skillet, heat oil over medium heat until hot.	Thermostat	0.6
+When stating 'my Turn' you are telling someone that it is time to change position or position focuses on to you	NO_INTENT	0.6
+The effects of eating peanut products as a baby to avoid the risk of allergy have been backed up bynew research.	NO_INTENT	0.7
+Winds pound the state after Denver sets high temp record.	NO_INTENT	0.9
+When hot, add lobster and saute until heated through and butter begins to Turn pinkish, about 3 minutes.	Thermostat	0.5
+Brenda Richardson of Anacostia lowers her family's thermostatto65degrees in the winter to save energy	NO_INTENT	0.6	NUMBER, degree
+That smart thermostat could be lowered or shut off in winter, leading to burst pipes if a malicious hacker knew the family was away.	NO_INTENT	0.7
+As CBS2’s Jennifer McLogan reported, police had a suspect in custody late Thursday afternoon after at least six cars were set on fire overnight within a several block radius in Elmont.	Thermostat	0.6	NUMBER
+A miniature Turn-around for distributed temperature sensing.	Thermostat	0.6
+In the test truck, 69 degrees was too cold, 70was too hot.	Thermostat	0.6	NUMBER, temperature
+The food prices went down by1.4 percent, and the non-food prices went up by 0.1 percent.	Thermostat	0.6	change
+Sometimes it's wood, sometimes it's cold glass.	Thermostat	0.8
+Not warm enough for spring-time insects.	NO_INTENT	0.6
+Glaciers can't form or endure, of course, unless the air temperature remains low, and how far down a mountain they reach depends on what glaciologists call the equilibrium snowline-the boundary between an upper zone where accumulation of snow outpaces melting and a lower zone where the reverse is true.	NO_INTENT	0.6
+This is accomplished at a relatively low temperature(50 to 100C), which limits damage to adjacent tissue.	Thermostat	0.6	NUMBER
+We confirmed temperature setting to be a critical factor in suppressing L. pneumophila growth both in continuously recirculating hot water lines and at distal taps	Thermostat	0.5
+Sino–Japanese economic embrace is warm enough to thaw the politics.	NO_INTENT	0.7
+The daily high temperature at Death Valley was over 100 degrees F (38 degrees c).	Thermostat	0.7	NUMBER
+He tapped the thermostat with his fingernail	NO_INTENT	0.6
+Leggings or jeans won't keep your legs warm enough.	NO_INTENT	0.7
+Doctors now know that your bedroom temperature affects how well and how long you sleep.	Thermostat	0.5
+The deal marks the second film picked up by The Orchard at Cannes.	NO_INTENT	0.7	change
+It should be noted that some participants held degrees in more than one category.	NO_INTENT	0.6
+Then bake it for six hours at 100 degrees, the average daily high temperature in Zion in July.	Thermostat	0.7	NUMBER

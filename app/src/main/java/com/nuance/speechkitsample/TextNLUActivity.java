@@ -69,7 +69,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
     int currentPosition = 0;
 
     final String DIR_SD  = "NuanceTesting";
-    final String FILENAME_SD  = "NuanceTestResults.txt";
+    final String FILENAME_SD  = "GritsinaTestResults.txt";
 
     ObjectMapper MAPPER = new ObjectMapper();
 
@@ -97,7 +97,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
         AssetManager am = this.getAssets();
         InputStream is = null;
         try {
-            is = am.open("inputPhrases");
+            is = am.open("GritsinaAlgorithm");
 
             inputPhrases = readStringList(is);
             testResults = new ArrayList<>();
@@ -245,7 +245,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
                 {
                     Log.d(TAG, "SEVERAL interpretations!");
                 }
-                Log.d(TAG, jsonObject.toString());
+                Log.d(TAG, currentPosition + ". " + jsonObject.toString());
 
                 try {
                     if (jsonObject == null) {

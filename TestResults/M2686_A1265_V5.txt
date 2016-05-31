@@ -1,0 +1,208 @@
+05 ford f150 blue crew cab	Vehicle	0.9	color, make, model
+blue 2007 Chevy Silverado from Nebraska commercial 68–113	Vehicle	0.8	color, make, model
+2016 white Chevy Malibu sedan with tinted windows.	Vehicle	0.8	color
+red 2010 Ford Mustang with broken rear window and rims	Vehicle	0.9	color, make
+red Chevrolet 4 door tag # ABC123	Vehicle	0.9	color, LP, make
+blue Dodge Ram from Illinois 123 ADAM BOY CHARLIE	Vehicle	0.9	color, make, year
+A 2015, blue hyundai sonata occupied 2 times	Vehicle	0.8	color
+blue Ford Crown Vic with Missouri License: Frank Mary 4 William 0 Union at 169 and Cliff, occupied 1 time	Vehicle	0.9	color, make, year, model
+white ford pickup with license plate ABC123	Vehicle	0.9	color, LP, make, model
+black Chevy Silverado, with tinted windows, bearing New Mexico plate 123ABC	Vehicle	0.9	color, make, year
+vehicle is a red Dodge Ram with plate XXX-Xxx	Vehicle	0.9	color
+red 4 door pickup truck with Colorado plates	Vehicle	0.9	color, make
+The suspicious vehicle is a grey 4-door sedan maybe a Honda Civic	Vehicle	0.9	color, make
+It is a blue honda civic, that is heading north bound on E123 from Phillips	Vehicle	0.9	color, year
+143 Dispatch 10-44 on a red Ford f150, Kansas 28 *****X, occupied 2x (and any distinguishing marks)	Vehicle	0.9	color, make, model
+Suspicious vehicle older 90's brown Chevrolet suv, California 4 David john Adam 347.	Vehicle	1.0	color, make
+blue Chevy sedan with Arizona license abc123	Vehicle	0.9	type, color, LP, make
+10-28 CA plate 4ETD35, blue 2 door passenger vehicle.	Vehicle	1.0	color, make
+Newer vehicle, blue in color, possibly Chevrolet Impala with 2 subjects in the vehicle.	Vehicle	0.9	color, make
+1993 Nissan Sentra with Illinois License 123ABC Burgundy Color, Primer Grey on right fender	Vehicle	0.9	year
+I'll be out with a vehicle at main and cross St bearing mo plate of 12345 on a white 4d passenger car occupied times two.	Vehicle	0.9	color, make, year, model
+a black, late-model Ford truck on the North Bound shoulder of the highway with, what appears to be, one occupant.	Vehicle	0.9	color, make, model
+suspicious vehicle is a red 2015 Scion FR-S, 2 door, Washington Plate AXM1254	Vehicle	0.8	color, LP, make
+grey Honda accord from Colorado plate 123-Adam Baker Charles	Vehicle	0.9	color, make, year
+Suspicious vehicle is a red 2004 ford Taurus with tinted windows, occupied x3.	Vehicle	0.9	color, make, model
+red Ford explorer with a brush guard, 10-28 Florida ABC123	Vehicle	0.9	color, LP, make, model
+the suspect is male with blue eyes	Vehicle	0.9	color, make
+black female wearing maroon jeans	Vehicle	1.0	color, make
+Sheldon Cooper	NO_MATCH	1.0	color
+dr. Sheldon Cooper	NO_MATCH	1.0	color
+white male, 1993 YOB	Vehicle	1.0	color, make, year
+who is owner of case 12 car	NO_MATCH	1.0	color, make
+1993 YOB white male	Vehicle	1.0	color, year
+planet saturn	NO_MATCH	1.0	color
+White male 5'11" around 180lbs with brown hair blue eyes and no facial hair or glasses	Vehicle	0.9	color
+Male black wearing a red hoodie blue jeans and a white hat	Vehicle	0.9	color
+call a cab	Vehicle	0.9	color
+can you skip the commercials?	NO_MATCH	1.0	color, make
+his glasses had a pink tint to them	Vehicle	0.8	color, make
+the residence has a broken front window	Vehicle	1.0	color, make, model
+i can't afford that!	NO_MATCH	1.0	color, make
+i want to go to Malibu!	NO_MATCH	1.0	color, make
+we went on vacation and saw the wild mustangs	Vehicle	1.0	color, make
+there were 2 doors to the residence	NO_MATCH	1.0	color, make
+she had to choose one of the four doors	NO_MATCH	1.0	color, make
+they were playing dodge ball when she rammed her fist against the wall for no reason	Vehicle	1.0	color, make
+my sign is aires, the ram	NO_MATCH	1.0	color, make
+every saturday they blow a ram's horn	Vehicle	1.0	color, make, model
+my favorite piece by Beethoven is the Moonlight Sonata	NO_MATCH	1.0	color, make
+they pulled the crown right off her head	NO_MATCH	1.0	color, make
+then the baby started to crown	NO_MATCH	1.0	color, make
+his name is Vic Arturian	NO_MATCH	1.0	color, make
+Victoria Gabriels, 23, white female	Vehicle	1.0	color, make
+do you want me to tag you in this picture?	NO_MATCH	1.0	color, make
+The kids were playing tag	NO_MATCH	1.0	color, make
+she had a skin tag on her neck	Vehicle	1.0	color, make
+the suspects tagged the building and then ran off	Vehicle	1.0	color, make
+this tag on the inside of my shirt is really bugging me	NO_MATCH	1.0	color, make
+ooh what was the price tag on that?	NO_MATCH	1.0	color, make
+she drank a few shots of crown royal	Vehicle	1.0	color, make
+i was feeling really blue yesterday	Vehicle	1.0	color, make
+he was the best blues saxophonist of the 60s	NO_MATCH	1.0	color, make
+you're looking a bit blue in the face	Vehicle	0.9	color, make
+the company ended up in the black after all	Vehicle	1.0	color, make, model
+then they called him up to the blackboard	NO_MATCH	1.0	color, make
+look at that blackbird over there	NO_MATCH	1.0	color, make
+they dressed up in blackface all the time in the 20s	NO_MATCH	1.0	color, make
+i don't wanna get blackballed/blacklisted	NO_MATCH	1.0	color, make
+they blackened out the windows in her aparment	NO_MATCH	1.0	color, make
+there was a blackout last night	Vehicle	1.0	color, make, model
+there was a brownout last night	Vehicle	1.0	color, make, model
+use some white out and fix it	Vehicle	0.9	color
+i have an appointment to whiten my teeth tomorrow	NO_MATCH	1.0	color, make
+Mr. John Black	Vehicle	1.0	color, make, model
+Mr. John White	Vehicle	1.0	color, make
+Mr. John Brown/Browne	NO_MATCH	1.0	color
+Mr. John Green/Greene	Vehicle	1.0	color, make
+Mr. John Gray/Grey	Vehicle	1.0	color
+I baked a batch of brownies last night	Vehicle	1.0	color
+Don't you think she's a bit green for this job?	Vehicle	0.9	color, make, model
+There's no greenery in this part of town	Vehicle	1.0	color, make
+eat your greens!	NO_MATCH	1.0	color, make, model
+i read this great book last week	NO_MATCH	1.0	color, make
+she went all red in the face when i asked her	Vehicle	1.0	color, make
+i don't want them to think i'm yellow	Vehicle	1.0	color, make
+pass me that orange?	NO_MATCH	1.0	color, make
+i planted some violets in my flowerbox.	NO_MATCH	1.0	color, make
+i ain't no pinko	Vehicle	1.0	color, make, model
+they're all reds over there	NO_MATCH	1.0	color, make
+pass me a stick of big red	Vehicle	0.9	color, make
+i want to go to florida and get a tan	Vehicle	0.8	color, make
+there's a window of 10 minutes to log on	Vehicle	1.0	color
+he recorded it on his dashcam	NO_MATCH	1.0	color, make
+there's a car parked in the rear/front of the building	Vehicle	1.0	color
+i bought a set of dinner plates last night	Vehicle	1.0	color, make
+the bracelet was gold plated	Vehicle	1.0	color, make
+he has a steel plate in his head	Vehicle	1.0	color, make
+he tried to give her a pick-up line	Vehicle	0.9	color, make
+I've gotta pick up the kids at 4	NO_MATCH	1.0	color, make
+pick up those papers from the floor	NO_MATCH	1.0	color, make
+Things are sure to pick up later on	NO_MATCH	1.0	color, make
+I didn't pick up on that right away	NO_MATCH	1.0	color, make
+she has to get her license first	NO_MATCH	1.0	color, make
+why don't they offer civics class any more in school?	NO_MATCH	1.0	color, make
+Ms. Georgia Jones	NO_MATCH	1.0	color, make
+Ms. Virginia Jones	NO_MATCH	1.0	color, make
+Ms. Caroline Jones	NO_MATCH	1.0	color, make
+he ran the 100 yard dash last year	NO_MATCH	1.0	color, make
+you need to put a dash there	Vehicle	1.0	color, make
+he was wearing vans	NO_MATCH	1.0	color, make
+van gogh is my favorite painter	Vehicle	1.0	color, make
+she bought a convertible car seat	Vehicle	0.9	color, make
+i saw an impala at the zoo last week	NO_MATCH	1.0	color, make
+i drank a whole bottle of burgundy last week	Vehicle	1.0	color, make
+the passengers on the plane were all shouting	NO_MATCH	1.0	color, make
+i can play a chord on the guitar	Vehicle	1.0	color, make
+we were all in accord with one another	Vehicle	1.0	color, make
+he wrapped a cord around her neck	Vehicle	1.0	color, make
+My daughter is a taurus	Vehicle	1.0	color, make
+what other explorer do you know besides dora?	Vehicle	1.0	color, make, model
+Ms. Portia Jones	NO_MATCH	1.0	color, make
+Ms. Mercedes Jones	Vehicle	1.0	color, make, model
+He's a smart boy	Vehicle	1.0	color
+That smarts!	NO_MATCH	1.0	color
+That Outfit is smart!	NO_MATCH	1.0	color
+That's an accurate description...	NO_MATCH	1.0	color, make
+The biggest number is infinity plus 1	NO_MATCH	1.0	color, make
+Why don't you go then?	NO_MATCH	1.0	color, make
+Ms. Kia Jones	NO_MATCH	1.0	color, make
+She reported with lacerations on her vulva	Vehicle	1.0	color, make
+Mr. George Bentley	NO_MATCH	1.0	color, make
+The kid was killed by a wild jaguar	Vehicle	1.0	color, make
+Lincoln was the best Republican ever.	Vehicle	1.0	color, make
+Mr. Lincoln Jones	Vehicle	1.0	color, make, model
+Mr. John Lincoln	Vehicle	1.0	color, make
+The pilgrims landed on Plymouth rock	NO_MATCH	1.0	color, make
+Saturn was a roman god	Vehicle	1.0	color
+I have a huge fear of spiders	Vehicle	1.0	color
+I used to play lacrosse in high school	NO_MATCH	1.0	color, make
+I didn;t know she was so intrepid	NO_MATCH	1.0	color, make
+that neon sign has been broken for ages	NO_MATCH	1.0	color, make
+Mary Rogers from Lucerne, PA	NO_MATCH	1.0	color
+She looked quite regal in that dress	NO_MATCH	1.0	color, make
+it's next to the Pacific ocean	NO_MATCH	1.0	color, make
+Usain Bolt is really fast	NO_MATCH	1.0	color, make
+They vacationed on the Riviera	NO_MATCH	1.0	color, make
+He bolted right out of there	NO_MATCH	1.0	color, make
+make sure you bolt the door	NO_MATCH	1.0	color, make
+That's a 220 volt line	Vehicle	1.0	color, make, model
+I grew up in a suburban town	Vehicle	1.0	color, make
+My favore vacation spot is Lake Tahoe	NO_MATCH	1.0	color, make
+He was a real trailblazer in the field of medicine	Vehicle	1.0	color
+Wy are you always so cavalier about these things?	NO_MATCH	1.0	color, make
+I only care about celebrity news	NO_MATCH	1.0	color, make
+She dyed her hair cobalt blue	Vehicle	1.0	color, make
+i always ride the metro in DC	NO_MATCH	1.0	color, make
+my dream is to go to monte carlo	NO_MATCH	1.0	color, make, model
+did you catch the last episode of nova	NO_MATCH	1.0	color, make
+I always root for "nova	NO_MATCH	1.0	color, make
+someday soon Betelgeuse is going to nova	NO_MATCH	1.0	color, make
+my kid has to wear a green blazer to school	Vehicle	0.9	color, make, model
+I love Cruella DeVille	NO_MATCH	1.0	color, make
+I ike to drink beer and play darts	Vehicle	1.0	color, make
+She just darted out of the room	NO_MATCH	1.0	color, make
+i bought that horse when he was just a colt	Vehicle	1.0	color, make
+He was carrying a colt	Vehicle	1.0	color, make
+They were drinking colt 45	NO_MATCH	1.0	color, make
+he was the challenger on the game show	NO_MATCH	1.0	color, make
+My niece is going to Daytona Beach for spring break	NO_MATCH	1.0	color, make
+We shadowed the suspect for 3 hours	NO_MATCH	1.0	color, make
+You'd be afraid of your own shadow	NO_MATCH	1.0	color, make
+In the name of the father, and of the son, and of the holy spirit	Vehicle	1.0	color, make
+i only drink spirits	NO_MATCH	1.0	color, make
+i'll be there in spirit	NO_MATCH	1.0	color, make
+Where's your team spirit?	NO_MATCH	1.0	color, make
+i'm taking a journey next month	Vehicle	1.0	color, make, model
+she worked nights as an escort	NO_MATCH	1.0	color, make
+I live in the Fairmont section of the city	NO_MATCH	1.0	color, make
+we're gonna have a fiesta this weekend!	Vehicle	1.0	color, make, model
+He was the focus of the investigation	Vehicle	1.0	color, make
+Focus on what you're doing	Vehicle	1.0	color, make
+i hope they hurry up and figure out nuclear fusion	Vehicle	1.0	color, make
+it's fusion cuisine: Russian and ethiopian	Vehicle	1.0	color, make
+I hate pinto beans	NO_MATCH	1.0	color, make
+Do you have any idea how huge the galaxy is?	NO_MATCH	1.0	color, make
+He tried to escape, but we managed to catch up with him	Vehicle	1.0	color, make
+He wants to go on an expedition to mt. everest	NO_MATCH	1.0	color, make
+It was a cargo train	Vehicle	1.0	color
+That park ranger looked mighty suspicious	NO_MATCH	1.0	color, make
+They were just passing through hong kong in transit	NO_MATCH	1.0	color, make
+I'm part cherokee	Vehicle	1.0	color, make, model
+they always called him a renegade	Vehicle	1.0	color, make
+give me liberty or give me death	NO_MATCH	1.0	color, make
+I'm not at liberty to say	NO_MATCH	1.0	color, make
+you better take a compass with you if you're gonna go camping there	Vehicle	0.8	color, make
+I don't really consider myself a patriot	Vehicle	1.0	color, make
+Wranglers are my favorite jeans	NO_MATCH	1.0	color, make
+he was my commander in the navy	NO_MATCH	1.0	color, make
+You never heard of prince henry the navigator?	NO_MATCH	1.0	color, make
+i used to be a state trooper	Vehicle	1.0	color, make
+i excel at math	NO_MATCH	1.0	color, make
+My sister lives in tacoma	NO_MATCH	1.0	color, make
+Sienna is the most beautifl city i've ever seen	NO_MATCH	1.0	color, make
+He took his entourage with him to the movies	Vehicle	1.0	color, make
+The beetle was a sacred insect in egypt	Vehicle	1.0	color, make
+how can you hate the beatles?	NO_MATCH	1.0	color, make
+only rich people play golf	NO_MATCH	1.0	color, make
+let's head to the gulf of mexico next weekend	NO_MATCH	1.0	color, make, model

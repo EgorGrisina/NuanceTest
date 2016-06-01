@@ -1,0 +1,208 @@
+05 ford f150 blue crew cab	Vehicle	1.0	make, color
+blue 2007 Chevy Silverado from Nebraska commercial 68–113	Vehicle	0.8
+2016 white Chevy Malibu sedan with tinted windows.	Vehicle	1.0
+red 2010 Ford Mustang with broken rear window and rims	Vehicle	0.8	color
+red Chevrolet 4 door tag # ABC123	Vehicle	0.9	color, year
+blue Dodge Ram from Illinois 123 ADAM BOY CHARLIE	Vehicle	0.8
+A 2015, blue hyundai sonata occupied 2 times	Vehicle	0.7
+blue Ford Crown Vic with Missouri License: Frank Mary 4 William 0 Union at 169 and Cliff, occupied 1 time	Vehicle	0.7	make, color
+white ford pickup with license plate ABC123	Vehicle	1.0	make, color, year
+black Chevy Silverado, with tinted windows, bearing New Mexico plate 123ABC	Vehicle	0.8	color, year
+vehicle is a red Dodge Ram with plate XXX-Xxx	Vehicle	0.7
+red 4 door pickup truck with Colorado plates	Vehicle	0.8	color
+The suspicious vehicle is a grey 4-door sedan maybe a Honda Civic	NO_INTENT	0.7
+It is a blue honda civic, that is heading north bound on E123 from Phillips	NO_INTENT	0.6
+143 Dispatch 10-44 on a red Ford f150, Kansas 28 *****X, occupied 2x (and any distinguishing marks)	Vehicle	0.6
+Suspicious vehicle older 90's brown Chevrolet suv, California 4 David john Adam 347.	Vehicle	0.3
+blue Chevy sedan with Arizona license abc123	Vehicle	0.7	year
+10-28 CA plate 4ETD35, blue 2 door passenger vehicle.	Vehicle	0.8
+Newer vehicle, blue in color, possibly Chevrolet Impala with 2 subjects in the vehicle.	NO_INTENT	0.6
+1993 Nissan Sentra with Illinois License 123ABC Burgundy Color, Primer Grey on right fender	Vehicle	0.8	year
+I'll be out with a vehicle at main and cross St bearing mo plate of 12345 on a white 4d passenger car occupied times two.	NO_INTENT	0.7
+a black, late-model Ford truck on the North Bound shoulder of the highway with, what appears to be, one occupant.	NO_INTENT	0.5	color
+suspicious vehicle is a red 2015 Scion FR-S, 2 door, Washington Plate AXM1254	Vehicle	0.5	year
+grey Honda accord from Colorado plate 123-Adam Baker Charles	Vehicle	0.8	year
+Suspicious vehicle is a red 2004 ford Taurus with tinted windows, occupied x3.	Vehicle	0.6
+red Ford explorer with a brush guard, 10-28 Florida ABC123	Vehicle	0.7	make, color, year
+the suspect is male with blue eyes	NO_INTENT	0.6
+black female wearing maroon jeans	Vehicle	0.9	color
+Sheldon Cooper	NO_MATCH	1.0
+dr. Sheldon Cooper	NO_MATCH	1.0
+white male, 1993 YOB	Vehicle	1.0	color, year
+who is owner of case 12 car	NO_INTENT	0.9
+1993 YOB white male	Vehicle	1.0	year
+planet saturn	NO_MATCH	1.0
+White male 5'11" around 180lbs with brown hair blue eyes and no facial hair or glasses	Vehicle	0.8	color
+Male black wearing a red hoodie blue jeans and a white hat	Vehicle	0.7
+call a cab	NO_INTENT	0.6
+can you skip the commercials?	NO_INTENT	1.0
+his glasses had a pink tint to them	Vehicle	0.5
+the residence has a broken front window	NO_INTENT	0.8
+i can't afford that!	NO_INTENT	0.6
+i want to go to Malibu!	NO_INTENT	0.8
+we went on vacation and saw the wild mustangs	NO_INTENT	0.8
+there were 2 doors to the residence	NO_INTENT	1.0
+she had to choose one of the four doors	NO_INTENT	0.9
+they were playing dodge ball when she rammed her fist against the wall for no reason	NO_INTENT	0.7
+my sign is aires, the ram	NO_INTENT	0.8
+every saturday they blow a ram's horn	NO_INTENT	0.7
+my favorite piece by Beethoven is the Moonlight Sonata	NO_INTENT	0.8
+they pulled the crown right off her head	NO_INTENT	0.8
+then the baby started to crown	NO_INTENT	0.8
+his name is Vic Arturian	NO_INTENT	0.6
+Victoria Gabriels, 23, white female	Vehicle	1.0
+do you want me to tag you in this picture?	NO_INTENT	0.8
+The kids were playing tag	NO_INTENT	0.8
+she had a skin tag on her neck	NO_INTENT	0.7
+the suspects tagged the building and then ran off	NO_INTENT	0.9
+this tag on the inside of my shirt is really bugging me	NO_INTENT	0.8
+ooh what was the price tag on that?	NO_INTENT	0.8
+she drank a few shots of crown royal	NO_INTENT	0.8
+i was feeling really blue yesterday	Vehicle	0.7
+he was the best blues saxophonist of the 60s	NO_INTENT	0.9
+you're looking a bit blue in the face	NO_INTENT	0.7
+the company ended up in the black after all	NO_INTENT	0.7
+then they called him up to the blackboard	NO_INTENT	0.7
+look at that blackbird over there	NO_INTENT	0.6
+they dressed up in blackface all the time in the 20s	NO_INTENT	0.9
+i don't wanna get blackballed/blacklisted	NO_INTENT	0.6
+they blackened out the windows in her aparment	NO_INTENT	0.8
+there was a blackout last night	NO_INTENT	0.6
+there was a brownout last night	NO_INTENT	0.6
+use some white out and fix it	Vehicle	0.7
+i have an appointment to whiten my teeth tomorrow	NO_INTENT	0.8
+Mr. John Black	Vehicle	0.9
+Mr. John White	Vehicle	1.0
+Mr. John Brown/Browne	NO_INTENT	0.6
+Mr. John Green/Greene	Vehicle	0.9
+Mr. John Gray/Grey	Vehicle	1.0
+I baked a batch of brownies last night	NO_INTENT	0.8
+Don't you think she's a bit green for this job?	Vehicle	0.7
+There's no greenery in this part of town	NO_INTENT	0.7
+eat your greens!	NO_MATCH	1.0
+i read this great book last week	NO_INTENT	0.6
+she went all red in the face when i asked her	NO_INTENT	0.6
+i don't want them to think i'm yellow	Vehicle	0.5
+pass me that orange?	NO_INTENT	0.6
+i planted some violets in my flowerbox.	NO_INTENT	0.7
+i ain't no pinko	NO_INTENT	0.5
+they're all reds over there	NO_MATCH	1.0
+pass me a stick of big red	NO_INTENT	0.4
+i want to go to florida and get a tan	NO_INTENT	0.8
+there's a window of 10 minutes to log on	NO_INTENT	0.7
+he recorded it on his dashcam	NO_INTENT	0.7
+there's a car parked in the rear/front of the building	NO_INTENT	0.9
+i bought a set of dinner plates last night	NO_INTENT	0.8
+the bracelet was gold plated	NO_INTENT	0.5
+he has a steel plate in his head	NO_INTENT	0.7
+he tried to give her a pick-up line	NO_INTENT	0.7
+I've gotta pick up the kids at 4	NO_INTENT	0.7
+pick up those papers from the floor	NO_INTENT	0.8
+Things are sure to pick up later on	NO_INTENT	0.7
+I didn't pick up on that right away	NO_INTENT	0.7
+she has to get her license first	NO_INTENT	0.7
+why don't they offer civics class any more in school?	NO_INTENT	0.7
+Ms. Georgia Jones	NO_MATCH	1.0
+Ms. Virginia Jones	NO_MATCH	1.0
+Ms. Caroline Jones	NO_MATCH	1.0
+he ran the 100 yard dash last year	NO_INTENT	0.9
+you need to put a dash there	NO_INTENT	0.8
+he was wearing vans	NO_INTENT	0.6
+van gogh is my favorite painter	NO_INTENT	0.5
+she bought a convertible car seat	NO_INTENT	0.4
+i saw an impala at the zoo last week	NO_INTENT	0.9
+i drank a whole bottle of burgundy last week	NO_INTENT	0.8
+the passengers on the plane were all shouting	NO_INTENT	0.9
+i can play a chord on the guitar	NO_INTENT	0.8
+we were all in accord with one another	NO_INTENT	0.7
+he wrapped a cord around her neck	NO_INTENT	0.7
+My daughter is a taurus	NO_INTENT	0.6
+what other explorer do you know besides dora?	NO_INTENT	0.4
+Ms. Portia Jones	NO_MATCH	1.0
+Ms. Mercedes Jones	Vehicle	0.7
+He's a smart boy	NO_INTENT	0.7
+That smarts!	NO_INTENT	0.6
+That Outfit is smart!	NO_INTENT	0.6
+That's an accurate description...	NO_MATCH	1.0
+The biggest number is infinity plus 1	NO_INTENT	0.8
+Why don't you go then?	NO_INTENT	0.6
+Ms. Kia Jones	NO_MATCH	1.0
+She reported with lacerations on her vulva	NO_INTENT	0.6
+Mr. George Bentley	NO_INTENT	0.6
+The kid was killed by a wild jaguar	NO_INTENT	0.9
+Lincoln was the best Republican ever.	NO_INTENT	0.5
+Mr. Lincoln Jones	Vehicle	0.9
+Mr. John Lincoln	Vehicle	0.9
+The pilgrims landed on Plymouth rock	NO_INTENT	0.9
+Saturn was a roman god	NO_INTENT	0.6
+I have a huge fear of spiders	NO_INTENT	0.8
+I used to play lacrosse in high school	NO_INTENT	0.8
+I didn;t know she was so intrepid	NO_INTENT	0.6
+that neon sign has been broken for ages	NO_INTENT	0.6
+Mary Rogers from Lucerne, PA	NO_INTENT	0.5
+She looked quite regal in that dress	NO_INTENT	0.7
+it's next to the Pacific ocean	NO_INTENT	1.0
+Usain Bolt is really fast	NO_INTENT	0.6
+They vacationed on the Riviera	NO_INTENT	0.8
+He bolted right out of there	NO_INTENT	0.8
+make sure you bolt the door	NO_INTENT	1.0
+That's a 220 volt line	NO_INTENT	0.7	year
+I grew up in a suburban town	NO_INTENT	0.8
+My favore vacation spot is Lake Tahoe	NO_INTENT	0.6
+He was a real trailblazer in the field of medicine	NO_INTENT	0.7
+Wy are you always so cavalier about these things?	NO_INTENT	0.5
+I only care about celebrity news	NO_INTENT	0.6
+She dyed her hair cobalt blue	Vehicle	0.8
+i always ride the metro in DC	NO_INTENT	0.9
+my dream is to go to monte carlo	NO_INTENT	0.8
+did you catch the last episode of nova	NO_INTENT	1.0
+I always root for "nova	NO_INTENT	0.6
+someday soon Betelgeuse is going to nova	NO_INTENT	0.8
+my kid has to wear a green blazer to school	NO_INTENT	0.6
+I love Cruella DeVille	NO_INTENT	0.6
+I ike to drink beer and play darts	NO_INTENT	0.8
+She just darted out of the room	NO_INTENT	0.7
+i bought that horse when he was just a colt	NO_INTENT	0.7
+He was carrying a colt	NO_INTENT	0.7
+They were drinking colt 45	NO_INTENT	0.6
+he was the challenger on the game show	NO_INTENT	0.9
+My niece is going to Daytona Beach for spring break	NO_INTENT	0.8
+We shadowed the suspect for 3 hours	NO_INTENT	0.8
+You'd be afraid of your own shadow	NO_INTENT	0.9
+In the name of the father, and of the son, and of the holy spirit	NO_INTENT	1.0
+i only drink spirits	NO_INTENT	0.6
+i'll be there in spirit	NO_INTENT	0.8
+Where's your team spirit?	NO_MATCH	1.0
+i'm taking a journey next month	NO_INTENT	0.7
+she worked nights as an escort	NO_INTENT	0.6
+I live in the Fairmont section of the city	NO_INTENT	1.0
+we're gonna have a fiesta this weekend!	NO_INTENT	0.7
+He was the focus of the investigation	NO_INTENT	0.8
+Focus on what you're doing	NO_INTENT	0.5
+i hope they hurry up and figure out nuclear fusion	NO_INTENT	0.7
+it's fusion cuisine: Russian and ethiopian	NO_INTENT	0.6
+I hate pinto beans	NO_INTENT	0.6
+Do you have any idea how huge the galaxy is?	NO_INTENT	0.8
+He tried to escape, but we managed to catch up with him	NO_INTENT	0.8
+He wants to go on an expedition to mt. everest	NO_INTENT	0.8
+It was a cargo train	NO_INTENT	0.6
+That park ranger looked mighty suspicious	NO_INTENT	0.6
+They were just passing through hong kong in transit	NO_INTENT	0.6
+I'm part cherokee	Vehicle	0.4
+they always called him a renegade	NO_INTENT	0.7
+give me liberty or give me death	NO_INTENT	0.6
+I'm not at liberty to say	NO_INTENT	0.8
+you better take a compass with you if you're gonna go camping there	NO_INTENT	0.7
+I don't really consider myself a patriot	NO_INTENT	0.6
+Wranglers are my favorite jeans	NO_INTENT	0.5
+he was my commander in the navy	NO_INTENT	0.8
+You never heard of prince henry the navigator?	NO_INTENT	1.0
+i used to be a state trooper	NO_INTENT	0.8
+i excel at math	NO_INTENT	0.6
+My sister lives in tacoma	NO_INTENT	0.8
+Sienna is the most beautifl city i've ever seen	NO_INTENT	0.9
+He took his entourage with him to the movies	NO_INTENT	0.7
+The beetle was a sacred insect in egypt	NO_INTENT	0.9
+how can you hate the beatles?	NO_INTENT	1.0
+only rich people play golf	NO_INTENT	0.6
+let's head to the gulf of mexico next weekend	NO_INTENT	1.0

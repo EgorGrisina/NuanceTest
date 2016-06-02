@@ -13,15 +13,15 @@ public class Configuration {
 
     //All fields are required.
     //Your credentials can be found in your Nuance Developers portal, under "Manage My Apps".
-    public static final String APP_KEY = "c6f7955f6c311040ac0f26cd374d317f46223cc68a8c3b77cbf3fb319ee28b64d921c44652d486fee3accb1af9fd993f1fd506a96241212d341c5ed2feea37d7";
-    public static final String APP_ID = "NMDPTRIAL_w_lin_motorolasolutions_com20150707114019";
+    public static final String APP_KEY = "6793eaeb6bcc8103065cbca73d880ffe9e17bbef549abce1a2d0bb368d488ef4dc78df4744604a4abd06f1fa8e01f82d18b41c6c4ed94df0a908263651b42b2d";
+    public static final String APP_ID = "HTTP_NMDPPRODUCTION_Wei_Lin_VIP_20150708101837";
     public static final String SERVER_HOST = "nmsps.dev.nuance.com";
     public static final String SERVER_PORT = "443";
 
     public static final Uri SERVER_URI = Uri.parse("nmsps://" + APP_ID + "@" + SERVER_HOST + ":" + SERVER_PORT);
 
     //Only needed if using NLU
-    public static final String CONTEXT_TAG = "M2706_A1265_V1";
+    public static final String CONTEXT_TAG = "M2724_A1266_V1";
 
     public static final PcmFormat PCM_FORMAT = new PcmFormat(PcmFormat.SampleFormat.SignedLinear16, 16000, 1);
 }

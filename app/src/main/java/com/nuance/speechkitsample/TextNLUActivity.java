@@ -69,7 +69,7 @@ public class TextNLUActivity extends DetailActivity implements View.OnClickListe
     int currentPosition = 0;
 
     final String DIR_SD  = "NuanceTesting";
-    final String FILENAME_SD  = "TestResults.txt";
+    final String FILENAME_SD  = "M2724_A1265_V1.txt";
 
     ObjectMapper MAPPER = new ObjectMapper();
 
